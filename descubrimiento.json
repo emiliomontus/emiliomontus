@@ -1,0 +1,52 @@
+[
+    {
+        "pregunta": "¿En qué año llegó Cristóbal Colón a América?",
+        "opciones": ["1492", "1500", "1453", "1519"],
+        "respuesta": "1492"
+    },
+    {
+        "pregunta": "¿Qué monarcas financiaron el viaje de Cristóbal Colón?",
+        "opciones": ["Carlos V", "Los Reyes Católicos", "Felipe II", "Enrique VIII"],
+        "respuesta": "Los Reyes Católicos"
+    },
+    {
+        "pregunta": "¿Cómo se llamaba la carabela en la que viajaba Cristóbal Colón?",
+        "opciones": ["La Pinta", "La Santa María", "La Niña", "La Victoria"],
+        "respuesta": "La Santa María"
+    },
+    {
+        "pregunta": "¿Cuál fue la primera isla en la que desembarcó Colón?",
+        "opciones": ["Cuba", "Puerto Rico", "Guanahaní", "Hispaniola"],
+        "respuesta": "Guanahaní"
+    },
+    {
+        "pregunta": "¿Cómo llamó Cristóbal Colón a los habitantes de América?",
+        "opciones": ["Indígenas", "Indios", "Nativos", "Salvajes"],
+        "respuesta": "Indios"
+    },
+    {
+        "pregunta": "¿Cuántos viajes realizó Colón a América?",
+        "opciones": ["Uno", "Cuatro", "Tres", "Cinco"],
+        "respuesta": "Cuatro"
+    },
+    {
+        "pregunta": "¿Qué tratado dividió las tierras descubiertas entre España y Portugal?",
+        "opciones": ["Tratado de Tordesillas", "Tratado de París", "Tratado de Versalles", "Tratado de Utrecht"],
+        "respuesta": "Tratado de Tordesillas"
+    },
+    {
+        "pregunta": "¿Quién fue el primer europeo en darse cuenta de que América era un continente distinto?",
+        "opciones": ["Cristóbal Colón", "Fernando de Magallanes", "Américo Vespucio", "Hernán Cortés"],
+        "respuesta": "Américo Vespucio"
+    },
+    {
+        "pregunta": "¿Qué nombre recibió América en honor a Américo Vespucio?",
+        "opciones": ["Las Indias", "Nuevo Mundo", "Tierra Firme", "Occidente"],
+        "respuesta": "Nuevo Mundo"
+    },
+    {
+        "pregunta": "¿En qué ciudad murió Cristóbal Colón?",
+        "opciones": ["Sevilla", "Madrid", "Valladolid", "Lisboa"],
+        "respuesta": "Valladolid"
+    }
+]

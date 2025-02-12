@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HistoriApp</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div id="pantalla-inicio" class="pantalla activa">
+        <h1>HistoriApp</h1>
+        <button id="btn-play">Play</button>
+    </div>
+    
+    <div id="pantalla-menu" class="pantalla">
+        <h2>Selecciona un tema</h2>
+        <ul id="lista-temas"></ul>
+    </div>
+    
+    <div id="pantalla-cuestionario" class="pantalla">
+        <div id="pregunta-container"></div>
+        <ul id="opciones"></ul>
+        <div id="explicacion-container" class="oculto"></div>
+        <button id="btn-continuar" class="oculto">Continuar</button>
+    </div>
+    
+    <div id="pantalla-resultados" class="pantalla">
+        <h2>Resultados</h2>
+        <p>Aciertos: <span id="aciertos"></span></p>
+        <p>Fallos: <span id="fallos"></span></p>
+        <p>Puntos: <span id="puntos"></span></p>
+        <button id="btn-finalizar">Finalizar</button>
+    </div>
+    
+    <script>
+        document.getElementById("btn-play").addEventListener("click", function() {
+            cambiarPantalla("pantalla-menu");
+            cargarTemas();
+        });
+
+        function cambiarPantalla(idPantalla) {
+            document.querySelectorAll(".pantalla").forEach(pantalla => pantalla.classList.remove("activa"));
+            document.getElementById(idPantalla).classList.add("activa");
+        }
+
+        function cargarTemas() {
+            fetch("menu_temas.json")
+                .then(response => response.json())
+                .then(data => {
+                    let listaTemas = document.getElementById("lista-temas");
+
+            data.forEach(tema => {
+                let item = document.createElement("li");
+                item.textContent = tema.tema; // Acceder correctamente al nombre del tema
+                item.addEventListener("click", function() {
+                    iniciarCuestionario(tema.cuestionario);
+                });
+                listaTemas.appendChild(item); // Agregar el elemento <li> a la lista
+            });
+        })
+        }
+        
+        function iniciarCuestionario(archivoCuestionario) {
+            fetch(archivoCuestionario)
+                .then(response => response.json())
+                .then(data => {
+                    let preguntas = data.preguntas.sort(() => 0.5 - Math.random()).slice(0, 10);
+                    mostrarPregunta(preguntas, 0, 0, 0);
+                });
+            cambiarPantalla("pantalla-cuestionario");
+        }
+
+        function mostrarPregunta(preguntas, indice, aciertos, fallos) {
+            if (indice >= preguntas.length) {
+                document.getElementById("aciertos").textContent = aciertos;
+                document.getElementById("fallos").textContent = fallos;
+                document.getElementById("puntos").textContent = aciertos * 10;
+                cambiarPantalla("pantalla-resultados");
+                return;
+            }
+
+            let preguntaActual = preguntas[indice];
+            document.getElementById("pregunta-container").textContent = preguntaActual.pregunta;
+            let opciones = document.getElementById("opciones");
+            opciones.innerHTML = "";
+
+            preguntaActual.opciones.forEach(opcion => {
+                let li = document.createElement("li");
+                li.textContent = opcion;
+                li.addEventListener("click", function() {
+                    let correcta = opcion === preguntaActual.respuesta_correcta;
+                    document.getElementById("pregunta-container").style.backgroundColor = correcta ? "green" : "red";
+                    if (!correcta) li.style.backgroundColor = "red";
+                    setTimeout(() => mostrarPregunta(preguntas, indice + 1, correcta ? aciertos + 1 : aciertos, correcta ? fallos : fallos + 1), 3000);
+                });
+                opciones.appendChild(li);
+            });
+        }
+
+        document.getElementById("btn-finalizar").addEventListener("click", function() {
+            cambiarPantalla("pantalla-menu");
+        });
+    </script>
+</body>
+</html>

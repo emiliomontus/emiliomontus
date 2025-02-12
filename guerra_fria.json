@@ -1,0 +1,65 @@
+{
+    "preguntas": [
+      {
+        "pregunta": "¿En qué año comenzó oficialmente la Guerra Fría?",
+        "opciones": ["1945", "1947", "1950", "1961"],
+        "respuesta_correcta": "1947",
+        "explicación": "La Guerra Fría comenzó en 1947 con la Doctrina Truman, en la que EE.UU. declaró su intención de contener la expansión del comunismo."
+      },
+      {
+        "pregunta": "¿Cuál fue el principal enfrentamiento ideológico en la Guerra Fría?",
+        "opciones": ["Capitalismo vs. Fascismo", "Comunismo vs. Capitalismo", "Democracia vs. Monarquía", "Conservadurismo vs. Liberalismo"],
+        "respuesta_correcta": "Comunismo vs. Capitalismo",
+        "explicación": "La Guerra Fría enfrentó a EE.UU. y la URSS, representando el capitalismo y el comunismo, respectivamente."
+      },
+      {
+        "pregunta": "¿Qué conflicto se considera un símbolo de la Guerra Fría?",
+        "opciones": ["Guerra de Vietnam", "Guerra de los Cien Años", "Guerra Franco-Prusiana", "Guerra de Ucrania"],
+        "respuesta_correcta": "Guerra de Vietnam",
+        "explicación": "La Guerra de Vietnam (1955-1975) fue un conflicto entre el Norte comunista, apoyado por la URSS y China, y el Sur, respaldado por EE.UU."
+      },
+      {
+        "pregunta": "¿Cuál de estos eventos NO ocurrió durante la Guerra Fría?",
+        "opciones": ["Crisis de los Misiles en Cuba", "Caída del Muro de Berlín", "Ataques del 11 de septiembre", "Mayo del 68"],
+        "respuesta_correcta": "Ataques del 11 de septiembre",
+        "explicación": "Los ataques del 11 de septiembre ocurrieron en 2001, después del fin de la Guerra Fría en 1991."
+      },
+      {
+        "pregunta": "¿Qué estructura física simbolizaba la división entre el bloque comunista y el capitalista?",
+        "opciones": ["El Muro de Berlín", "La Gran Muralla China", "El Telón de Acero", "Muro de Trump"],
+        "respuesta_correcta": "El Muro de Berlín",
+        "explicación": "El Muro de Berlín, construido en 1961, separó Berlín Oriental (comunista) de Berlín Occidental (capitalista) hasta 1989."
+      },
+      {
+        "pregunta": "¿Cuál de estos tratados contribuyó al fin de la Guerra Fría?",
+        "opciones": ["Tratado de Versalles", "Tratado INF", "Pacto de Varsovia", "Acuerdos de paz de París"],
+        "respuesta_correcta": "Tratado INF",
+        "explicación": "El Tratado INF (1987) entre EE.UU. y la URSS eliminó misiles de alcance intermedio y ayudó a reducir tensiones."
+      },
+      {
+        "pregunta": "¿Cuál fue una de las causas principales del colapso de la Unión Soviética?",
+        "opciones": ["La Guerra de Corea", "Reformas de Gorbachov", "Intervención en Afganistán", "La muerte de Stalin"],
+        "respuesta_correcta": "Reformas de Gorbachov",
+        "explicación": "Las reformas de Gorbachov, como la Perestroika y la Glasnost, debilitaron el control del Estado y aceleraron el colapso de la URSS en 1991."
+      },
+      {
+        "pregunta": "¿Qué fue la Doctrina Truman?",
+        "opciones": ["Un plan para reconstruir Europa", "Una estrategia para frenar el comunismo", "Un tratado de desarme nuclear", "Un tratado de paz con la Unión Soviética"],
+        "respuesta_correcta": "Una estrategia para frenar el comunismo",
+        "explicación": "La Doctrina Truman (1947) declaró que EE.UU. apoyaría a países amenazados por el comunismo, marcando el inicio de la Guerra Fría."
+      },
+      {
+        "pregunta": "¿Qué significó el 'Telón de Acero'?",
+        "opciones": ["Una barrera física entre EE.UU. y la URSS", "La división política e ideológica en Europa", "Un arma secreta de la URSS", "Una operación militar"],
+        "respuesta_correcta": "La división política e ideológica en Europa",
+        "explicación": "El 'Telón de Acero' fue un término usado por Winston Churchill en 1946 para describir la separación entre Europa Occidental y Oriental."
+      },
+      {
+        "pregunta": "¿Qué organización militar fue creada por los EE.UU. y sus aliados en 1949?",
+        "opciones": ["OTAN", "ONU", "Pacto de Varsovia", "Unión Europea"],
+        "respuesta_correcta": "OTAN",
+        "explicación": "La OTAN (Organización del Tratado del Atlántico Norte) fue fundada en 1949 para la defensa colectiva contra la URSS."
+      }
+    ]
+  }
+    

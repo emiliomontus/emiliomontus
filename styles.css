@@ -1,0 +1,46 @@
+        body {
+            font-family: Arial, sans-serif;
+            font-size: 20px;
+            background-color: white;
+            text-align: center;
+            color: #333;
+        }
+        .pantalla {
+            display: none;
+            padding: 20px;
+        }
+        .pantalla.activa {
+            display: block;
+        }
+        .pantalla h1, .pantalla h2 {
+            font-size: 32px;
+            color: #007BFF;
+        }
+        button {
+            font-size: 24px;
+            padding: 10px 20px;
+            margin-top: 20px;
+            background-color: #28a745;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #218838;
+        }
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+        li {
+            font-size: 22px;
+            padding: 10px;
+            margin: 5px;
+            background-color: #ffc107;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        li:hover {
+            background-color: #e0a800;
+        }
