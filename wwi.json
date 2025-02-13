@@ -1,0 +1,302 @@
+[
+  {
+    "pregunta": "¿En qué año comenzó la Primera Guerra Mundial?",
+    "opciones": ["1912", "1914", "1916", "1918"],
+    "respuesta_correcta": "1914",
+    "explicación": "La Primera Guerra Mundial comenzó en 1914 tras el asesinato del archiduque Francisco Fernando de Austria."
+  },
+  {
+    "pregunta": "¿Cuál fue el evento desencadenante de la Primera Guerra Mundial?",
+    "opciones": ["La invasión de Polonia", "El asesinato del archiduque Francisco Fernando", "La Revolución Rusa", "El hundimiento del Lusitania"],
+    "respuesta_correcta": "El asesinato del archiduque Francisco Fernando",
+    "explicación": "El asesinato del archiduque Francisco Fernando de Austria en Sarajevo en 1914 fue el evento que desencadenó la guerra."
+  },
+  {
+    "pregunta": "¿Qué países formaban parte de las Potencias Centrales?",
+    "opciones": ["Francia, Rusia, Reino Unido", "Alemania, Austria-Hungría, Imperio Otomano", "Estados Unidos, Italia, Japón", "Bélgica, Serbia, Grecia"],
+    "respuesta_correcta": "Alemania, Austria-Hungría, Imperio Otomano",
+    "explicación": "Las Potencias Centrales estaban formadas principalmente por Alemania, Austria-Hungría y el Imperio Otomano."
+  },
+  {
+    "pregunta": "¿Qué tratado puso fin a la Primera Guerra Mundial?",
+    "opciones": ["Tratado de Versalles", "Tratado de París", "Tratado de Tordesillas", "Tratado de Ginebra"],
+    "respuesta_correcta": "Tratado de Versalles",
+    "explicación": "El Tratado de Versalles, firmado en 1919, puso fin oficialmente a la Primera Guerra Mundial."
+  },
+  {
+    "pregunta": "¿Qué país se unió a la guerra en 1917, inclinando la balanza a favor de los Aliados?",
+    "opciones": ["Italia", "Japón", "Estados Unidos", "España"],
+    "respuesta_correcta": "Estados Unidos",
+    "explicación": "Estados Unidos se unió a la guerra en 1917, proporcionando refuerzos cruciales para los Aliados."
+  },
+  {
+    "pregunta": "¿Qué batalla es conocida por ser una de las más largas y sangrientas de la Primera Guerra Mundial?",
+    "opciones": ["Batalla de Verdún", "Batalla del Somme", "Batalla de Gallipoli", "Batalla de Marne"],
+    "respuesta_correcta": "Batalla de Verdún",
+    "explicación": "La Batalla de Verdún, librada en 1916, es conocida por su duración y el alto número de bajas."
+  },
+  {
+    "pregunta": "¿Qué arma química fue utilizada por primera vez en la Primera Guerra Mundial?",
+    "opciones": ["Gas mostaza", "Gas cloro", "Gas sarín", "Gas nervioso"],
+    "respuesta_correcta": "Gas cloro",
+    "explicación": "El gas cloro fue utilizado por primera vez en la Batalla de Ypres en 1915."
+  },
+  {
+    "pregunta": "¿Qué país cambió de bando durante la guerra, uniéndose a los Aliados en 1915?",
+    "opciones": ["Italia", "Bulgaria", "Rumania", "Grecia"],
+    "respuesta_correcta": "Italia",
+    "explicación": "Italia cambió de bando en 1915, uniéndose a los Aliados tras firmar el Tratado de Londres."
+  },
+  {
+    "pregunta": "¿Qué fue la 'Tierra de Nadie' en la Primera Guerra Mundial?",
+    "opciones": ["Una zona neutral entre trincheras", "Un campo de batalla en África", "Una región desmilitarizada en Alemania", "Una isla en el Pacífico"],
+    "respuesta_correcta": "Una zona neutral entre trincheras",
+    "explicación": "La 'Tierra de Nadie' era la zona neutral y peligrosa entre las trincheras de los ejércitos opuestos."
+  },
+  {
+    "pregunta": "¿Qué imperio se desintegró al final de la Primera Guerra Mundial?",
+    "opciones": ["Imperio Británico", "Imperio Austrohúngaro", "Imperio Ruso", "Imperio Japonés"],
+    "respuesta_correcta": "Imperio Austrohúngaro",
+    "explicación": "El Imperio Austrohúngaro se desintegró al final de la guerra, dando lugar a varios estados independientes."
+  },
+  {
+    "pregunta": "¿Qué país fue el primero en declarar la guerra en la Primera Guerra Mundial?",
+    "opciones": ["Alemania", "Austria-Hungría", "Rusia", "Francia"],
+    "respuesta_correcta": "Austria-Hungría",
+    "explicación": "Austria-Hungría fue el primer país en declarar la guerra a Serbia el 28 de julio de 1914."
+  },
+  {
+    "pregunta": "¿Qué batalla naval importante tuvo lugar en 1916?",
+    "opciones": ["Batalla de Jutlandia", "Batalla de Midway", "Batalla del Atlántico", "Batalla de Trafalgar"],
+    "respuesta_correcta": "Batalla de Jutlandia",
+    "explicación": "La Batalla de Jutlandia fue la mayor batalla naval de la Primera Guerra Mundial, librada entre la Royal Navy británica y la Kaiserliche Marine alemana."
+  },
+  {
+    "pregunta": "¿Qué país sufrió la mayor cantidad de bajas durante la Primera Guerra Mundial?",
+    "opciones": ["Francia", "Rusia", "Alemania", "Reino Unido"],
+    "respuesta_correcta": "Rusia",
+    "explicación": "Rusia sufrió la mayor cantidad de bajas durante la Primera Guerra Mundial, con millones de soldados y civiles muertos."
+  },
+  {
+    "pregunta": "¿Qué fue el Plan Schlieffen?",
+    "opciones": ["Un plan de invasión de Francia por Alemania", "Un tratado de paz", "Una alianza militar", "Un plan de defensa de Rusia"],
+    "respuesta_correcta": "Un plan de invasión de Francia por Alemania",
+    "explicación": "El Plan Schlieffen fue una estrategia alemana para invadir Francia rápidamente a través de Bélgica."
+  },
+  {
+    "pregunta": "¿Qué país fue invadido por Alemania al comienzo de la guerra?",
+    "opciones": ["Bélgica", "Suiza", "España", "Italia"],
+    "respuesta_correcta": "Bélgica",
+    "explicación": "Alemania invadió Bélgica al comienzo de la guerra como parte del Plan Schlieffen."
+  },
+  {
+    "pregunta": "¿Qué fue la 'Guerra de Trincheras'?",
+    "opciones": ["Una táctica de guerra aérea", "Una forma de combate en trincheras", "Una batalla naval", "Un tipo de guerra química"],
+    "respuesta_correcta": "Una forma de combate en trincheras",
+    "explicación": "La 'Guerra de Trincheras' se refiere al combate en trincheras, característico de la Primera Guerra Mundial."
+  },
+  {
+    "pregunta": "¿Qué país se retiró de la guerra en 1917 debido a una revolución interna?",
+    "opciones": ["Italia", "Rusia", "Francia", "Reino Unido"],
+    "respuesta_correcta": "Rusia",
+    "explicación": "Rusia se retiró de la guerra en 1917 debido a la Revolución Rusa y la firma del Tratado de Brest-Litovsk."
+  },
+  {
+    "pregunta": "¿Qué fue el Lusitania?",
+    "opciones": ["Un barco de guerra alemán", "Un submarino británico", "Un barco de pasajeros hundido por un submarino alemán", "Un avión de combate"],
+    "respuesta_correcta": "Un barco de pasajeros hundido por un submarino alemán",
+    "explicación": "El Lusitania fue un barco de pasajeros británico hundido por un submarino alemán en 1915, lo que provocó la indignación internacional."
+  },
+  {
+    "pregunta": "¿Qué país fue el último en unirse a la guerra en 1918?",
+    "opciones": ["Grecia", "Estados Unidos", "Brasil", "Japón"],
+    "respuesta_correcta": "Grecia",
+    "explicación": "Grecia fue el último país en unirse a la guerra en 1918, uniéndose a los Aliados."
+  },
+  {
+    "pregunta": "¿Qué fue el Armisticio del 11 de noviembre de 1918?",
+    "opciones": ["Un tratado de paz", "Un alto el fuego que puso fin a los combates", "Una alianza militar", "Una ofensiva militar"],
+    "respuesta_correcta": "Un alto el fuego que puso fin a los combates",
+    "explicación": "El Armisticio del 11 de noviembre de 1918 fue un alto el fuego que puso fin a los combates en la Primera Guerra Mundial."
+  },
+  {
+    "pregunta": "¿Qué líder militar alemán fue conocido como el 'Káiser' durante la Primera Guerra Mundial?",
+    "opciones": ["Otto von Bismarck", "Paul von Hindenburg", "Wilhelm II", "Erich Ludendorff"],
+    "respuesta_correcta": "Wilhelm II",
+    "explicación": "El Káiser Wilhelm II fue el emperador alemán durante la Primera Guerra Mundial."
+  },
+  {
+    "pregunta": "¿Qué país fue el principal aliado de Serbia al comienzo de la guerra?",
+    "opciones": ["Rusia", "Francia", "Reino Unido", "Italia"],
+    "respuesta_correcta": "Rusia",
+    "explicación": "Rusia fue el principal aliado de Serbia al comienzo de la guerra, apoyándola contra Austria-Hungría."
+  },
+  {
+    "pregunta": "¿Qué fue la 'Ofensiva de Primavera' de 1918?",
+    "opciones": ["Una ofensiva alemana en el frente occidental", "Una ofensiva aliada en el frente oriental", "Una batalla naval en el Atlántico", "Una campaña aérea sobre Londres"],
+    "respuesta_correcta": "Una ofensiva alemana en el frente occidental",
+    "explicación": "La 'Ofensiva de Primavera' de 1918 fue una serie de ataques alemanes en el frente occidental para intentar ganar la guerra antes de que llegaran refuerzos estadounidenses."
+  },
+  {
+    "pregunta": "¿Qué país fue el primero en utilizar tanques en la guerra?",
+    "opciones": ["Francia", "Alemania", "Reino Unido", "Estados Unidos"],
+    "respuesta_correcta": "Reino Unido",
+    "explicación": "El Reino Unido fue el primero en utilizar tanques en la guerra, debutando en la Batalla del Somme en 1916."
+  },
+  {
+    "pregunta": "¿Qué fue el 'Telegrama Zimmermann'?",
+    "opciones": ["Un mensaje de paz de Alemania", "Una oferta de alianza de Alemania a México", "Una declaración de guerra de Estados Unidos", "Un tratado de paz"],
+    "respuesta_correcta": "Una oferta de alianza de Alemania a México",
+    "explicación": "El 'Telegrama Zimmermann' fue una oferta de alianza de Alemania a México, proponiendo que México atacara a Estados Unidos si este entraba en la guerra."
+  },
+  {
+    "pregunta": "¿Qué país fue el principal rival de Alemania en el frente oriental?",
+    "opciones": ["Francia", "Rusia", "Reino Unido", "Italia"],
+    "respuesta_correcta": "Rusia",
+    "explicación": "Rusia fue el principal rival de Alemania en el frente oriental durante la Primera Guerra Mundial."
+  },
+  {
+    "pregunta": "¿Qué fue la 'Batalla de Gallipoli'?",
+    "opciones": ["Una batalla naval en el Mediterráneo", "Una campaña aliada en Turquía", "Una ofensiva alemana en Francia", "Una batalla aérea sobre Londres"],
+    "respuesta_correcta": "Una campaña aliada en Turquía",
+    "explicación": "La 'Batalla de Gallipoli' fue una campaña aliada en Turquía en 1915, que resultó en una derrota para los Aliados."
+  },
+  {
+    "pregunta": "¿Qué país fue el principal rival de Austria-Hungría en los Balcanes?",
+    "opciones": ["Serbia", "Grecia", "Bulgaria", "Rumania"],
+    "respuesta_correcta": "Serbia",
+    "explicación": "Serbia fue el principal rival de Austria-Hungría en los Balcanes, y su conflicto fue una de las causas de la guerra."
+  },
+  {
+    "pregunta": "¿Qué fue la 'Liga de las Naciones'?",
+    "opciones": ["Una alianza militar", "Una organización internacional para mantener la paz", "Un tratado de paz", "Una campaña militar"],
+    "respuesta_correcta": "Una organización internacional para mantener la paz",
+    "explicación": "La 'Liga de las Naciones' fue una organización internacional creada después de la Primera Guerra Mundial para mantener la paz y prevenir futuras guerras."
+  },
+  {
+    "pregunta": "¿Qué país fue el principal rival de Francia en el frente occidental?",
+    "opciones": ["Alemania", "Austria-Hungría", "Reino Unido", "Italia"],
+    "respuesta_correcta": "Alemania",
+    "explicación": "Alemania fue el principal rival de Francia en el frente occidental durante la Primera Guerra Mundial."
+  },
+  {
+    "pregunta": "¿Qué fue la 'Batalla del Somme'?",
+    "opciones": ["Una batalla naval", "Una ofensiva aliada en el frente occidental", "Una campaña en África", "Una batalla aérea"],
+    "respuesta_correcta": "Una ofensiva aliada en el frente occidental",
+    "explicación": "La Batalla del Somme fue una ofensiva aliada en el frente occidental en 1916, conocida por su alto número de bajas."
+  },
+  {
+    "pregunta": "¿Qué país fue el principal rival de Italia en el frente alpino?",
+    "opciones": ["Alemania", "Austria-Hungría", "Francia", "Rusia"],
+    "respuesta_correcta": "Austria-Hungría",
+    "explicación": "Austria-Hungría fue el principal rival de Italia en el frente alpino durante la Primera Guerra Mundial."
+  },
+  {
+    "pregunta": "¿Qué fue la 'Batalla de Tannenberg'?",
+    "opciones": ["Una batalla naval en el Báltico", "Una victoria alemana sobre Rusia", "Una ofensiva aliada en el frente occidental", "Una campaña en el Medio Oriente"],
+    "respuesta_correcta": "Una victoria alemana sobre Rusia",
+    "explicación": "La Batalla de Tannenberg fue una victoria decisiva de Alemania sobre Rusia en 1914."
+  },
+  {
+    "pregunta": "¿Qué país fue el principal rival de Japón en el Pacífico durante la guerra?",
+    "opciones": ["Alemania", "Estados Unidos", "Reino Unido", "China"],
+    "respuesta_correcta": "Alemania",
+    "explicación": "Japón luchó contra Alemania en el Pacífico, capturando varias de sus colonias."
+  },
+  {
+    "pregunta": "¿Qué fue la 'Batalla de Caporetto'?",
+    "opciones": ["Una batalla naval en el Mediterráneo", "Una victoria alemana sobre Italia", "Una ofensiva aliada en el frente occidental", "Una campaña en África"],
+    "respuesta_correcta": "Una victoria alemana sobre Italia",
+    "explicación": "La Batalla de Caporetto fue una victoria decisiva de las fuerzas alemanas y austrohúngaras sobre Italia en 1917."
+  },
+  {
+    "pregunta": "¿Qué país fue el principal rival de Grecia en los Balcanes durante la guerra?",
+    "opciones": ["Bulgaria", "Serbia", "Rumania", "Turquía"],
+    "respuesta_correcta": "Bulgaria",
+    "explicación": "Grecia luchó principalmente contra Bulgaria en los Balcanes durante la Primera Guerra Mundial."
+  },
+  {
+    "pregunta": "¿Qué fue la 'Batalla de Ypres'?",
+    "opciones": ["Una batalla naval en el Atlántico", "Una serie de batallas en el frente occidental", "Una ofensiva aliada en el frente oriental", "Una campaña en el Medio Oriente"],
+    "respuesta_correcta": "Una serie de batallas en el frente occidental",
+    "explicación": "La Batalla de Ypres se refiere a una serie de batallas libradas en el frente occidental, conocidas por el uso de gas venenoso."
+  },
+  {
+    "pregunta": "¿Qué país fue el principal rival de Turquía en el Medio Oriente durante la guerra?",
+    "opciones": ["Reino Unido", "Francia", "Rusia", "Italia"],
+    "respuesta_correcta": "Reino Unido",
+    "explicación": "El Reino Unido fue el principal rival de Turquía en el Medio Oriente, luchando en campañas como la de Gallipoli."
+  },
+  {
+    "pregunta": "¿Qué fue la 'Batalla de Verdún'?",
+    "opciones": ["Una batalla naval en el Mediterráneo", "Una ofensiva alemana en el frente occidental", "Una campaña en África", "Una batalla aérea"],
+    "respuesta_correcta": "Una ofensiva alemana en el frente occidental",
+    "explicación": "La Batalla de Verdún fue una ofensiva alemana en el frente occidental en 1916, conocida por su duración y el alto número de bajas."
+  },
+  {
+    "pregunta": "¿Qué país fue el principal rival de Francia en el frente occidental durante la guerra?",
+    "opciones": ["Alemania", "Austria-Hungría", "Reino Unido", "Italia"],
+    "respuesta_correcta": "Alemania",
+    "explicación": "Alemania fue el principal rival de Francia en el frente occidental durante la Primera Guerra Mundial."
+  },
+  {
+    "pregunta": "¿Qué fue la 'Batalla de Cambrai'?",
+    "opciones": ["Una batalla naval en el Atlántico", "Una ofensiva aliada en el frente occidental", "Una campaña en el Medio Oriente", "Una batalla aérea"],
+    "respuesta_correcta": "Una ofensiva aliada en el frente occidental",
+    "explicación": "La Batalla de Cambrai fue una ofensiva aliada en el frente occidental en 1917, conocida por el uso masivo de tanques."
+  },
+  {
+    "pregunta": "¿Qué país fue el principal rival de Serbia en los Balcanes durante la guerra?",
+    "opciones": ["Austria-Hungría", "Bulgaria", "Grecia", "Rumania"],
+    "respuesta_correcta": "Austria-Hungría",
+    "explicación": "Austria-Hungría fue el principal rival de Serbia en los Balcanes, y su conflicto fue una de las causas de la guerra."
+  },
+  {
+    "pregunta": "¿Qué fue la 'Batalla de Passchendaele'?",
+    "opciones": ["Una batalla naval en el Mediterráneo", "Una ofensiva aliada en el frente occidental", "Una campaña en África", "Una batalla aérea"],
+    "respuesta_correcta": "Una ofensiva aliada en el frente occidental",
+    "explicación": "La Batalla de Passchendaele fue una ofensiva aliada en el frente occidental en 1917, conocida por las difíciles condiciones de combate."
+  },
+  {
+    "pregunta": "¿Qué país fue el principal rival de Italia en el frente alpino durante la guerra?",
+    "opciones": ["Alemania", "Austria-Hungría", "Francia", "Rusia"],
+    "respuesta_correcta": "Austria-Hungría",
+    "explicación": "Austria-Hungría fue el principal rival de Italia en el frente alpino durante la Primera Guerra Mundial."
+  },
+  {
+    "pregunta": "¿Qué fue la 'Batalla de Jutlandia'?",
+    "opciones": ["Una batalla naval en el Atlántico", "Una ofensiva aliada en el frente occidental", "Una campaña en el Medio Oriente", "Una batalla aérea"],
+    "respuesta_correcta": "Una batalla naval en el Atlántico",
+    "explicación": "La Batalla de Jutlandia fue la mayor batalla naval de la Primera Guerra Mundial, librada entre la Royal Navy británica y la Kaiserliche Marine alemana."
+  },
+  {
+    "pregunta": "¿Qué país fue el principal rival de Grecia en los Balcanes durante la guerra?",
+    "opciones": ["Bulgaria", "Serbia", "Rumania", "Turquía"],
+    "respuesta_correcta": "Bulgaria",
+    "explicación": "Grecia luchó principalmente contra Bulgaria en los Balcanes durante la Primera Guerra Mundial."
+  },
+  {
+    "pregunta": "¿Qué fue la 'Batalla de Caporetto'?",
+    "opciones": ["Una batalla naval en el Mediterráneo", "Una victoria alemana sobre Italia", "Una ofensiva aliada en el frente occidental", "Una campaña en África"],
+    "respuesta_correcta": "Una victoria alemana sobre Italia",
+    "explicación": "La Batalla de Caporetto fue una victoria decisiva de las fuerzas alemanas y austrohúngaras sobre Italia en 1917."
+  },
+  {
+    "pregunta": "¿Qué país fue el principal rival de Japón en el Pacífico durante la guerra?",
+    "opciones": ["Alemania", "Estados Unidos", "Reino Unido", "China"],
+    "respuesta_correcta": "Alemania",
+    "explicación": "Japón luchó contra Alemania en el Pacífico, capturando varias de sus colonias."
+  },
+  {
+    "pregunta": "¿Qué fue la 'Batalla de Tannenberg'?",
+    "opciones": ["Una batalla naval en el Báltico", "Una victoria alemana sobre Rusia", "Una ofensiva aliada en el frente occidental", "Una campaña en el Medio Oriente"],
+    "respuesta_correcta": "Una victoria alemana sobre Rusia",
+    "explicación": "La Batalla de Tannenberg fue una victoria decisiva de Alemania sobre Rusia en 1914."
+  },
+  {
+    "pregunta": "¿Qué país fue el principal rival de Italia en el frente alpino?",
+    "opciones": ["Alemania", "Austria-Hungría", "Francia", "Rusia"],
+    "respuesta_correcta": "Austria-Hungría",
+    "explicación": "Austria-Hungría fue el principal rival de Italia en el frente alpino durante la Primera Guerra Mundial, donde se libraron numerosas batallas en terrenos montañosos difíciles."
+  }
+]
