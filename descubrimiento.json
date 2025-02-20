@@ -1,4 +1,5 @@
-[
+{
+    "preguntas": [
     {
         "pregunta": "¿En qué año llegó Cristóbal Colón a América?",
         "opciones": ["1492", "1500", "1453", "1519"],
