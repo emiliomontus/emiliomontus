@@ -1,303 +1,554 @@
-[
-  {
-    "pregunta": "¿En qué año comenzó la Segunda Guerra Mundial?",
-    "opciones": ["1937", "1938", "1939", "1940"],
-    "respuesta_correcta": "1939",
-    "explicación": "La Segunda Guerra Mundial comenzó en 1939 con la invasión de Polonia por parte de Alemania."
-  },
-  {
-    "pregunta": "¿Qué evento desencadenó la entrada de Estados Unidos en la Segunda Guerra Mundial?",
-    "opciones": ["La invasión de Polonia", "El ataque a Pearl Harbor", "La batalla de Stalingrado", "El desembarco de Normandía"],
-    "respuesta_correcta": "El ataque a Pearl Harbor",
-    "explicación": "El ataque a Pearl Harbor por parte de Japón en 1941 provocó la entrada de Estados Unidos en la guerra."
-  },
-  {
-    "pregunta": "¿Qué países formaban parte de las Potencias del Eje?",
-    "opciones": ["Reino Unido, Francia, Estados Unidos", "Alemania, Italia, Japón", "Unión Soviética, China, Australia", "Canadá, India, Brasil"],
-    "respuesta_correcta": "Alemania, Italia, Japón",
-    "explicación": "Las Potencias del Eje estaban formadas principalmente por Alemania, Italia y Japón."
-  },
-  {
-    "pregunta": "¿Qué tratado puso fin a la Segunda Guerra Mundial en Europa?",
-    "opciones": ["Tratado de Versalles", "Tratado de París", "Tratado de Tordesillas", "Tratado de Ginebra"],
-    "respuesta_correcta": "Tratado de París",
-    "explicación": "El Tratado de París de 1947 formalizó el fin de la Segunda Guerra Mundial en Europa."
-  },
-  {
-    "pregunta": "¿Qué país fue invadido por Alemania al comienzo de la Segunda Guerra Mundial?",
-    "opciones": ["Francia", "Bélgica", "Polonia", "Noruega"],
-    "respuesta_correcta": "Polonia",
-    "explicación": "Alemania invadió Polonia el 1 de septiembre de 1939, lo que desencadenó la Segunda Guerra Mundial."
-  },
-  {
-    "pregunta": "¿Qué fue la 'Blitzkrieg'?",
-    "opciones": ["Una táctica de guerra relámpago", "Un tratado de paz", "Una alianza militar", "Una campaña de bombardeo"],
-    "respuesta_correcta": "Una táctica de guerra relámpago",
-    "explicación": "La 'Blitzkrieg' fue una táctica militar alemana de guerra relámpago que implicaba ataques rápidos y coordinados."
-  },
-  {
-    "pregunta": "¿Qué batalla es conocida como el punto de inflexión en el frente oriental?",
-    "opciones": ["Batalla de Moscú", "Batalla de Stalingrado", "Batalla de Kursk", "Batalla de Leningrado"],
-    "respuesta_correcta": "Batalla de Stalingrado",
-    "explicación": "La Batalla de Stalingrado (1942-1943) fue el punto de inflexión en el frente oriental, con una decisiva victoria soviética."
-  },
-  {
-    "pregunta": "¿Qué conferencia estableció las bases para la posguerra en Europa?",
-    "opciones": ["Conferencia de Yalta", "Conferencia de Potsdam", "Conferencia de Teherán", "Conferencia de Casablanca"],
-    "respuesta_correcta": "Conferencia de Yalta",
-    "explicación": "La Conferencia de Yalta en 1945 estableció las bases para la reorganización de Europa después de la guerra."
-  },
-  {
-    "pregunta": "¿Qué fue el Holocausto?",
-    "opciones": ["Un tratado de paz", "Una campaña militar", "El genocidio de judíos y otros grupos por los nazis", "Una alianza militar"],
-    "respuesta_correcta": "El genocidio de judíos y otros grupos por los nazis",
-    "explicación": "El Holocausto fue el genocidio sistemático de seis millones de judíos y otros grupos por parte de los nazis durante la Segunda Guerra Mundial."
-  },
-  {
-    "pregunta": "¿Qué país lanzó las bombas atómicas sobre Hiroshima y Nagasaki?",
-    "opciones": ["Reino Unido", "Unión Soviética", "Estados Unidos", "China"],
-    "respuesta_correcta": "Estados Unidos",
-    "explicación": "Estados Unidos lanzó las bombas atómicas sobre Hiroshima y Nagasaki en agosto de 1945, lo que llevó a la rendición de Japón."
-  },
-  {
-    "pregunta": "¿Qué fue el 'Día D'?",
-    "opciones": ["El inicio de la guerra", "El desembarco aliado en Normandía", "La rendición de Alemania", "El bombardeo de Pearl Harbor"],
-    "respuesta_correcta": "El desembarco aliado en Normandía",
-    "explicación": "El 'Día D' se refiere al desembarco aliado en Normandía el 6 de junio de 1944, que marcó el inicio de la liberación de Europa occidental."
-  },
-  {
-    "pregunta": "¿Qué país fue el principal rival de Alemania en el frente occidental?",
-    "opciones": ["Francia", "Reino Unido", "Estados Unidos", "Unión Soviética"],
-    "respuesta_correcta": "Reino Unido",
-    "explicación": "El Reino Unido fue el principal rival de Alemania en el frente occidental durante la mayor parte de la guerra."
-  },
-  {
-    "pregunta": "¿Qué fue la 'Operación Barbarroja'?",
-    "opciones": ["La invasión de Polonia", "La invasión de la Unión Soviética", "El desembarco de Normandía", "La batalla de El Alamein"],
-    "respuesta_correcta": "La invasión de la Unión Soviética",
-    "explicación": "La 'Operación Barbarroja' fue el nombre en clave de la invasión alemana de la Unión Soviética en 1941."
-  },
-  {
-    "pregunta": "¿Qué país fue el principal rival de Japón en el Pacífico?",
-    "opciones": ["China", "Reino Unido", "Estados Unidos", "Australia"],
-    "respuesta_correcta": "Estados Unidos",
-    "explicación": "Estados Unidos fue el principal rival de Japón en el Pacífico, librando numerosas batallas navales y aéreas."
-  },
-  {
-    "pregunta": "¿Qué fue la 'Batalla de Midway'?",
-    "opciones": ["Una batalla naval en el Atlántico", "Una victoria aliada en el Pacífico", "Una campaña en África", "Una batalla aérea sobre Londres"],
-    "respuesta_correcta": "Una victoria aliada en el Pacífico",
-    "explicación": "La Batalla de Midway en 1942 fue una victoria decisiva de Estados Unidos sobre Japón en el Pacífico."
-  },
-  {
-    "pregunta": "¿Qué país fue el principal rival de Italia en el norte de África?",
-    "opciones": ["Francia", "Reino Unido", "Estados Unidos", "Unión Soviética"],
-    "respuesta_correcta": "Reino Unido",
-    "explicación": "El Reino Unido fue el principal rival de Italia en el norte de África, librando batallas como la de El Alamein."
-  },
-  {
-    "pregunta": "¿Qué fue la 'Batalla de El Alamein'?",
-    "opciones": ["Una batalla naval en el Mediterráneo", "Una victoria aliada en el norte de África", "Una ofensiva alemana en el frente oriental", "Una campaña en el Pacífico"],
-    "respuesta_correcta": "Una victoria aliada en el norte de África",
-    "explicación": "La Batalla de El Alamein en 1942 fue una victoria decisiva de los Aliados sobre las fuerzas del Eje en el norte de África."
-  },
-  {
-    "pregunta": "¿Qué país fue el principal rival de Alemania en el frente oriental?",
-    "opciones": ["Francia", "Reino Unido", "Estados Unidos", "Unión Soviética"],
-    "respuesta_correcta": "Unión Soviética",
-    "explicación": "La Unión Soviética fue el principal rival de Alemania en el frente oriental, librando batallas cruciales como la de Stalingrado."
-  },
-  {
-    "pregunta": "¿Qué fue la 'Batalla de Kursk'?",
-    "opciones": ["Una batalla naval en el Atlántico", "Una victoria soviética en el frente oriental", "Una campaña en África", "Una batalla aérea sobre Londres"],
-    "respuesta_correcta": "Una victoria soviética en el frente oriental",
-    "explicación": "La Batalla de Kursk en 1943 fue una victoria decisiva de la Unión Soviética sobre Alemania en el frente oriental."
-  },
-  {
-    "pregunta": "¿Qué fue la 'Batalla de las Ardenas'?",
-    "opciones": ["Una batalla naval en el Atlántico", "Una ofensiva alemana en el frente occidental", "Una campaña en África", "Una batalla aérea sobre Londres"],
-    "respuesta_correcta": "Una ofensiva alemana en el frente occidental",
-    "explicación": "La Batalla de las Ardenas, también conocida como la Ofensiva de las Ardenas, fue la última gran ofensiva alemana en el frente occidental en 1944-1945."
-  },
-  {
-    "pregunta": "¿Qué país fue el principal rival de Japón en el Pacífico durante la guerra?",
-    "opciones": ["China", "Reino Unido", "Estados Unidos", "Australia"],
-    "respuesta_correcta": "Estados Unidos",
-    "explicación": "Estados Unidos fue el principal rival de Japón en el Pacífico, librando numerosas batallas navales y aéreas."
-  },
-  {
-    "pregunta": "¿Qué fue la 'Batalla de Iwo Jima'?",
-    "opciones": ["Una batalla naval en el Atlántico", "Una victoria aliada en el Pacífico", "Una campaña en África", "Una batalla aérea sobre Londres"],
-    "respuesta_correcta": "Una victoria aliada en el Pacífico",
-    "explicación": "La Batalla de Iwo Jima en 1945 fue una victoria decisiva de Estados Unidos sobre Japón en el Pacífico."
-  },
-  {
-    "pregunta": "¿Qué país fue el principal rival de Alemania en el frente oriental durante la guerra?",
-    "opciones": ["Francia", "Reino Unido", "Estados Unidos", "Unión Soviética"],
-    "respuesta_correcta": "Unión Soviética",
-    "explicación": "La Unión Soviética fue el principal rival de Alemania en el frente oriental, librando batallas cruciales como la de Stalingrado."
-  },
-  {
-    "pregunta": "¿Qué fue la 'Batalla de Okinawa'?",
-    "opciones": ["Una batalla naval en el Atlántico", "Una victoria aliada en el Pacífico", "Una campaña en África", "Una batalla aérea sobre Londres"],
-    "respuesta_correcta": "Una victoria aliada en el Pacífico",
-    "explicación": "La Batalla de Okinawa en 1945 fue una de las últimas grandes batallas del Pacífico, resultando en una victoria aliada."
-  },
-  {
-    "pregunta": "¿Qué país fue el principal rival de Italia en el norte de África durante la guerra?",
-    "opciones": ["Francia", "Reino Unido", "Estados Unidos", "Unión Soviética"],
-    "respuesta_correcta": "Reino Unido",
-    "explicación": "El Reino Unido fue el principal rival de Italia en el norte de África, librando batallas como la de El Alamein."
-  },
-  {
-    "pregunta": "¿Qué fue la 'Batalla de Stalingrado'?",
-    "opciones": ["Una batalla naval en el Atlántico", "Una victoria soviética en el frente oriental", "Una campaña en África", "Una batalla aérea sobre Londres"],
-    "respuesta_correcta": "Una victoria soviética en el frente oriental",
-    "explicación": "La Batalla de Stalingrado (1942-1943) fue una victoria decisiva de la Unión Soviética sobre Alemania en el frente oriental."
-  },
-  {
-    "pregunta": "¿Qué país fue el principal rival de Alemania en el frente occidental durante la guerra?",
-    "opciones": ["Francia", "Reino Unido", "Estados Unidos", "Unión Soviética"],
-    "respuesta_correcta": "Reino Unido",
-    "explicación": "El Reino Unido fue el principal rival de Alemania en el frente occidental durante la mayor parte de la guerra."
-  },
-  {
-    "pregunta": "¿Qué fue la 'Batalla de Berlín'?",
-    "opciones": ["Una batalla naval en el Atlántico", "Una victoria soviética en el frente oriental", "Una campaña en África", "Una batalla aérea sobre Londres"],
-    "respuesta_correcta": "Una victoria soviética en el frente oriental",
-    "explicación": "La Batalla de Berlín en 1945 fue la última gran batalla en Europa, resultando en la captura de Berlín por las fuerzas soviéticas."
-  },
-  {
-    "pregunta": "¿Qué país fue el principal rival de Japón en el Pacífico durante la guerra?",
-    "opciones": ["China", "Reino Unido", "Estados Unidos", "Australia"],
-    "respuesta_correcta": "Estados Unidos",
-    "explicación": "Estados Unidos fue el principal rival de Japón en el Pacífico, librando numerosas batallas navales y aéreas."
-  },
-  {
-    "pregunta": "¿Qué fue la 'Batalla de Guadalcanal'?",
-    "opciones": ["Una batalla naval en el Atlántico", "Una victoria aliada en el Pacífico", "Una campaña en África", "Una batalla aérea sobre Londres"],
-    "respuesta_correcta": "Una victoria aliada en el Pacífico",
-    "explicación": "La Batalla de Guadalcanal (1942-1943) fue una campaña crucial en el Pacífico que resultó en una victoria aliada sobre Japón."
-  },
-  {
-    "pregunta": "¿Qué país fue el principal rival de Alemania en el frente occidental durante la guerra?",
-    "opciones": ["Francia", "Reino Unido", "Estados Unidos", "Unión Soviética"],
-    "respuesta_correcta": "Reino Unido",
-    "explicación": "El Reino Unido fue el principal rival de Alemania en el frente occidental durante la mayor parte de la guerra."
-  },
-  {
-    "pregunta": "¿Qué fue la 'Batalla de Anzio'?",
-    "opciones": ["Una batalla naval en el Mediterráneo", "Una ofensiva aliada en Italia", "Una campaña en África", "Una batalla aérea sobre Londres"],
-    "respuesta_correcta": "Una ofensiva aliada en Italia",
-    "explicación": "La Batalla de Anzio en 1944 fue una ofensiva aliada en Italia que buscaba romper las líneas defensivas alemanas."
-  },
-  {
-    "pregunta": "¿Qué país fue el principal rival de Japón en el Pacífico durante la guerra?",
-    "opciones": ["China", "Reino Unido", "Estados Unidos", "Australia"],
-    "respuesta_correcta": "Estados Unidos",
-    "explicación": "Estados Unidos fue el principal rival de Japón en el Pacífico, librando numerosas batallas navales y aéreas."
-  },
-  {
-    "pregunta": "¿Qué fue la 'Batalla de Monte Cassino'?",
-    "opciones": ["Una batalla naval en el Atlántico", "Una ofensiva aliada en Italia", "Una campaña en África", "Una batalla aérea sobre Londres"],
-    "respuesta_correcta": "Una ofensiva aliada en Italia",
-    "explicación": "La Batalla de Monte Cassino en 1944 fue una serie de ofensivas aliadas en Italia para capturar Roma."
-  },
-  {
-    "pregunta": "¿Qué país fue el principal rival de Alemania en el frente oriental durante la guerra?",
-    "opciones": ["Francia", "Reino Unido", "Estados Unidos", "Unión Soviética"],
-    "respuesta_correcta": "Unión Soviética",
-    "explicación": "La Unión Soviética fue el principal rival de Alemania en el frente oriental, librando batallas cruciales como la de Stalingrado."
-  },
-  {
-    "pregunta": "¿Qué fue la 'Batalla de Leyte Gulf'?",
-    "opciones": ["Una batalla naval en el Atlántico", "Una victoria aliada en el Pacífico", "Una campaña en África", "Una batalla aérea sobre Londres"],
-    "respuesta_correcta": "Una victoria aliada en el Pacífico",
-    "explicación": "La Batalla de Leyte Gulf en 1944 fue una de las mayores batallas navales de la historia, resultando en una victoria aliada sobre Japón."
-  },
-  {
-    "pregunta": "¿Qué país fue el principal rival de Italia en el norte de África durante la guerra?",
-    "opciones": ["Francia", "Reino Unido", "Estados Unidos", "Unión Soviética"],
-    "respuesta_correcta": "Reino Unido",
-    "explicación": "El Reino Unido fue el principal rival de Italia en el norte de África, librando batallas como la de El Alamein."
-  },
-  {
-    "pregunta": "¿Qué fue la 'Batalla de Normandía'?",
-    "opciones": ["Una batalla naval en el Atlántico", "Una ofensiva aliada en Francia", "Una campaña en África", "Una batalla aérea sobre Londres"],
-    "respuesta_correcta": "Una ofensiva aliada en Francia",
-    "explicación": "La Batalla de Normandía, también conocida como el 'Día D', fue una ofensiva aliada en Francia que comenzó el 6 de junio de 1944."
-  },
-  {
-    "pregunta": "¿Qué país fue el principal rival de Alemania en el frente occidental durante la guerra?",
-    "opciones": ["Francia", "Reino Unido", "Estados Unidos", "Unión Soviética"],
-    "respuesta_correcta": "Reino Unido",
-    "explicación": "El Reino Unido fue el principal rival de Alemania en el frente occidental durante la mayor parte de la guerra."
-  },
-  {
-    "pregunta": "¿Qué fue la 'Batalla de las Filipinas'?",
-    "opciones": ["Una batalla naval en el Atlántico", "Una victoria aliada en el Pacífico", "Una campaña en África", "Una batalla aérea sobre Londres"],
-    "respuesta_correcta": "Una victoria aliada en el Pacífico",
-    "explicación": "La Batalla de las Filipinas en 1944 fue una serie de enfrentamientos que resultaron en una victoria aliada sobre Japón."
-  },
-  {
-    "pregunta": "¿Qué país fue el principal rival de Japón en el Pacífico durante la guerra?",
-    "opciones": ["China", "Reino Unido", "Estados Unidos", "Australia"],
-    "respuesta_correcta": "Estados Unidos",
-    "explicación": "Estados Unidos fue el principal rival de Japón en el Pacífico, librando numerosas batallas navales y aéreas."
-  },
-  {
-    "pregunta": "¿Qué fue la 'Batalla de las Islas Marianas'?",
-    "opciones": ["Una batalla naval en el Atlántico", "Una victoria aliada en el Pacífico", "Una campaña en África", "Una batalla aérea sobre Londres"],
-    "respuesta_correcta": "Una victoria aliada en el Pacífico",
-    "explicación": "La Batalla de las Islas Marianas en 1944 fue una serie de enfrentamientos que resultaron en una victoria aliada sobre Japón."
-  },
-  {
-    "pregunta": "¿Qué país fue el principal rival de Alemania en el frente oriental durante la guerra?",
-    "opciones": ["Francia", "Reino Unido", "Estados Unidos", "Unión Soviética"],
-    "respuesta_correcta": "Unión Soviética",
-    "explicación": "La Unión Soviética fue el principal rival de Alemania en el frente oriental, librando batallas cruciales como la de Stalingrado."
-  },
-  {
-    "pregunta": "¿Qué fue la 'Batalla de las Islas Salomón'?",
-    "opciones": ["Una batalla naval en el Atlántico", "Una victoria aliada en el Pacífico", "Una campaña en África", "Una batalla aérea sobre Londres"],
-    "respuesta_correcta": "Una victoria aliada en el Pacífico",
-    "explicación": "La Batalla de las Islas Salomón en 1942-1943 fue una serie de enfrentamientos que resultaron en una victoria aliada sobre Japón."
-  },
-  {
-    "pregunta": "¿Qué país fue el principal rival de Italia en el norte de África durante la guerra?",
-    "opciones": ["Francia", "Reino Unido", "Estados Unidos", "Unión Soviética"],
-    "respuesta_correcta": "Reino Unido",
-    "explicación": "El Reino Unido fue el principal rival de Italia en el norte de África, librando batallas como la de El Alamein."
-  },
-  {
-    "pregunta": "¿Qué fue la 'Batalla de las Islas Gilbert'?",
-    "opciones": ["Una batalla naval en el Atlántico", "Una victoria aliada en el Pacífico", "Una campaña en África", "Una batalla aérea sobre Londres"],
-    "respuesta_correcta": "Una victoria aliada en el Pacífico",
-    "explicación": "La Batalla de las Islas Gilbert en 1943 fue una serie de enfrentamientos que resultaron en una victoria aliada sobre Japón."
-  },
-  {
-    "pregunta": "¿Qué país fue el principal rival de Alemania en el frente occidental durante la guerra?",
-    "opciones": ["Francia", "Reino Unido", "Estados Unidos", "Unión Soviética"],
-    "respuesta_correcta": "Reino Unido",
-    "explicación": "El Reino Unido fue el principal rival de Alemania en el frente occidental durante la mayor parte de la guerra."
-  },
-  {
-    "pregunta": "¿Qué fue la 'Batalla de las Islas Marshall'?",
-    "opciones": ["Una batalla naval en el Atlántico", "Una victoria aliada en el Pacífico", "Una campaña en África", "Una batalla aérea sobre Londres"],
-    "respuesta_correcta": "Una victoria aliada en el Pacífico",
-    "explicación": "La Batalla de las Islas Marshall en 1944 fue una serie de enfrentamientos que resultaron en una victoria aliada sobre Japón."
-  },
-  {
-    "pregunta": "¿Qué país fue el principal rival de Japón en el Pacífico durante la guerra?",
-    "opciones": ["China", "Reino Unido", "Estados Unidos", "Australia"],
-    "respuesta_correcta": "Estados Unidos",
-    "explicación": "Estados Unidos fue el principal rival de Japón en el Pacífico, librando numerosas batallas navales y aéreas."
-  },
-  {
-    "pregunta": "¿Qué país fue el principal rival de Alemania en el frente occidental durante la guerra?",
-    "opciones": ["Francia", "Reino Unido", "Estados Unidos", "Unión Soviética"],
-    "respuesta_correcta": "Reino Unido",
-    "explicación": "El Reino Unido fue el principal rival de Alemania en el frente occidental durante la mayor parte de la guerra, participando en numerosas batallas y campañas."
-  }
-]
-   
+{
+	"preguntas": [
+		{
+			"pregunta": "¿En qué año comenzó la Segunda Guerra Mundial?",
+			"opciones": [
+				"1937",
+				"1938",
+				"1939",
+				"1940"
+			],
+			"respuesta_correcta": "1939",
+			"explicación": "La Segunda Guerra Mundial comenzó en 1939 con la invasión de Polonia por parte de Alemania."
+		},
+		{
+			"pregunta": "¿Qué evento desencadenó la entrada de Estados Unidos en la Segunda Guerra Mundial?",
+			"opciones": [
+				"La invasión de Polonia",
+				"El ataque a Pearl Harbor",
+				"La batalla de Stalingrado",
+				"El desembarco de Normandía"
+			],
+			"respuesta_correcta": "El ataque a Pearl Harbor",
+			"explicación": "El ataque a Pearl Harbor por parte de Japón en 1941 provocó la entrada de Estados Unidos en la guerra."
+		},
+		{
+			"pregunta": "¿Qué países formaban parte de las Potencias del Eje?",
+			"opciones": [
+				"Reino Unido, Francia, Estados Unidos",
+				"Alemania, Italia, Japón",
+				"Unión Soviética, China, Australia",
+				"Canadá, India, Brasil"
+			],
+			"respuesta_correcta": "Alemania, Italia, Japón",
+			"explicación": "Las Potencias del Eje estaban formadas principalmente por Alemania, Italia y Japón."
+		},
+		{
+			"pregunta": "¿Qué tratado puso fin a la Segunda Guerra Mundial en Europa?",
+			"opciones": [
+				"Tratado de Versalles",
+				"Tratado de París",
+				"Tratado de Tordesillas",
+				"Tratado de Ginebra"
+			],
+			"respuesta_correcta": "Tratado de París",
+			"explicación": "El Tratado de París de 1947 formalizó el fin de la Segunda Guerra Mundial en Europa."
+		},
+		{
+			"pregunta": "¿Qué país fue invadido por Alemania al comienzo de la Segunda Guerra Mundial?",
+			"opciones": [
+				"Francia",
+				"Bélgica",
+				"Polonia",
+				"Noruega"
+			],
+			"respuesta_correcta": "Polonia",
+			"explicación": "Alemania invadió Polonia el 1 de septiembre de 1939, lo que desencadenó la Segunda Guerra Mundial."
+		},
+		{
+			"pregunta": "¿Qué fue la 'Blitzkrieg'?",
+			"opciones": [
+				"Una táctica de guerra relámpago",
+				"Un tratado de paz",
+				"Una alianza militar",
+				"Una campaña de bombardeo"
+			],
+			"respuesta_correcta": "Una táctica de guerra relámpago",
+			"explicación": "La 'Blitzkrieg' fue una táctica militar alemana de guerra relámpago que implicaba ataques rápidos y coordinados."
+		},
+		{
+			"pregunta": "¿Qué batalla es conocida como el punto de inflexión en el frente oriental?",
+			"opciones": [
+				"Batalla de Moscú",
+				"Batalla de Stalingrado",
+				"Batalla de Kursk",
+				"Batalla de Leningrado"
+			],
+			"respuesta_correcta": "Batalla de Stalingrado",
+			"explicación": "La Batalla de Stalingrado (1942-1943) fue el punto de inflexión en el frente oriental, con una decisiva victoria soviética."
+		},
+		{
+			"pregunta": "¿Qué conferencia estableció las bases para la posguerra en Europa?",
+			"opciones": [
+				"Conferencia de Yalta",
+				"Conferencia de Potsdam",
+				"Conferencia de Teherán",
+				"Conferencia de Casablanca"
+			],
+			"respuesta_correcta": "Conferencia de Yalta",
+			"explicación": "La Conferencia de Yalta en 1945 estableció las bases para la reorganización de Europa después de la guerra."
+		},
+		{
+			"pregunta": "¿Qué fue el Holocausto?",
+			"opciones": [
+				"Un tratado de paz",
+				"Una campaña militar",
+				"El genocidio de judíos y otros grupos por los nazis",
+				"Una alianza militar"
+			],
+			"respuesta_correcta": "El genocidio de judíos y otros grupos por los nazis",
+			"explicación": "El Holocausto fue el genocidio sistemático de seis millones de judíos y otros grupos por parte de los nazis durante la Segunda Guerra Mundial."
+		},
+		{
+			"pregunta": "¿Qué país lanzó las bombas atómicas sobre Hiroshima y Nagasaki?",
+			"opciones": [
+				"Reino Unido",
+				"Unión Soviética",
+				"Estados Unidos",
+				"China"
+			],
+			"respuesta_correcta": "Estados Unidos",
+			"explicación": "Estados Unidos lanzó las bombas atómicas sobre Hiroshima y Nagasaki en agosto de 1945, lo que llevó a la rendición de Japón."
+		},
+		{
+			"pregunta": "¿Qué fue el 'Día D'?",
+			"opciones": [
+				"El inicio de la guerra",
+				"El desembarco aliado en Normandía",
+				"La rendición de Alemania",
+				"El bombardeo de Pearl Harbor"
+			],
+			"respuesta_correcta": "El desembarco aliado en Normandía",
+			"explicación": "El 'Día D' se refiere al desembarco aliado en Normandía el 6 de junio de 1944, que marcó el inicio de la liberación de Europa occidental."
+		},
+		{
+			"pregunta": "¿Qué país fue el principal rival de Alemania en el frente occidental?",
+			"opciones": [
+				"Francia",
+				"Reino Unido",
+				"Estados Unidos",
+				"Unión Soviética"
+			],
+			"respuesta_correcta": "Reino Unido",
+			"explicación": "El Reino Unido fue el principal rival de Alemania en el frente occidental durante la mayor parte de la guerra."
+		},
+		{
+			"pregunta": "¿Qué fue la 'Operación Barbarroja'?",
+			"opciones": [
+				"La invasión de Polonia",
+				"La invasión de la Unión Soviética",
+				"El desembarco de Normandía",
+				"La batalla de El Alamein"
+			],
+			"respuesta_correcta": "La invasión de la Unión Soviética",
+			"explicación": "La 'Operación Barbarroja' fue el nombre en clave de la invasión alemana de la Unión Soviética en 1941."
+		},
+		{
+			"pregunta": "¿Qué país fue el principal rival de Japón en el Pacífico?",
+			"opciones": [
+				"China",
+				"Reino Unido",
+				"Estados Unidos",
+				"Australia"
+			],
+			"respuesta_correcta": "Estados Unidos",
+			"explicación": "Estados Unidos fue el principal rival de Japón en el Pacífico, librando numerosas batallas navales y aéreas."
+		},
+		{
+			"pregunta": "¿Qué fue la 'Batalla de Midway'?",
+			"opciones": [
+				"Una batalla naval en el Atlántico",
+				"Una victoria aliada en el Pacífico",
+				"Una campaña en África",
+				"Una batalla aérea sobre Londres"
+			],
+			"respuesta_correcta": "Una victoria aliada en el Pacífico",
+			"explicación": "La Batalla de Midway en 1942 fue una victoria decisiva de Estados Unidos sobre Japón en el Pacífico."
+		},
+		{
+			"pregunta": "¿Qué país fue el principal rival de Italia en el norte de África?",
+			"opciones": [
+				"Francia",
+				"Reino Unido",
+				"Estados Unidos",
+				"Unión Soviética"
+			],
+			"respuesta_correcta": "Reino Unido",
+			"explicación": "El Reino Unido fue el principal rival de Italia en el norte de África, librando batallas como la de El Alamein."
+		},
+		{
+			"pregunta": "¿Qué fue la 'Batalla de El Alamein'?",
+			"opciones": [
+				"Una batalla naval en el Mediterráneo",
+				"Una victoria aliada en el norte de África",
+				"Una ofensiva alemana en el frente oriental",
+				"Una campaña en el Pacífico"
+			],
+			"respuesta_correcta": "Una victoria aliada en el norte de África",
+			"explicación": "La Batalla de El Alamein en 1942 fue una victoria decisiva de los Aliados sobre las fuerzas del Eje en el norte de África."
+		},
+		{
+			"pregunta": "¿Qué país fue el principal rival de Alemania en el frente oriental?",
+			"opciones": [
+				"Francia",
+				"Reino Unido",
+				"Estados Unidos",
+				"Unión Soviética"
+			],
+			"respuesta_correcta": "Unión Soviética",
+			"explicación": "La Unión Soviética fue el principal rival de Alemania en el frente oriental, librando batallas cruciales como la de Stalingrado."
+		},
+		{
+			"pregunta": "¿Qué fue la 'Batalla de Kursk'?",
+			"opciones": [
+				"Una batalla naval en el Atlántico",
+				"Una victoria soviética en el frente oriental",
+				"Una campaña en África",
+				"Una batalla aérea sobre Londres"
+			],
+			"respuesta_correcta": "Una victoria soviética en el frente oriental",
+			"explicación": "La Batalla de Kursk en 1943 fue una victoria decisiva de la Unión Soviética sobre Alemania en el frente oriental."
+		},
+		{
+			"pregunta": "¿Qué fue la 'Batalla de las Ardenas'?",
+			"opciones": [
+				"Una batalla naval en el Atlántico",
+				"Una ofensiva alemana en el frente occidental",
+				"Una campaña en África",
+				"Una batalla aérea sobre Londres"
+			],
+			"respuesta_correcta": "Una ofensiva alemana en el frente occidental",
+			"explicación": "La Batalla de las Ardenas, también conocida como la Ofensiva de las Ardenas, fue la última gran ofensiva alemana en el frente occidental en 1944-1945."
+		},
+		{
+			"pregunta": "¿Qué país fue el principal rival de Japón en el Pacífico durante la guerra?",
+			"opciones": [
+				"China",
+				"Reino Unido",
+				"Estados Unidos",
+				"Australia"
+			],
+			"respuesta_correcta": "Estados Unidos",
+			"explicación": "Estados Unidos fue el principal rival de Japón en el Pacífico, librando numerosas batallas navales y aéreas."
+		},
+		{
+			"pregunta": "¿Qué fue la 'Batalla de Iwo Jima'?",
+			"opciones": [
+				"Una batalla naval en el Atlántico",
+				"Una victoria aliada en el Pacífico",
+				"Una campaña en África",
+				"Una batalla aérea sobre Londres"
+			],
+			"respuesta_correcta": "Una victoria aliada en el Pacífico",
+			"explicación": "La Batalla de Iwo Jima en 1945 fue una victoria decisiva de Estados Unidos sobre Japón en el Pacífico."
+		},
+		{
+			"pregunta": "¿Qué país fue el principal rival de Alemania en el frente oriental durante la guerra?",
+			"opciones": [
+				"Francia",
+				"Reino Unido",
+				"Estados Unidos",
+				"Unión Soviética"
+			],
+			"respuesta_correcta": "Unión Soviética",
+			"explicación": "La Unión Soviética fue el principal rival de Alemania en el frente oriental, librando batallas cruciales como la de Stalingrado."
+		},
+		{
+			"pregunta": "¿Qué fue la 'Batalla de Okinawa'?",
+			"opciones": [
+				"Una batalla naval en el Atlántico",
+				"Una victoria aliada en el Pacífico",
+				"Una campaña en África",
+				"Una batalla aérea sobre Londres"
+			],
+			"respuesta_correcta": "Una victoria aliada en el Pacífico",
+			"explicación": "La Batalla de Okinawa en 1945 fue una de las últimas grandes batallas del Pacífico, resultando en una victoria aliada."
+		},
+		{
+			"pregunta": "¿Qué país fue el principal rival de Italia en el norte de África durante la guerra?",
+			"opciones": [
+				"Francia",
+				"Reino Unido",
+				"Estados Unidos",
+				"Unión Soviética"
+			],
+			"respuesta_correcta": "Reino Unido",
+			"explicación": "El Reino Unido fue el principal rival de Italia en el norte de África, librando batallas como la de El Alamein."
+		},
+		{
+			"pregunta": "¿Qué fue la 'Batalla de Stalingrado'?",
+			"opciones": [
+				"Una batalla naval en el Atlántico",
+				"Una victoria soviética en el frente oriental",
+				"Una campaña en África",
+				"Una batalla aérea sobre Londres"
+			],
+			"respuesta_correcta": "Una victoria soviética en el frente oriental",
+			"explicación": "La Batalla de Stalingrado (1942-1943) fue una victoria decisiva de la Unión Soviética sobre Alemania en el frente oriental."
+		},
+		{
+			"pregunta": "¿Qué país fue el principal rival de Alemania en el frente occidental durante la guerra?",
+			"opciones": [
+				"Francia",
+				"Reino Unido",
+				"Estados Unidos",
+				"Unión Soviética"
+			],
+			"respuesta_correcta": "Reino Unido",
+			"explicación": "El Reino Unido fue el principal rival de Alemania en el frente occidental durante la mayor parte de la guerra."
+		},
+		{
+			"pregunta": "¿Qué fue la 'Batalla de Berlín'?",
+			"opciones": [
+				"Una batalla naval en el Atlántico",
+				"Una victoria soviética en el frente oriental",
+				"Una campaña en África",
+				"Una batalla aérea sobre Londres"
+			],
+			"respuesta_correcta": "Una victoria soviética en el frente oriental",
+			"explicación": "La Batalla de Berlín en 1945 fue la última gran batalla en Europa, resultando en la captura de Berlín por las fuerzas soviéticas."
+		},
+		{
+			"pregunta": "¿Qué país fue el principal rival de Japón en el Pacífico durante la guerra?",
+			"opciones": [
+				"China",
+				"Reino Unido",
+				"Estados Unidos",
+				"Australia"
+			],
+			"respuesta_correcta": "Estados Unidos",
+			"explicación": "Estados Unidos fue el principal rival de Japón en el Pacífico, librando numerosas batallas navales y aéreas."
+		},
+		{
+			"pregunta": "¿Qué fue la 'Batalla de Guadalcanal'?",
+			"opciones": [
+				"Una batalla naval en el Atlántico",
+				"Una victoria aliada en el Pacífico",
+				"Una campaña en África",
+				"Una batalla aérea sobre Londres"
+			],
+			"respuesta_correcta": "Una victoria aliada en el Pacífico",
+			"explicación": "La Batalla de Guadalcanal (1942-1943) fue una campaña crucial en el Pacífico que resultó en una victoria aliada sobre Japón."
+		},
+		{
+			"pregunta": "¿Qué país fue el principal rival de Alemania en el frente occidental durante la guerra?",
+			"opciones": [
+				"Francia",
+				"Reino Unido",
+				"Estados Unidos",
+				"Unión Soviética"
+			],
+			"respuesta_correcta": "Reino Unido",
+			"explicación": "El Reino Unido fue el principal rival de Alemania en el frente occidental durante la mayor parte de la guerra."
+		},
+		{
+			"pregunta": "¿Qué fue la 'Batalla de Anzio'?",
+			"opciones": [
+				"Una batalla naval en el Mediterráneo",
+				"Una ofensiva aliada en Italia",
+				"Una campaña en África",
+				"Una batalla aérea sobre Londres"
+			],
+			"respuesta_correcta": "Una ofensiva aliada en Italia",
+			"explicación": "La Batalla de Anzio en 1944 fue una ofensiva aliada en Italia que buscaba romper las líneas defensivas alemanas."
+		},
+		{
+			"pregunta": "¿Qué país fue el principal rival de Japón en el Pacífico durante la guerra?",
+			"opciones": [
+				"China",
+				"Reino Unido",
+				"Estados Unidos",
+				"Australia"
+			],
+			"respuesta_correcta": "Estados Unidos",
+			"explicación": "Estados Unidos fue el principal rival de Japón en el Pacífico, librando numerosas batallas navales y aéreas."
+		},
+		{
+			"pregunta": "¿Qué fue la 'Batalla de Monte Cassino'?",
+			"opciones": [
+				"Una batalla naval en el Atlántico",
+				"Una ofensiva aliada en Italia",
+				"Una campaña en África",
+				"Una batalla aérea sobre Londres"
+			],
+			"respuesta_correcta": "Una ofensiva aliada en Italia",
+			"explicación": "La Batalla de Monte Cassino en 1944 fue una serie de ofensivas aliadas en Italia para capturar Roma."
+		},
+		{
+			"pregunta": "¿Qué país fue el principal rival de Alemania en el frente oriental durante la guerra?",
+			"opciones": [
+				"Francia",
+				"Reino Unido",
+				"Estados Unidos",
+				"Unión Soviética"
+			],
+			"respuesta_correcta": "Unión Soviética",
+			"explicación": "La Unión Soviética fue el principal rival de Alemania en el frente oriental, librando batallas cruciales como la de Stalingrado."
+		},
+		{
+			"pregunta": "¿Qué fue la 'Batalla de Leyte Gulf'?",
+			"opciones": [
+				"Una batalla naval en el Atlántico",
+				"Una victoria aliada en el Pacífico",
+				"Una campaña en África",
+				"Una batalla aérea sobre Londres"
+			],
+			"respuesta_correcta": "Una victoria aliada en el Pacífico",
+			"explicación": "La Batalla de Leyte Gulf en 1944 fue una de las mayores batallas navales de la historia, resultando en una victoria aliada sobre Japón."
+		},
+		{
+			"pregunta": "¿Qué país fue el principal rival de Italia en el norte de África durante la guerra?",
+			"opciones": [
+				"Francia",
+				"Reino Unido",
+				"Estados Unidos",
+				"Unión Soviética"
+			],
+			"respuesta_correcta": "Reino Unido",
+			"explicación": "El Reino Unido fue el principal rival de Italia en el norte de África, librando batallas como la de El Alamein."
+		},
+		{
+			"pregunta": "¿Qué fue la 'Batalla de Normandía'?",
+			"opciones": [
+				"Una batalla naval en el Atlántico",
+				"Una ofensiva aliada en Francia",
+				"Una campaña en África",
+				"Una batalla aérea sobre Londres"
+			],
+			"respuesta_correcta": "Una ofensiva aliada en Francia",
+			"explicación": "La Batalla de Normandía, también conocida como el 'Día D', fue una ofensiva aliada en Francia que comenzó el 6 de junio de 1944."
+		},
+		{
+			"pregunta": "¿Qué país fue el principal rival de Alemania en el frente occidental durante la guerra?",
+			"opciones": [
+				"Francia",
+				"Reino Unido",
+				"Estados Unidos",
+				"Unión Soviética"
+			],
+			"respuesta_correcta": "Reino Unido",
+			"explicación": "El Reino Unido fue el principal rival de Alemania en el frente occidental durante la mayor parte de la guerra."
+		},
+		{
+			"pregunta": "¿Qué fue la 'Batalla de las Filipinas'?",
+			"opciones": [
+				"Una batalla naval en el Atlántico",
+				"Una victoria aliada en el Pacífico",
+				"Una campaña en África",
+				"Una batalla aérea sobre Londres"
+			],
+			"respuesta_correcta": "Una victoria aliada en el Pacífico",
+			"explicación": "La Batalla de las Filipinas en 1944 fue una serie de enfrentamientos que resultaron en una victoria aliada sobre Japón."
+		},
+		{
+			"pregunta": "¿Qué país fue el principal rival de Japón en el Pacífico durante la guerra?",
+			"opciones": [
+				"China",
+				"Reino Unido",
+				"Estados Unidos",
+				"Australia"
+			],
+			"respuesta_correcta": "Estados Unidos",
+			"explicación": "Estados Unidos fue el principal rival de Japón en el Pacífico, librando numerosas batallas navales y aéreas."
+		},
+		{
+			"pregunta": "¿Qué fue la 'Batalla de las Islas Marianas'?",
+			"opciones": [
+				"Una batalla naval en el Atlántico",
+				"Una victoria aliada en el Pacífico",
+				"Una campaña en África",
+				"Una batalla aérea sobre Londres"
+			],
+			"respuesta_correcta": "Una victoria aliada en el Pacífico",
+			"explicación": "La Batalla de las Islas Marianas en 1944 fue una serie de enfrentamientos que resultaron en una victoria aliada sobre Japón."
+		},
+		{
+			"pregunta": "¿Qué país fue el principal rival de Alemania en el frente oriental durante la guerra?",
+			"opciones": [
+				"Francia",
+				"Reino Unido",
+				"Estados Unidos",
+				"Unión Soviética"
+			],
+			"respuesta_correcta": "Unión Soviética",
+			"explicación": "La Unión Soviética fue el principal rival de Alemania en el frente oriental, librando batallas cruciales como la de Stalingrado."
+		},
+		{
+			"pregunta": "¿Qué fue la 'Batalla de las Islas Salomón'?",
+			"opciones": [
+				"Una batalla naval en el Atlántico",
+				"Una victoria aliada en el Pacífico",
+				"Una campaña en África",
+				"Una batalla aérea sobre Londres"
+			],
+			"respuesta_correcta": "Una victoria aliada en el Pacífico",
+			"explicación": "La Batalla de las Islas Salomón en 1942-1943 fue una serie de enfrentamientos que resultaron en una victoria aliada sobre Japón."
+		},
+		{
+			"pregunta": "¿Qué país fue el principal rival de Italia en el norte de África durante la guerra?",
+			"opciones": [
+				"Francia",
+				"Reino Unido",
+				"Estados Unidos",
+				"Unión Soviética"
+			],
+			"respuesta_correcta": "Reino Unido",
+			"explicación": "El Reino Unido fue el principal rival de Italia en el norte de África, librando batallas como la de El Alamein."
+		},
+		{
+			"pregunta": "¿Qué fue la 'Batalla de las Islas Gilbert'?",
+			"opciones": [
+				"Una batalla naval en el Atlántico",
+				"Una victoria aliada en el Pacífico",
+				"Una campaña en África",
+				"Una batalla aérea sobre Londres"
+			],
+			"respuesta_correcta": "Una victoria aliada en el Pacífico",
+			"explicación": "La Batalla de las Islas Gilbert en 1943 fue una serie de enfrentamientos que resultaron en una victoria aliada sobre Japón."
+		},
+		{
+			"pregunta": "¿Qué país fue el principal rival de Alemania en el frente occidental durante la guerra?",
+			"opciones": [
+				"Francia",
+				"Reino Unido",
+				"Estados Unidos",
+				"Unión Soviética"
+			],
+			"respuesta_correcta": "Reino Unido",
+			"explicación": "El Reino Unido fue el principal rival de Alemania en el frente occidental durante la mayor parte de la guerra."
+		},
+		{
+			"pregunta": "¿Qué fue la 'Batalla de las Islas Marshall'?",
+			"opciones": [
+				"Una batalla naval en el Atlántico",
+				"Una victoria aliada en el Pacífico",
+				"Una campaña en África",
+				"Una batalla aérea sobre Londres"
+			],
+			"respuesta_correcta": "Una victoria aliada en el Pacífico",
+			"explicación": "La Batalla de las Islas Marshall en 1944 fue una serie de enfrentamientos que resultaron en una victoria aliada sobre Japón."
+		},
+		{
+			"pregunta": "¿Qué país fue el principal rival de Japón en el Pacífico durante la guerra?",
+			"opciones": [
+				"China",
+				"Reino Unido",
+				"Estados Unidos",
+				"Australia"
+			],
+			"respuesta_correcta": "Estados Unidos",
+			"explicación": "Estados Unidos fue el principal rival de Japón en el Pacífico, librando numerosas batallas navales y aéreas."
+		},
+		{
+			"pregunta": "¿Qué país fue el principal rival de Alemania en el frente occidental durante la guerra?",
+			"opciones": [
+				"Francia",
+				"Reino Unido",
+				"Estados Unidos",
+				"Unión Soviética"
+			],
+			"respuesta_correcta": "Reino Unido",
+			"explicación": "El Reino Unido fue el principal rival de Alemania en el frente occidental durante la mayor parte de la guerra, participando en numerosas batallas y campañas."
+		}
+	]
+}
