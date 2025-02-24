@@ -430,17 +430,6 @@
 			"explicación": "La Batalla de Verdún fue una ofensiva alemana en el frente occidental en 1916, conocida por su duración y el alto número de bajas."
 		},
 		{
-			"pregunta": "¿Qué país fue el principal rival de Francia en el frente occidental durante la guerra?",
-			"opciones": [
-				"Alemania",
-				"Austria-Hungría",
-				"Reino Unido",
-				"Italia"
-			],
-			"respuesta_correcta": "Alemania",
-			"explicación": "Alemania fue el principal rival de Francia en el frente occidental durante la Primera Guerra Mundial."
-		},
-		{
 			"pregunta": "¿Qué fue la 'Batalla de Cambrai'?",
 			"opciones": [
 				"Una batalla naval en el Atlántico",
@@ -474,17 +463,6 @@
 			"explicación": "La Batalla de Passchendaele fue una ofensiva aliada en el frente occidental en 1917, conocida por las difíciles condiciones de combate."
 		},
 		{
-			"pregunta": "¿Qué país fue el principal rival de Italia en el frente alpino durante la guerra?",
-			"opciones": [
-				"Alemania",
-				"Austria-Hungría",
-				"Francia",
-				"Rusia"
-			],
-			"respuesta_correcta": "Austria-Hungría",
-			"explicación": "Austria-Hungría fue el principal rival de Italia en el frente alpino durante la Primera Guerra Mundial."
-		},
-		{
 			"pregunta": "¿Qué fue la 'Batalla de Jutlandia'?",
 			"opciones": [
 				"Una batalla naval en el Atlántico",
@@ -494,61 +472,6 @@
 			],
 			"respuesta_correcta": "Una batalla naval en el Atlántico",
 			"explicación": "La Batalla de Jutlandia fue la mayor batalla naval de la Primera Guerra Mundial, librada entre la Royal Navy británica y la Kaiserliche Marine alemana."
-		},
-		{
-			"pregunta": "¿Qué país fue el principal rival de Grecia en los Balcanes durante la guerra?",
-			"opciones": [
-				"Bulgaria",
-				"Serbia",
-				"Rumania",
-				"Turquía"
-			],
-			"respuesta_correcta": "Bulgaria",
-			"explicación": "Grecia luchó principalmente contra Bulgaria en los Balcanes durante la Primera Guerra Mundial."
-		},
-		{
-			"pregunta": "¿Qué fue la 'Batalla de Caporetto'?",
-			"opciones": [
-				"Una batalla naval en el Mediterráneo",
-				"Una victoria alemana sobre Italia",
-				"Una ofensiva aliada en el frente occidental",
-				"Una campaña en África"
-			],
-			"respuesta_correcta": "Una victoria alemana sobre Italia",
-			"explicación": "La Batalla de Caporetto fue una victoria decisiva de las fuerzas alemanas y austrohúngaras sobre Italia en 1917."
-		},
-		{
-			"pregunta": "¿Qué país fue el principal rival de Japón en el Pacífico durante la guerra?",
-			"opciones": [
-				"Alemania",
-				"Estados Unidos",
-				"Reino Unido",
-				"China"
-			],
-			"respuesta_correcta": "Alemania",
-			"explicación": "Japón luchó contra Alemania en el Pacífico, capturando varias de sus colonias."
-		},
-		{
-			"pregunta": "¿Qué fue la 'Batalla de Tannenberg'?",
-			"opciones": [
-				"Una batalla naval en el Báltico",
-				"Una victoria alemana sobre Rusia",
-				"Una ofensiva aliada en el frente occidental",
-				"Una campaña en el Medio Oriente"
-			],
-			"respuesta_correcta": "Una victoria alemana sobre Rusia",
-			"explicación": "La Batalla de Tannenberg fue una victoria decisiva de Alemania sobre Rusia en 1914."
-		},
-		{
-			"pregunta": "¿Qué país fue el principal rival de Italia en el frente alpino?",
-			"opciones": [
-				"Alemania",
-				"Austria-Hungría",
-				"Francia",
-				"Rusia"
-			],
-			"respuesta_correcta": "Austria-Hungría",
-			"explicación": "Austria-Hungría fue el principal rival de Italia en el frente alpino durante la Primera Guerra Mundial, donde se libraron numerosas batallas en terrenos montañosos difíciles."
 		}
 	]
 }

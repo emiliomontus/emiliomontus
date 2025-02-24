@@ -221,17 +221,6 @@
 			"explicación": "La Batalla de las Ardenas, también conocida como la Ofensiva de las Ardenas, fue la última gran ofensiva alemana en el frente occidental en 1944-1945."
 		},
 		{
-			"pregunta": "¿Qué país fue el principal rival de Japón en el Pacífico durante la guerra?",
-			"opciones": [
-				"China",
-				"Reino Unido",
-				"Estados Unidos",
-				"Australia"
-			],
-			"respuesta_correcta": "Estados Unidos",
-			"explicación": "Estados Unidos fue el principal rival de Japón en el Pacífico, librando numerosas batallas navales y aéreas."
-		},
-		{
 			"pregunta": "¿Qué fue la 'Batalla de Iwo Jima'?",
 			"opciones": [
 				"Una batalla naval en el Atlántico",
@@ -241,17 +230,6 @@
 			],
 			"respuesta_correcta": "Una victoria aliada en el Pacífico",
 			"explicación": "La Batalla de Iwo Jima en 1945 fue una victoria decisiva de Estados Unidos sobre Japón en el Pacífico."
-		},
-		{
-			"pregunta": "¿Qué país fue el principal rival de Alemania en el frente oriental durante la guerra?",
-			"opciones": [
-				"Francia",
-				"Reino Unido",
-				"Estados Unidos",
-				"Unión Soviética"
-			],
-			"respuesta_correcta": "Unión Soviética",
-			"explicación": "La Unión Soviética fue el principal rival de Alemania en el frente oriental, librando batallas cruciales como la de Stalingrado."
 		},
 		{
 			"pregunta": "¿Qué fue la 'Batalla de Okinawa'?",
@@ -265,17 +243,6 @@
 			"explicación": "La Batalla de Okinawa en 1945 fue una de las últimas grandes batallas del Pacífico, resultando en una victoria aliada."
 		},
 		{
-			"pregunta": "¿Qué país fue el principal rival de Italia en el norte de África durante la guerra?",
-			"opciones": [
-				"Francia",
-				"Reino Unido",
-				"Estados Unidos",
-				"Unión Soviética"
-			],
-			"respuesta_correcta": "Reino Unido",
-			"explicación": "El Reino Unido fue el principal rival de Italia en el norte de África, librando batallas como la de El Alamein."
-		},
-		{
 			"pregunta": "¿Qué fue la 'Batalla de Stalingrado'?",
 			"opciones": [
 				"Una batalla naval en el Atlántico",
@@ -285,17 +252,6 @@
 			],
 			"respuesta_correcta": "Una victoria soviética en el frente oriental",
 			"explicación": "La Batalla de Stalingrado (1942-1943) fue una victoria decisiva de la Unión Soviética sobre Alemania en el frente oriental."
-		},
-		{
-			"pregunta": "¿Qué país fue el principal rival de Alemania en el frente occidental durante la guerra?",
-			"opciones": [
-				"Francia",
-				"Reino Unido",
-				"Estados Unidos",
-				"Unión Soviética"
-			],
-			"respuesta_correcta": "Reino Unido",
-			"explicación": "El Reino Unido fue el principal rival de Alemania en el frente occidental durante la mayor parte de la guerra."
 		},
 		{
 			"pregunta": "¿Qué fue la 'Batalla de Berlín'?",
@@ -309,17 +265,6 @@
 			"explicación": "La Batalla de Berlín en 1945 fue la última gran batalla en Europa, resultando en la captura de Berlín por las fuerzas soviéticas."
 		},
 		{
-			"pregunta": "¿Qué país fue el principal rival de Japón en el Pacífico durante la guerra?",
-			"opciones": [
-				"China",
-				"Reino Unido",
-				"Estados Unidos",
-				"Australia"
-			],
-			"respuesta_correcta": "Estados Unidos",
-			"explicación": "Estados Unidos fue el principal rival de Japón en el Pacífico, librando numerosas batallas navales y aéreas."
-		},
-		{
 			"pregunta": "¿Qué fue la 'Batalla de Guadalcanal'?",
 			"opciones": [
 				"Una batalla naval en el Atlántico",
@@ -329,17 +274,6 @@
 			],
 			"respuesta_correcta": "Una victoria aliada en el Pacífico",
 			"explicación": "La Batalla de Guadalcanal (1942-1943) fue una campaña crucial en el Pacífico que resultó en una victoria aliada sobre Japón."
-		},
-		{
-			"pregunta": "¿Qué país fue el principal rival de Alemania en el frente occidental durante la guerra?",
-			"opciones": [
-				"Francia",
-				"Reino Unido",
-				"Estados Unidos",
-				"Unión Soviética"
-			],
-			"respuesta_correcta": "Reino Unido",
-			"explicación": "El Reino Unido fue el principal rival de Alemania en el frente occidental durante la mayor parte de la guerra."
 		},
 		{
 			"pregunta": "¿Qué fue la 'Batalla de Anzio'?",
@@ -353,17 +287,6 @@
 			"explicación": "La Batalla de Anzio en 1944 fue una ofensiva aliada en Italia que buscaba romper las líneas defensivas alemanas."
 		},
 		{
-			"pregunta": "¿Qué país fue el principal rival de Japón en el Pacífico durante la guerra?",
-			"opciones": [
-				"China",
-				"Reino Unido",
-				"Estados Unidos",
-				"Australia"
-			],
-			"respuesta_correcta": "Estados Unidos",
-			"explicación": "Estados Unidos fue el principal rival de Japón en el Pacífico, librando numerosas batallas navales y aéreas."
-		},
-		{
 			"pregunta": "¿Qué fue la 'Batalla de Monte Cassino'?",
 			"opciones": [
 				"Una batalla naval en el Atlántico",
@@ -373,17 +296,6 @@
 			],
 			"respuesta_correcta": "Una ofensiva aliada en Italia",
 			"explicación": "La Batalla de Monte Cassino en 1944 fue una serie de ofensivas aliadas en Italia para capturar Roma."
-		},
-		{
-			"pregunta": "¿Qué país fue el principal rival de Alemania en el frente oriental durante la guerra?",
-			"opciones": [
-				"Francia",
-				"Reino Unido",
-				"Estados Unidos",
-				"Unión Soviética"
-			],
-			"respuesta_correcta": "Unión Soviética",
-			"explicación": "La Unión Soviética fue el principal rival de Alemania en el frente oriental, librando batallas cruciales como la de Stalingrado."
 		},
 		{
 			"pregunta": "¿Qué fue la 'Batalla de Leyte Gulf'?",
@@ -397,17 +309,6 @@
 			"explicación": "La Batalla de Leyte Gulf en 1944 fue una de las mayores batallas navales de la historia, resultando en una victoria aliada sobre Japón."
 		},
 		{
-			"pregunta": "¿Qué país fue el principal rival de Italia en el norte de África durante la guerra?",
-			"opciones": [
-				"Francia",
-				"Reino Unido",
-				"Estados Unidos",
-				"Unión Soviética"
-			],
-			"respuesta_correcta": "Reino Unido",
-			"explicación": "El Reino Unido fue el principal rival de Italia en el norte de África, librando batallas como la de El Alamein."
-		},
-		{
 			"pregunta": "¿Qué fue la 'Batalla de Normandía'?",
 			"opciones": [
 				"Una batalla naval en el Atlántico",
@@ -417,17 +318,6 @@
 			],
 			"respuesta_correcta": "Una ofensiva aliada en Francia",
 			"explicación": "La Batalla de Normandía, también conocida como el 'Día D', fue una ofensiva aliada en Francia que comenzó el 6 de junio de 1944."
-		},
-		{
-			"pregunta": "¿Qué país fue el principal rival de Alemania en el frente occidental durante la guerra?",
-			"opciones": [
-				"Francia",
-				"Reino Unido",
-				"Estados Unidos",
-				"Unión Soviética"
-			],
-			"respuesta_correcta": "Reino Unido",
-			"explicación": "El Reino Unido fue el principal rival de Alemania en el frente occidental durante la mayor parte de la guerra."
 		},
 		{
 			"pregunta": "¿Qué fue la 'Batalla de las Filipinas'?",
@@ -441,17 +331,6 @@
 			"explicación": "La Batalla de las Filipinas en 1944 fue una serie de enfrentamientos que resultaron en una victoria aliada sobre Japón."
 		},
 		{
-			"pregunta": "¿Qué país fue el principal rival de Japón en el Pacífico durante la guerra?",
-			"opciones": [
-				"China",
-				"Reino Unido",
-				"Estados Unidos",
-				"Australia"
-			],
-			"respuesta_correcta": "Estados Unidos",
-			"explicación": "Estados Unidos fue el principal rival de Japón en el Pacífico, librando numerosas batallas navales y aéreas."
-		},
-		{
 			"pregunta": "¿Qué fue la 'Batalla de las Islas Marianas'?",
 			"opciones": [
 				"Una batalla naval en el Atlántico",
@@ -461,17 +340,6 @@
 			],
 			"respuesta_correcta": "Una victoria aliada en el Pacífico",
 			"explicación": "La Batalla de las Islas Marianas en 1944 fue una serie de enfrentamientos que resultaron en una victoria aliada sobre Japón."
-		},
-		{
-			"pregunta": "¿Qué país fue el principal rival de Alemania en el frente oriental durante la guerra?",
-			"opciones": [
-				"Francia",
-				"Reino Unido",
-				"Estados Unidos",
-				"Unión Soviética"
-			],
-			"respuesta_correcta": "Unión Soviética",
-			"explicación": "La Unión Soviética fue el principal rival de Alemania en el frente oriental, librando batallas cruciales como la de Stalingrado."
 		},
 		{
 			"pregunta": "¿Qué fue la 'Batalla de las Islas Salomón'?",
@@ -485,17 +353,6 @@
 			"explicación": "La Batalla de las Islas Salomón en 1942-1943 fue una serie de enfrentamientos que resultaron en una victoria aliada sobre Japón."
 		},
 		{
-			"pregunta": "¿Qué país fue el principal rival de Italia en el norte de África durante la guerra?",
-			"opciones": [
-				"Francia",
-				"Reino Unido",
-				"Estados Unidos",
-				"Unión Soviética"
-			],
-			"respuesta_correcta": "Reino Unido",
-			"explicación": "El Reino Unido fue el principal rival de Italia en el norte de África, librando batallas como la de El Alamein."
-		},
-		{
 			"pregunta": "¿Qué fue la 'Batalla de las Islas Gilbert'?",
 			"opciones": [
 				"Una batalla naval en el Atlántico",
@@ -507,17 +364,6 @@
 			"explicación": "La Batalla de las Islas Gilbert en 1943 fue una serie de enfrentamientos que resultaron en una victoria aliada sobre Japón."
 		},
 		{
-			"pregunta": "¿Qué país fue el principal rival de Alemania en el frente occidental durante la guerra?",
-			"opciones": [
-				"Francia",
-				"Reino Unido",
-				"Estados Unidos",
-				"Unión Soviética"
-			],
-			"respuesta_correcta": "Reino Unido",
-			"explicación": "El Reino Unido fue el principal rival de Alemania en el frente occidental durante la mayor parte de la guerra."
-		},
-		{
 			"pregunta": "¿Qué fue la 'Batalla de las Islas Marshall'?",
 			"opciones": [
 				"Una batalla naval en el Atlántico",
@@ -527,28 +373,6 @@
 			],
 			"respuesta_correcta": "Una victoria aliada en el Pacífico",
 			"explicación": "La Batalla de las Islas Marshall en 1944 fue una serie de enfrentamientos que resultaron en una victoria aliada sobre Japón."
-		},
-		{
-			"pregunta": "¿Qué país fue el principal rival de Japón en el Pacífico durante la guerra?",
-			"opciones": [
-				"China",
-				"Reino Unido",
-				"Estados Unidos",
-				"Australia"
-			],
-			"respuesta_correcta": "Estados Unidos",
-			"explicación": "Estados Unidos fue el principal rival de Japón en el Pacífico, librando numerosas batallas navales y aéreas."
-		},
-		{
-			"pregunta": "¿Qué país fue el principal rival de Alemania en el frente occidental durante la guerra?",
-			"opciones": [
-				"Francia",
-				"Reino Unido",
-				"Estados Unidos",
-				"Unión Soviética"
-			],
-			"respuesta_correcta": "Reino Unido",
-			"explicación": "El Reino Unido fue el principal rival de Alemania en el frente occidental durante la mayor parte de la guerra, participando en numerosas batallas y campañas."
 		}
 	]
 }
