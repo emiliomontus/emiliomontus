@@ -101,16 +101,15 @@
             } else {
                 li.style.backgroundColor = "red";
                 fallos++;
+                // Resaltar la respuesta correcta en azul solo si la respuesta es incorrecta
+                opciones.querySelectorAll("li").forEach(item => {
+                    if (item.textContent === preguntaActual.respuesta_correcta) {
+                        item.style.backgroundColor = "blue";
+                    }
+                });
             }
             
-            // Resaltar la respuesta correcta en azul
-            opciones.querySelectorAll("li").forEach(item => {
-                if (item.textContent === preguntaActual.respuesta_correcta) {
-                    item.style.backgroundColor = "blue";
-                }
-            });
-            
-            // Mostrar explicación
+            // Mostrar explicación siempre
             explicacionContainer.textContent = preguntaActual.explicacion;
             explicacionContainer.classList.remove("oculto");
             
