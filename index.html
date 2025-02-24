@@ -71,31 +71,58 @@
         }
 
         function mostrarPregunta(preguntas, indice, aciertos, fallos) {
-            if (indice >= preguntas.length) {
-                document.getElementById("aciertos").textContent = aciertos;
-                document.getElementById("fallos").textContent = fallos;
-                document.getElementById("puntos").textContent = aciertos * 10;
-                cambiarPantalla("pantalla-resultados");
-                return;
+    if (indice >= preguntas.length) {
+        document.getElementById("aciertos").textContent = aciertos;
+        document.getElementById("fallos").textContent = fallos;
+        document.getElementById("puntos").textContent = aciertos * 10;
+        cambiarPantalla("pantalla-resultados");
+        return;
+    }
+
+    let preguntaActual = preguntas[indice];
+    document.getElementById("pregunta-container").textContent = preguntaActual.pregunta;
+    let opciones = document.getElementById("opciones");
+    opciones.innerHTML = "";
+    let explicacionContainer = document.getElementById("explicacion-container");
+    explicacionContainer.innerHTML = "";
+    explicacionContainer.classList.add("oculto");
+    let btnContinuar = document.getElementById("btn-continuar");
+    btnContinuar.classList.add("oculto");
+
+    preguntaActual.opciones.forEach(opcion => {
+        let li = document.createElement("li");
+        li.textContent = opcion;
+        li.addEventListener("click", function() {
+            let correcta = opcion === preguntaActual.respuesta_correcta;
+            
+            if (correcta) {
+                li.style.backgroundColor = "green";
+                aciertos++;
+            } else {
+                li.style.backgroundColor = "red";
+                fallos++;
             }
-
-            let preguntaActual = preguntas[indice];
-            document.getElementById("pregunta-container").textContent = preguntaActual.pregunta;
-            let opciones = document.getElementById("opciones");
-            opciones.innerHTML = "";
-
-            preguntaActual.opciones.forEach(opcion => {
-                let li = document.createElement("li");
-                li.textContent = opcion;
-                li.addEventListener("click", function() {
-                    let correcta = opcion === preguntaActual.respuesta_correcta;
-                    document.getElementById("pregunta-container").style.backgroundColor = correcta ? "green" : "red";
-                    if (!correcta) li.style.backgroundColor = "red";
-                    setTimeout(() => mostrarPregunta(preguntas, indice + 1, correcta ? aciertos + 1 : aciertos, correcta ? fallos : fallos + 1), 3000);
-                });
-                opciones.appendChild(li);
+            
+            // Resaltar la respuesta correcta en azul
+            opciones.querySelectorAll("li").forEach(item => {
+                if (item.textContent === preguntaActual.respuesta_correcta) {
+                    item.style.backgroundColor = "blue";
+                }
             });
-        }
+            
+            // Mostrar explicación
+            explicacionContainer.textContent = preguntaActual.explicacion;
+            explicacionContainer.classList.remove("oculto");
+            
+            // Mostrar botón continuar después de 3 segundos
+            setTimeout(() => {
+                btnContinuar.classList.remove("oculto");
+                btnContinuar.onclick = () => mostrarPregunta(preguntas, indice + 1, aciertos, fallos);
+            }, 3000);
+        });
+        opciones.appendChild(li);
+    });
+}
 
         document.getElementById("btn-finalizar").addEventListener("click", function() {
             cambiarPantalla("pantalla-menu");
