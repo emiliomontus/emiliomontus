@@ -1,2 +1,411 @@
 {
-	"preguntas": 
+	"preguntas": [
+		{
+			"pregunta": "¿En qué siglo comenzó la Revolución Industrial?",
+			"opciones": [
+				"XVII",
+				"XVIII",
+				"XIX",
+				"XX"
+			],
+			"respuesta_correcta": "XVIII",
+			"explicación": "La Revolución Industrial comenzó en el siglo XVIII, aproximadamente en la década de 1760."
+		},
+		{
+			"pregunta": "¿En qué país comenzó la Revolución Industrial?",
+			"opciones": [
+				"Francia",
+				"Alemania",
+				"Reino Unido",
+				"Estados Unidos"
+			],
+			"respuesta_correcta": "Reino Unido",
+			"explicación": "La Revolución Industrial comenzó en el Reino Unido, específicamente en Inglaterra."
+		},
+		{
+			"pregunta": "¿Qué invento es atribuido a James Watt?",
+			"opciones": [
+				"La máquina de vapor",
+				"El telar mecánico",
+				"El motor de combustión interna",
+				"El telégrafo"
+			],
+			"respuesta_correcta": "La máquina de vapor",
+			"explicación": "James Watt mejoró significativamente la máquina de vapor, lo que impulsó la Revolución Industrial."
+		},
+		{
+			"pregunta": "¿Qué industria fue la primera en industrializarse?",
+			"opciones": [
+				"La industria textil",
+				"La industria del acero",
+				"La industria del carbón",
+				"La industria automotriz"
+			],
+			"respuesta_correcta": "La industria textil",
+			"explicación": "La industria textil fue la primera en industrializarse, con la introducción de máquinas como la hiladora Jenny y el telar mecánico."
+		},
+		{
+			"pregunta": "¿Qué invento es atribuido a Richard Arkwright?",
+			"opciones": [
+				"La hiladora Jenny",
+				"El telar mecánico",
+				"La máquina de vapor",
+				"El telégrafo"
+			],
+			"respuesta_correcta": "El telar mecánico",
+			"explicación": "Richard Arkwright inventó el telar mecánico, que revolucionó la industria textil."
+		},
+		{
+			"pregunta": "¿Qué invento es atribuido a Samuel Morse?",
+			"opciones": [
+				"La máquina de vapor",
+				"El telar mecánico",
+				"El motor de combustión interna",
+				"El telégrafo"
+			],
+			"respuesta_correcta": "El telégrafo",
+			"explicación": "Samuel Morse inventó el telégrafo y desarrolló el código Morse, que permitió la comunicación a larga distancia."
+		},
+		{
+			"pregunta": "¿Qué invento es atribuido a Eli Whitney?",
+			"opciones": [
+				"La desmotadora de algodón",
+				"El telar mecánico",
+				"La máquina de vapor",
+				"El telégrafo"
+			],
+			"respuesta_correcta": "La desmotadora de algodón",
+			"explicación": "Eli Whitney inventó la desmotadora de algodón, que revolucionó la producción de algodón en Estados Unidos."
+		},
+		{
+			"pregunta": "¿Qué invento es atribuido a George Stephenson?",
+			"opciones": [
+				"La locomotora de vapor",
+				"El telar mecánico",
+				"La máquina de vapor",
+				"El telégrafo"
+			],
+			"respuesta_correcta": "La locomotora de vapor",
+			"explicación": "George Stephenson inventó la locomotora de vapor, que revolucionó el transporte ferroviario."
+		},
+		{
+			"pregunta": "¿Qué invento es atribuido a Henry Bessemer?",
+			"opciones": [
+				"El proceso Bessemer",
+				"El telar mecánico",
+				"La máquina de vapor",
+				"El telégrafo"
+			],
+			"respuesta_correcta": "El proceso Bessemer",
+			"explicación": "Henry Bessemer inventó el proceso Bessemer, que permitió la producción masiva de acero."
+		},
+		{
+			"pregunta": "¿Qué invento es atribuido a Thomas Edison?",
+			"opciones": [
+				"La bombilla eléctrica",
+				"El telar mecánico",
+				"La máquina de vapor",
+				"El telégrafo"
+			],
+			"respuesta_correcta": "La bombilla eléctrica",
+			"explicación": "Thomas Edison inventó la bombilla eléctrica, que revolucionó la iluminación."
+		},
+		{
+			"pregunta": "¿Qué invento es atribuido a Alexander Graham Bell?",
+			"opciones": [
+				"El teléfono",
+				"El telar mecánico",
+				"La máquina de vapor",
+				"El telégrafo"
+			],
+			"respuesta_correcta": "El teléfono",
+			"explicación": "Alexander Graham Bell inventó el teléfono, que revolucionó la comunicación."
+		},
+		{
+			"pregunta": "¿Qué invento es atribuido a Nikola Tesla?",
+			"opciones": [
+				"La corriente alterna",
+				"El telar mecánico",
+				"La máquina de vapor",
+				"El telégrafo"
+			],
+			"respuesta_correcta": "La corriente alterna",
+			"explicación": "Nikola Tesla desarrolló la corriente alterna, que permitió la transmisión eficiente de electricidad a larga distancia."
+		},
+		{
+			"pregunta": "¿Qué invento es atribuido a John Kay?",
+			"opciones": [
+				"La lanzadera volante",
+				"El telar mecánico",
+				"La máquina de vapor",
+				"El telégrafo"
+			],
+			"respuesta_correcta": "La lanzadera volante",
+			"explicación": "John Kay inventó la lanzadera volante, que mejoró la eficiencia del tejido en la industria textil."
+		},
+		{
+			"pregunta": "¿Qué invento es atribuido a James Hargreaves?",
+			"opciones": [
+				"La hiladora Jenny",
+				"El telar mecánico",
+				"La máquina de vapor",
+				"El telégrafo"
+			],
+			"respuesta_correcta": "La hiladora Jenny",
+			"explicación": "James Hargreaves inventó la hiladora Jenny, que permitió la producción masiva de hilo."
+		},
+		{
+			"pregunta": "¿Qué invento es atribuido a Edmund Cartwright?",
+			"opciones": [
+				"El telar mecánico",
+				"La hiladora Jenny",
+				"La máquina de vapor",
+				"El telégrafo"
+			],
+			"respuesta_correcta": "El telar mecánico",
+			"explicación": "Edmund Cartwright inventó el telar mecánico, que revolucionó la industria textil."
+		},
+		{
+			"pregunta": "¿Qué invento es atribuido a Robert Fulton?",
+			"opciones": [
+				"El barco de vapor",
+				"El telar mecánico",
+				"La máquina de vapor",
+				"El telégrafo"
+			],
+			"respuesta_correcta": "El barco de vapor",
+			"explicación": "Robert Fulton inventó el barco de vapor, que revolucionó el transporte fluvial y marítimo."
+		},
+		{
+			"pregunta": "¿Qué invento es atribuido a Samuel Crompton?",
+			"opciones": [
+				"La mula hiladora",
+				"El telar mecánico",
+				"La máquina de vapor",
+				"El telégrafo"
+			],
+			"respuesta_correcta": "La mula hiladora",
+			"explicación": "Samuel Crompton inventó la mula hiladora, que combinaba características de la hiladora Jenny y el telar mecánico."
+		},
+		{
+			"pregunta": "¿Qué invento es atribuido a Charles Goodyear?",
+			"opciones": [
+				"La vulcanización del caucho",
+				"El telar mecánico",
+				"La máquina de vapor",
+				"El telégrafo"
+			],
+			"respuesta_correcta": "La vulcanización del caucho",
+			"explicación": "Charles Goodyear inventó el proceso de vulcanización del caucho, que mejoró la durabilidad del caucho."
+		},
+		{
+			"pregunta": "¿Qué invento es atribuido a Elias Howe?",
+			"opciones": [
+				"La máquina de coser",
+				"El telar mecánico",
+				"La máquina de vapor",
+				"El telégrafo"
+			],
+			"respuesta_correcta": "La máquina de coser",
+			"explicación": "Elias Howe inventó la máquina de coser, que revolucionó la industria de la confección."
+		},
+		{
+			"pregunta": "¿Qué invento es atribuido a John McAdam?",
+			"opciones": [
+				"El pavimento de macadán",
+				"El telar mecánico",
+				"La máquina de vapor",
+				"El telégrafo"
+			],
+			"respuesta_correcta": "El pavimento de macadán",
+			"explicación": "John McAdam inventó el pavimento de macadán, que mejoró la construcción de carreteras."
+		},
+		{
+			"pregunta": "¿Qué invento es atribuido a Thomas Newcomen?",
+			"opciones": [
+				"La máquina de vapor atmosférica",
+				"El telar mecánico",
+				"La máquina de vapor",
+				"El telégrafo"
+			],
+			"respuesta_correcta": "La máquina de vapor atmosférica",
+			"explicación": "Thomas Newcomen inventó la máquina de vapor atmosférica, que fue una precursora de la máquina de vapor de James Watt."
+		},
+		{
+			"pregunta": "¿Qué invento es atribuido a Richard Trevithick?",
+			"opciones": [
+				"La locomotora de alta presión",
+				"El telar mecánico",
+				"La máquina de vapor",
+				"El telégrafo"
+			],
+			"respuesta_correcta": "La locomotora de alta presión",
+			"explicación": "Richard Trevithick inventó la locomotora de alta presión, que mejoró el transporte ferroviario."
+		},
+		{
+			"pregunta": "¿Qué invento es atribuido a Joseph Marie Jacquard?",
+			"opciones": [
+				"El telar Jacquard",
+				"El telar mecánico",
+				"La máquina de vapor",
+				"El telégrafo"
+			],
+			"respuesta_correcta": "El telar Jacquard",
+			"explicación": "Joseph Marie Jacquard inventó el telar Jacquard, que permitió la producción de tejidos complejos."
+		},
+		{
+			"pregunta": "¿Qué invento es atribuido a John Loudon McAdam?",
+			"opciones": [
+				"El pavimento de macadán",
+				"El telar mecánico",
+				"La máquina de vapor",
+				"El telégrafo"
+			],
+			"respuesta_correcta": "El pavimento de macadán",
+			"explicación": "John Loudon McAdam mejoró la construcción de carreteras con su pavimento de macadán."
+		},
+		{
+			"pregunta": "¿Qué invento es atribuido a Henry Cort?",
+			"opciones": [
+				"El proceso de pudelado",
+				"El telar mecánico",
+				"La máquina de vapor",
+				"El telégrafo"
+			],
+			"respuesta_correcta": "El proceso de pudelado",
+			"explicación": "Henry Cort inventó el proceso de pudelado, que mejoró la producción de hierro forjado."
+		},
+		{
+			"pregunta": "¿Qué invento es atribuido a James Nasmyth?",
+			"opciones": [
+				"El martillo de vapor",
+				"El telar mecánico",
+				"La máquina de vapor",
+				"El telégrafo"
+			],
+			"respuesta_correcta": "El martillo de vapor",
+			"explicación": "James Nasmyth inventó el martillo de vapor, que revolucionó la forja de metales."
+		},
+		{
+			"pregunta": "¿Qué invento es atribuido a Charles Babbage?",
+			"opciones": [
+				"La máquina diferencial",
+				"El telar mecánico",
+				"La máquina de vapor",
+				"El telégrafo"
+			],
+			"respuesta_correcta": "La máquina diferencial",
+			"explicación": "Charles Babbage inventó la máquina diferencial, considerada una precursora de la computadora moderna."
+		},
+		{
+			"pregunta": "¿Qué invento es atribuido a William Murdoch?",
+			"opciones": [
+				"La iluminación a gas",
+				"El telar mecánico",
+				"La máquina de vapor",
+				"El telégrafo"
+			],
+			"respuesta_correcta": "La iluminación a gas",
+			"explicación": "William Murdoch inventó la iluminación a gas, que mejoró la iluminación urbana."
+		},
+		{
+			"pregunta": "¿Qué invento es atribuido a John Smeaton?",
+			"opciones": [
+				"El molino de viento de torre",
+				"El telar mecánico",
+				"La máquina de vapor",
+				"El telégrafo"
+			],
+			"respuesta_correcta": "El molino de viento de torre",
+			"explicación": "John Smeaton mejoró el diseño del molino de viento de torre, que aumentó la eficiencia de los molinos."
+		},
+		{
+			"pregunta": "¿Qué invento es atribuido a Thomas Savery?",
+			"opciones": [
+				"La máquina de vapor de bombeo",
+				"El telar mecánico",
+				"La máquina de vapor",
+				"El telégrafo"
+			],
+			"respuesta_correcta": "La máquina de vapor de bombeo",
+			"explicación": "Thomas Savery inventó la máquina de vapor de bombeo, utilizada para extraer agua de las minas."
+		},
+		{
+			"pregunta": "¿Qué invento es atribuido a John Wilkinson?",
+			"opciones": [
+				"El taladro de precisión",
+				"El telar mecánico",
+				"La máquina de vapor",
+				"El telégrafo"
+			],
+			"respuesta_correcta": "El taladro de precisión",
+			"explicación": "John Wilkinson inventó el taladro de precisión, que mejoró la fabricación de cilindros para máquinas de vapor."
+		},
+		{
+			"pregunta": "¿Qué invento es atribuido a Thomas Telford?",
+			"opciones": [
+				"El puente colgante",
+				"El telar mecánico",
+				"La máquina de vapor",
+				"El telégrafo"
+			],
+			"respuesta_correcta": "El puente colgante",
+			"explicación": "Thomas Telford diseñó y construyó varios puentes colgantes, mejorando la infraestructura de transporte."
+		},
+		{
+			"pregunta": "¿Qué invento es atribuido a Isambard Kingdom Brunel?",
+			"opciones": [
+				"El túnel bajo el Támesis",
+				"El telar mecánico",
+				"La máquina de vapor",
+				"El telégrafo"
+			],
+			"respuesta_correcta": "El túnel bajo el Támesis",
+			"explicación": "Isambard Kingdom Brunel diseñó y construyó el túnel bajo el Támesis, una hazaña de ingeniería en su época."
+		},
+		{
+			"pregunta": "¿Qué invento es atribuido a George Westinghouse?",
+			"opciones": [
+				"El freno de aire",
+				"El telar mecánico",
+				"La máquina de vapor",
+				"El telégrafo"
+			],
+			"respuesta_correcta": "El freno de aire",
+			"explicación": "George Westinghouse inventó el freno de aire, que mejoró la seguridad de los trenes."
+		},
+		{
+			"pregunta": "¿Qué invento es atribuido a John Deere?",
+			"opciones": [
+				"El arado de acero",
+				"El telar mecánico",
+				"La máquina de vapor",
+				"El telégrafo"
+			],
+			"respuesta_correcta": "El arado de acero",
+			"explicación": "John Deere inventó el arado de acero, que mejoró la eficiencia de la agricultura."
+		},
+		{
+			"pregunta": "¿Qué invento es atribuido a Cyrus McCormick?",
+			"opciones": [
+				"La segadora mecánica",
+				"El telar mecánico",
+				"La máquina de vapor",
+				"El telégrafo"
+			],
+			"respuesta_correcta": "La segadora mecánica",
+			"explicación": "Cyrus McCormick inventó la segadora mecánica, que revolucionó la cosecha de granos."
+		},
+		{
+			"pregunta": "¿Qué invento es atribuido a Karl Benz?",
+			"opciones": [
+				"El automóvil",
+				"El telar mecánico",
+				"La máquina de vapor",
+				"El telégrafo"
+			],
+			"respuesta_correcta": "El automóvil",
+			"explicación": "Karl Benz inventó el primer automóvil con motor de combustión interna."
+		}
+	]
+}
