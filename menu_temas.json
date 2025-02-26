@@ -1,30 +1,30 @@
 [
-    {
-        "tema": "La Revolución Francesa",
-        "cuestionario": "revolucion_francesa.json"
-    },
-    {
-        "tema": "Descubrimiento de América",
-        "cuestionario": "descubrimiento.json"
-    },
-    {
-        "tema": "La Guerra Fría",
-        "cuestionario": "guerra_fria.json"
-    },
-    {
-        "tema": "Las Guerras Napoleónicas",
-        "cuestionario": "napoleonicas.json"
-    },
-    {
-        "tema": "La Revolución Industrial",
-        "cuestionario": "revolucion_industrial.json"
-    },
-    {
-        "tema": "Primera Guerra Mundial",
-        "cuestionario": "wwi.json"
-    },
-    {
-        "tema": "Segunda Guerra Mundial",
-        "cuestionario": "wwii.json"
-    }
+	{
+		"tema": "Descubrimiento de América",
+		"cuestionario": "descubrimiento.json"
+	},
+	{
+		"tema": "La Revolución Francesa",
+		"cuestionario": "revolucion_francesa.json"
+	},
+	{
+		"tema": "Las Guerras Napoleónicas",
+		"cuestionario": "napoleonicas.json"
+	},
+	{
+		"tema": "La Revolución Industrial",
+		"cuestionario": "revolucion_industrial.json"
+	},
+	{
+		"tema": "Primera Guerra Mundial",
+		"cuestionario": "wwi.json"
+	},
+	{
+		"tema": "Segunda Guerra Mundial",
+		"cuestionario": "wwii.json"
+	},
+	{
+		"tema": "La Guerra Fría",
+		"cuestionario": "guerra_fria.json"
+	}
 ]
