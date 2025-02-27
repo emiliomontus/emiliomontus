@@ -7,27 +7,38 @@
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-	<h1>HistoriApp</h1>
-	<footer>
+
+
+
+	<h1>HistoriApp</h1> // Pasar el encabezado al "body" para que esté en todas las pantallas
+	<footer> // añadir pie de página en todas las pantallas
 		Proyecto PAI - Liceo Europeo - Emilio M.F. - 2025
 	</footer>		
+
+
+
+
 	<div id="pantalla-inicio" class="pantalla activa">
+
+	// añadir párrafo de explicación. mover el style al css
 		<p style="font-size: 18px; font-weight: bold; text-align: center; margin: 20px;">
 			Bienvenido a HistoriApp, tu app para aprender Historia de forma fácil y divertida.<br><br>
 			Escoge un tema que quieras repasar y responde a las 10 preguntas del cuestionario.
 		</p>
-        <button id="btn-play">Play</button>
-    </div>
-    
+
+		<button id="btn-play">Play</button>
+    </div>    
     <div id="pantalla-menu" class="pantalla">
         <h2>Selecciona un tema</h2>
         <ul id="lista-temas"></ul>
     </div>
-    
     <div id="pantalla-cuestionario" class="pantalla">
         <div id="pregunta-container"></div>
         <ul id="opciones"></ul>
-        <div id="explicacion-container" class="oculto"></div>
+
+		<div id="explicacion-container"></div>
+
+//		<div id="explicacion-container" class="oculto"></div>
         <button id="btn-continuar" class="oculto">Continuar</button>
     </div>
     
@@ -92,7 +103,7 @@
     opciones.innerHTML = "";
     let explicacionContainer = document.getElementById("explicacion-container");
     explicacionContainer.innerHTML = "";
-    explicacionContainer.classList.add("oculto");
+//    explicacionContainer.classList.add("oculto");
     let btnContinuar = document.getElementById("btn-continuar");
     btnContinuar.classList.add("oculto");
 
@@ -125,8 +136,8 @@
             // Mostrar explicación siempre
             explicacionContainer.textContent = preguntaActual.explicacion;
             //explicacionContainer.classList.remove("oculto");
-			explicacionContainer.classList.remove("oculto");
-			explicacionContainer.classList.add("explicacion-visible");
+//			explicacionContainer.classList.remove("oculto");
+//			explicacionContainer.classList.add("explicacion-visible");
             
             // Mostrar botón continuar después de 3 segundos
             setTimeout(() => {
