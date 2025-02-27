@@ -97,6 +97,8 @@
             
             if (correcta) {
                 li.style.backgroundColor = "green";
+				li.style.color = "white";  // Texto en blanco
+				li.style.fontWeight = "bold"; // Texto en negrita
                 aciertos++;
             } else {
                 li.style.backgroundColor = "red";
@@ -105,6 +107,8 @@
                 opciones.querySelectorAll("li").forEach(item => {
                     if (item.textContent === preguntaActual.respuesta_correcta) {
                         item.style.backgroundColor = "blue";
+						item.style.color = "white";  // Texto en blanco
+						item.style.fontWeight = "bold"; // Texto en negrita
                     }
                 });
             }
