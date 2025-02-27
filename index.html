@@ -12,11 +12,9 @@
 		Proyecto PAI - Liceo Europeo - Emilio M.F. - 2025
 	</footer>		
 	<div id="pantalla-inicio" class="pantalla activa">
-        <h1>HistoriApp</h1>
 		<p style="font-size: 18px; font-weight: bold; text-align: center; margin: 20px;">
-			Bienvenido a HistoriApp, tu app para aprender Historia de forma fácil y divertida.<br><br><br>
-			Escoge un tema que quieras repasar y responde a las 10 preguntas del cuestionario. 
-			Preparada por Emilio M.
+			Bienvenido a HistoriApp, tu app para aprender Historia de forma fácil y divertida.<br><br>
+			Escoge un tema que quieras repasar y responde a las 10 preguntas del cuestionario.
 		</p>
         <button id="btn-play">Play</button>
     </div>
@@ -126,7 +124,9 @@
             
             // Mostrar explicación siempre
             explicacionContainer.textContent = preguntaActual.explicacion;
-            explicacionContainer.classList.remove("oculto");
+            //explicacionContainer.classList.remove("oculto");
+			explicacionContainer.classList.remove("oculto");
+			explicacionContainer.classList.add("explicacion-visible");
             
             // Mostrar botón continuar después de 3 segundos
             setTimeout(() => {
