@@ -10,8 +10,8 @@
 
 
 
-	<h1>HistoriApp</h1> // Pasar el encabezado al "body" para que esté en todas las pantallas
-	<footer> // añadir pie de página en todas las pantallas
+	<h1>HistoriApp</h1>
+	<footer>
 		Proyecto PAI - Liceo Europeo - Emilio M.F. - 2025
 	</footer>		
 
@@ -101,7 +101,7 @@
     opciones.innerHTML = "";
     let explicacionContainer = document.getElementById("explicacion-container");
     explicacionContainer.innerHTML = "";
-//    explicacionContainer.classList.add("oculto");
+    explicacionContainer.classList.add("oculto");
     let btnContinuar = document.getElementById("btn-continuar");
     btnContinuar.classList.add("oculto");
 
@@ -132,16 +132,16 @@
             }
             
             // Mostrar explicación siempre
-            explicacionContainer.textContent = preguntaActual.explicacion;
+            explicacionContainer.textContent = preguntaActual.explicación;
             //explicacionContainer.classList.remove("oculto");
-//			explicacionContainer.classList.remove("oculto");
-//			explicacionContainer.classList.add("explicacion-visible");
+			explicacionContainer.classList.remove("oculto");
+			explicacionContainer.classList.add("explicacion-visible");
             
             // Mostrar botón continuar después de 3 segundos
             setTimeout(() => {
                 btnContinuar.classList.remove("oculto");
                 btnContinuar.onclick = () => mostrarPregunta(preguntas, indice + 1, aciertos, fallos);
-            }, 3000);
+            }, 1500);
         });
         opciones.appendChild(li);
     });
