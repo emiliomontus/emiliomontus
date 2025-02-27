@@ -1,0 +1,19 @@
+.oculto {
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity 0.3s ease-in-out;
+}
+
+.explicacion-visible {
+    opacity: 1;
+    visibility: visible;
+    transition: opacity 0.3s ease-in-out;
+}
+
+
+
+En este caso, en lugar de classList.remove("oculto"), podrías hacer:
+
+
+explicacionContainer.classList.remove("oculto");
+explicacionContainer.classList.add("explicacion-visible");
