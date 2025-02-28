@@ -31,7 +31,7 @@
 				"El telégrafo"
 			],
 			"respuesta_correcta": "La máquina de vapor",
-			"explicación": "James Watt mejoró significativamente la máquina de vapor, lo que impulsó la Revolución Industrial."
+			"explicación": "James Watt mejoró significativamente la máquina de vapor en 1769, lo que impulsó la Revolución Industrial."
 		},
 		{
 			"pregunta": "¿Qué industria fue la primera en industrializarse?",
@@ -108,7 +108,7 @@
 				"El telégrafo"
 			],
 			"respuesta_correcta": "La bombilla eléctrica",
-			"explicación": "Thomas Edison inventó la bombilla eléctrica, que revolucionó la iluminación."
+			"explicación": "Thomas Edison inventó la bombilla eléctrica en 1879, que revolucionó la iluminación."
 		},
 		{
 			"pregunta": "¿Qué invento es atribuido a Alexander Graham Bell?",
@@ -405,7 +405,7 @@
 				"El telégrafo"
 			],
 			"respuesta_correcta": "El automóvil",
-			"explicación": "Karl Benz inventó el primer automóvil con motor de combustión interna."
+			"explicación": "Karl Benz inventó el primer automóvil en 1886 con motor de combustión interna."
 		}
 	]
 }

@@ -111,17 +111,6 @@
 			"explicación": "La OTAN (Organización del Tratado del Atlántico Norte) fue fundada en 1949 para la defensa colectiva contra la URSS."
 		},
 		{
-			"pregunta": "¿En qué año comenzó la Guerra Fría?",
-			"opciones": [
-				"1945",
-				"1947",
-				"1950",
-				"1953"
-			],
-			"respuesta_correcta": "1947",
-			"explicación": "La Guerra Fría comenzó en 1947, poco después del final de la Segunda Guerra Mundial, con el inicio de las tensiones entre Estados Unidos y la Unión Soviética."
-		},
-		{
 			"pregunta": "¿Qué conferencia de 1945 es considerada el inicio de la división de Europa en bloques?",
 			"opciones": [
 				"Conferencia de Yalta",
@@ -155,21 +144,10 @@
 			"explicación": "El Plan Marshall, implementado en 1948, fue un programa de ayuda económica de Estados Unidos para la reconstrucción de Europa tras la Segunda Guerra Mundial."
 		},
 		{
-			"pregunta": "¿Qué organización militar fue creada en 1949 como una alianza defensiva entre Estados Unidos y Europa Occidental?",
-			"opciones": [
-				"OTAN",
-				"Pacto de Varsovia",
-				"ONU",
-				"OEA"
-			],
-			"respuesta_correcta": "OTAN",
-			"explicación": "La OTAN (Organización del Tratado del Atlántico Norte) fue creada en 1949 como una alianza defensiva entre Estados Unidos y Europa Occidental."
-		},
-		{
 			"pregunta": "¿Qué organización militar fue creada en 1955 como respuesta a la OTAN?",
 			"opciones": [
 				"Pacto de Varsovia",
-				"OTAN",
+				"Comunidad Económica Europea",
 				"ONU",
 				"OEA"
 			],
@@ -186,17 +164,6 @@
 			],
 			"respuesta_correcta": "Crisis de los Misiles en Cuba",
 			"explicación": "La Crisis de los Misiles en Cuba en 1962 llevó al mundo al borde de una guerra nuclear entre Estados Unidos y la Unión Soviética."
-		},
-		{
-			"pregunta": "¿Qué muro, construido en 1961, se convirtió en un símbolo de la división de Europa durante la Guerra Fría?",
-			"opciones": [
-				"Muro de Berlín",
-				"Muro de Varsovia",
-				"Muro de Praga",
-				"Muro de Budapest"
-			],
-			"respuesta_correcta": "Muro de Berlín",
-			"explicación": "El Muro de Berlín, construido en 1961, se convirtió en un símbolo de la división de Europa durante la Guerra Fría."
 		},
 		{
 			"pregunta": "¿Qué conflicto armado tuvo lugar entre 1950 y 1953 en Asia, involucrando a Estados Unidos y sus aliados contra Corea del Norte y China?",
@@ -474,7 +441,7 @@
 			"explicación": "Mijaíl Gorbachov sucedió a Konstantín Chernenko como líder de la Unión Soviética en 1985."
 		},
 		{
-			"pregunta": "¿Qué evento de 1961 fue un intento de la Unión Soviética de instalar misiles nucleares en Cuba?",
+			"pregunta": "¿Qué evento de 1962 fue un intento de la Unión Soviética de instalar misiles nucleares en Cuba?",
 			"opciones": [
 				"Crisis de los Misiles en Cuba",
 				"Invasión de Bahía de Cochinos",

@@ -9,7 +9,7 @@
 				"1918"
 			],
 			"respuesta_correcta": "1914",
-			"explicación": "La Primera Guerra Mundial comenzó en 1914 tras el asesinato del archiduque Francisco Fernando de Austria."
+			"explicación": "La Primera Guerra Mundial comenzó en 1914."
 		},
 		{
 			"pregunta": "¿Cuál fue el evento desencadenante de la Primera Guerra Mundial?",
@@ -26,12 +26,12 @@
 			"pregunta": "¿Qué países formaban parte de las Potencias Centrales?",
 			"opciones": [
 				"Francia, Rusia, Reino Unido",
-				"Alemania, Austria-Hungría, Imperio Otomano",
+				"Alemania, Austria-Hungría, Imperio Otomano y Bulgaria",
 				"Estados Unidos, Italia, Japón",
 				"Bélgica, Serbia, Grecia"
 			],
-			"respuesta_correcta": "Alemania, Austria-Hungría, Imperio Otomano",
-			"explicación": "Las Potencias Centrales estaban formadas principalmente por Alemania, Austria-Hungría y el Imperio Otomano."
+			"respuesta_correcta": "Alemania, Austria-Hungría, Imperio Otomano y Bulgaria",
+			"explicación": "Las Potencias Centrales estaban formadas principalmente por Alemania, Austria-Hungría, el Imperio Otomano y Bulgaria."
 		},
 		{
 			"pregunta": "¿Qué tratado puso fin a la Primera Guerra Mundial?",
@@ -64,7 +64,7 @@
 				"Batalla de Marne"
 			],
 			"respuesta_correcta": "Batalla de Verdún",
-			"explicación": "La Batalla de Verdún, librada en 1916, es conocida por su duración y el alto número de bajas."
+			"explicación": "La Batalla de Verdún, librada en 1916, es conocida por su duración de 10 meses y el alto número de bajas."
 		},
 		{
 			"pregunta": "¿Qué arma química fue utilizada por primera vez en la Primera Guerra Mundial?",
@@ -461,17 +461,6 @@
 			],
 			"respuesta_correcta": "Una ofensiva aliada en el frente occidental",
 			"explicación": "La Batalla de Passchendaele fue una ofensiva aliada en el frente occidental en 1917, conocida por las difíciles condiciones de combate."
-		},
-		{
-			"pregunta": "¿Qué fue la 'Batalla de Jutlandia'?",
-			"opciones": [
-				"Una batalla naval en el Atlántico",
-				"Una ofensiva aliada en el frente occidental",
-				"Una campaña en el Medio Oriente",
-				"Una batalla aérea"
-			],
-			"respuesta_correcta": "Una batalla naval en el Atlántico",
-			"explicación": "La Batalla de Jutlandia fue la mayor batalla naval de la Primera Guerra Mundial, librada entre la Royal Navy británica y la Kaiserliche Marine alemana."
 		}
 	]
 }

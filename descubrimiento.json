@@ -116,10 +116,10 @@
 				"Cristóbal Colón",
 				"Fernando de Magallanes",
 				"Vasco Núñez de Balboa",
-				"Hernán Cortés"
+				"Juan Sebastián Elcano"
 			],
-			"respuesta_correcta": "Fernando de Magallanes",
-			"explicación": "Fernando de Magallanes fue el primero en circunnavegar el globo terráqueo, aunque murió durante el viaje y fue completado por Juan Sebastián Elcano."
+			"respuesta_correcta": "Juan Sebastián Elcano",
+			"explicación": "Juan Sebastián Elcano fue el primero en circunnavegar el globo terráqueo, aunque Fernando de Magallanes le acompañó, Murió durante la cirunnavegación."
 		},
 		{
 			"pregunta": "¿Qué explorador descubrió el Océano Pacífico?",
@@ -207,7 +207,7 @@
 				"Hernán Cortés"
 			],
 			"respuesta_correcta": "Vasco Núñez de Balboa",
-			"explicación": "Vasco Núñez de Balboa fue el primer europeo en cruzar el istmo de Panamá y avistar el Océano Pacífico en 1513."
+			"explicación": "Vasco Núñez de Balboa fue el primer europeo en cruzar el istmo de Panamá en 1513."
 		},
 		{
 			"pregunta": "¿Qué explorador fue el primero en llegar a la desembocadura del río Amazonas?",
@@ -430,7 +430,7 @@
 			"explicación": "Juan Díaz de Solís fue el primer explorador en llegar a la costa de Uruguay en 1516."
 		},
 		{
-			"pregunta": "¿Qué explorador fue el primero en llegar a la costa de Paraguay?",
+			"pregunta": "¿Qué explorador fue el primero en llegar a Paraguay?",
 			"opciones": [
 				"Cristóbal Colón",
 				"Juan de Ayolas",
@@ -438,7 +438,7 @@
 				"Hernán Cortés"
 			],
 			"respuesta_correcta": "Juan de Ayolas",
-			"explicación": "Juan de Ayolas fue el primer explorador en llegar a la costa de Paraguay en 1537."
+			"explicación": "Juan de Ayolas fue el primer explorador en llegar a Paraguay a través del río Paraná en 1537."
 		},
 		{
 			"pregunta": "¿Qué nombre dio Cristóbal Colón a la isla que hoy conocemos como Montserrat?",
