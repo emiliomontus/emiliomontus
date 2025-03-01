@@ -3,16 +3,20 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>HistoriApp</title>
+    <title>HistoriApp</title> <!-- Confirmar el nombre de la app para la barra de estado del navegador -->
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
+	<!-- Revisar si queremos título y pie de página en todas y cómo se pondría -->
     <div id="pantalla-inicio" class="pantalla activa">
+		<!-- revisar cómo pasar el título para que salga en todas las páginas -->
         <h1>HistoriApp</h1>
+		<!-- insertar código para mostrar las instrucciones y la bienvenida al juego -->
         <button id="btn-play">Play</button>
     </div>
     
     <div id="pantalla-menu" class="pantalla">
+		<!-- Revisar estilo del encabezado -->
         <h2>Selecciona un tema</h2>
         <ul id="lista-temas"></ul>
     </div>
@@ -83,7 +87,7 @@
     document.getElementById("pregunta-container").textContent = preguntaActual.pregunta;
     let opciones = document.getElementById("opciones");
     opciones.innerHTML = "";
-    let explicacionContainer = document.getElementById("explicacion-container");
+	let explicacionContainer = document.getElementById("explicacion-container");
     explicacionContainer.innerHTML = "";
     explicacionContainer.classList.add("oculto");
     let btnContinuar = document.getElementById("btn-continuar");
