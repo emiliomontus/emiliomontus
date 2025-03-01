@@ -129,11 +129,11 @@
                     explicacionContainer.classList.remove("oculto");
                     explicacionContainer.classList.add("explicacion-visible");
 
-                    // Mostrar botón continuar después de 3 segundos
+                    // Mostrar botón continuar después de 2 segundos
                     setTimeout(() => {
                         btnContinuar.classList.remove("oculto");
                         btnContinuar.onclick = () => mostrarPregunta(preguntas, indice + 1, aciertos, fallos);
-                    }, 3000);
+                    }, 2000);
                 });
                 opciones.appendChild(li);
             });
