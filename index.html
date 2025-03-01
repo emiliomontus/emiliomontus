@@ -1,33 +1,35 @@
 <!DOCTYPE html>
 <html lang="es">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>HistoriApp</title> <!-- Confirmar el nombre de la app para la barra de estado del navegador -->
     <link rel="stylesheet" href="styles.css">
 </head>
+
 <body>
-	<!-- Revisar si queremos título y pie de página en todas y cómo se pondría -->
+    <!-- Revisar si queremos título y pie de página en todas y cómo se pondría -->
     <div id="pantalla-inicio" class="pantalla activa">
-		<!-- revisar cómo pasar el título para que salga en todas las páginas -->
+        <!-- revisar cómo pasar el título para que salga en todas las páginas -->
         <h1>HistoriApp</h1>
-		<!-- insertar código para mostrar las instrucciones y la bienvenida al juego -->
+        <!-- insertar código para mostrar las instrucciones y la bienvenida al juego -->
         <button id="btn-play">Play</button>
     </div>
-    
+
     <div id="pantalla-menu" class="pantalla">
-		<!-- Revisar estilo del encabezado -->
+        <!-- Revisar estilo del encabezado -->
         <h2>Selecciona un tema</h2>
         <ul id="lista-temas"></ul>
     </div>
-    
+
     <div id="pantalla-cuestionario" class="pantalla">
         <div id="pregunta-container"></div>
         <ul id="opciones"></ul>
         <div id="explicacion-container" class="oculto"></div>
         <button id="btn-continuar" class="oculto">Continuar</button>
     </div>
-    
+
     <div id="pantalla-resultados" class="pantalla">
         <h2>Resultados</h2>
         <p>Aciertos: <span id="aciertos"></span></p>
@@ -35,9 +37,9 @@
         <p>Puntos: <span id="puntos"></span></p>
         <button id="btn-finalizar">Finalizar</button>
     </div>
-    
+
     <script>
-        document.getElementById("btn-play").addEventListener("click", function() {
+        document.getElementById("btn-play").addEventListener("click", function () {
             cambiarPantalla("pantalla-menu");
             cargarTemas();
         });
@@ -53,17 +55,17 @@
                 .then(data => {
                     let listaTemas = document.getElementById("lista-temas");
 
-            data.forEach(tema => {
-                let item = document.createElement("li");
-                item.textContent = tema.tema; // Acceder correctamente al nombre del tema
-                item.addEventListener("click", function() {
-                    iniciarCuestionario(tema.cuestionario);
-                });
-                listaTemas.appendChild(item); // Agregar el elemento <li> a la lista
-            });
-        })
+                    data.forEach(tema => {
+                        let item = document.createElement("li");
+                        item.textContent = tema.tema; // Acceder correctamente al nombre del tema
+                        item.addEventListener("click", function () {
+                            iniciarCuestionario(tema.cuestionario);
+                        });
+                        listaTemas.appendChild(item); // Agregar el elemento <li> a la lista
+                    });
+                })
         }
-        
+
         function iniciarCuestionario(archivoCuestionario) {
             fetch(archivoCuestionario)
                 .then(response => response.json())
@@ -75,62 +77,69 @@
         }
 
         function mostrarPregunta(preguntas, indice, aciertos, fallos) {
-    if (indice >= preguntas.length) {
-        document.getElementById("aciertos").textContent = aciertos;
-        document.getElementById("fallos").textContent = fallos;
-        document.getElementById("puntos").textContent = aciertos * 10;
-        cambiarPantalla("pantalla-resultados");
-        return;
-    }
-
-    let preguntaActual = preguntas[indice];
-    document.getElementById("pregunta-container").textContent = preguntaActual.pregunta;
-    let opciones = document.getElementById("opciones");
-    opciones.innerHTML = "";
-	let explicacionContainer = document.getElementById("explicacion-container");
-    explicacionContainer.innerHTML = "";
-    explicacionContainer.classList.add("oculto");
-    let btnContinuar = document.getElementById("btn-continuar");
-    btnContinuar.classList.add("oculto");
-
-    preguntaActual.opciones.forEach(opcion => {
-        let li = document.createElement("li");
-        li.textContent = opcion;
-        li.addEventListener("click", function() {
-            let correcta = opcion === preguntaActual.respuesta_correcta;
-            
-            if (correcta) {
-                li.style.backgroundColor = "green";
-                aciertos++;
-            } else {
-                li.style.backgroundColor = "red";
-                fallos++;
-                // Resaltar la respuesta correcta en azul solo si la respuesta es incorrecta
-                opciones.querySelectorAll("li").forEach(item => {
-                    if (item.textContent === preguntaActual.respuesta_correcta) {
-                        item.style.backgroundColor = "blue";
-                    }
-                });
+            if (indice >= preguntas.length) {
+                document.getElementById("aciertos").textContent = aciertos;
+                document.getElementById("fallos").textContent = fallos;
+                document.getElementById("puntos").textContent = aciertos * 10;
+                cambiarPantalla("pantalla-resultados");
+                return;
             }
-            
-            // Mostrar explicación siempre
-            explicacionContainer.textContent = preguntaActual.explicación;
-            explicacionContainer.classList.remove("oculto");
-            explicacionContainer.classList.add("explicacion-visible");
-            
-            // Mostrar botón continuar después de 3 segundos
-            setTimeout(() => {
-                btnContinuar.classList.remove("oculto");
-                btnContinuar.onclick = () => mostrarPregunta(preguntas, indice + 1, aciertos, fallos);
-            }, 3000);
-        });
-        opciones.appendChild(li);
-    });
-}
 
-        document.getElementById("btn-finalizar").addEventListener("click", function() {
+            let preguntaActual = preguntas[indice];
+            document.getElementById("pregunta-container").textContent = preguntaActual.pregunta;
+            let opciones = document.getElementById("opciones");
+            opciones.innerHTML = "";
+            let explicacionContainer = document.getElementById("explicacion-container");
+            explicacionContainer.innerHTML = "";
+            explicacionContainer.classList.add("oculto");
+            let btnContinuar = document.getElementById("btn-continuar");
+            btnContinuar.classList.add("oculto");
+
+            preguntaActual.opciones.forEach(opcion => {
+                let li = document.createElement("li");
+                li.textContent = opcion;
+                li.addEventListener("click", function () {
+                    let correcta = opcion === preguntaActual.respuesta_correcta;
+
+                    if (correcta) {
+                        li.style.backgroundColor = "green";
+                        li.style.color = "white";
+                        li.style.fontWeight = "bold";
+                        aciertos++;
+                    } else {
+                        li.style.backgroundColor = "red";
+                        li.style.color = "white";
+                        li.style.fontWeight = "bold";
+                        fallos++;
+                        // Resaltar la respuesta correcta en azul solo si la respuesta es incorrecta
+                        opciones.querySelectorAll("li").forEach(item => {
+                            if (item.textContent === preguntaActual.respuesta_correcta) {
+                                item.style.backgroundColor = "blue";
+                                li.style.color = "white";
+                                li.style.fontWeight = "bold";
+                            }
+                        });
+                    }
+
+                    // Mostrar explicación siempre
+                    explicacionContainer.textContent = preguntaActual.explicación;
+                    explicacionContainer.classList.remove("oculto");
+                    explicacionContainer.classList.add("explicacion-visible");
+
+                    // Mostrar botón continuar después de 3 segundos
+                    setTimeout(() => {
+                        btnContinuar.classList.remove("oculto");
+                        btnContinuar.onclick = () => mostrarPregunta(preguntas, indice + 1, aciertos, fallos);
+                    }, 3000);
+                });
+                opciones.appendChild(li);
+            });
+        }
+
+        document.getElementById("btn-finalizar").addEventListener("click", function () {
             cambiarPantalla("pantalla-menu");
         });
     </script>
 </body>
+
 </html>
