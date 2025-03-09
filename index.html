@@ -16,6 +16,27 @@
 		gtag('config', 'G-THDDLME63J');
 	</script>
 	<!-- fin - Google Analytics tag (gtag.js) -->
+	<!-- Banner de cookies -->
+	<script src="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.js"></script>
+	<script>
+		window.addEventListener("load", function () {
+			window.cookieconsent.initialise({
+				palette: {
+					popup: { background: "#000" },
+					button: { background: "#f1d600" }
+				},
+				theme: "classic",
+				position: "bottom",
+				content: {
+					message: "Este sitio web usa cookies para mejorar la experiencia del usuario.",
+					dismiss: "Aceptar",
+					link: "Leer más",
+					href: "https://appistoteles.com/cookies.html"
+				}
+			});
+		});
+	</script>
+	<!-- fin - Banner de cookies -->
 </head>
 
 <body>
