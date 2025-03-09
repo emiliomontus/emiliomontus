@@ -2,147 +2,158 @@
 <html lang="es">
 
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>APPistóteles</title> <!-- Confirmar el nombre de la app para la barra de estado del navegador -->
-    <link rel="stylesheet" href="styles.css">
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>APPistóteles</title> <!-- Confirmar el nombre de la app para la barra de estado del navegador -->
+	<link rel="stylesheet" href="styles.css">
+	<!-- Google Analytics tag (gtag.js) -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-THDDLME63J"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag() { dataLayer.push(arguments); }
+		gtag('js', new Date());
+
+		gtag('config', 'G-THDDLME63J');
+	</script>
+	<!-- fin - Google Analytics tag (gtag.js) -->
 </head>
 
 <body>
-    <h1>APPistóteles</h1>
-    <footer>
-        Proyecto PAI - Liceo Europeo - Emilio M.F. - 2025
-    </footer>
-    <div id="pantalla-inicio" class="pantalla activa">
-        <p>
-            Bienvenido a APPistóteles, tu app favorita para aprender historia de una manera fácil y entretenida. <br><br>
-            Escoge un tema de la lista que quieras repasar y responde a las 10 preguntas del siguiente cuestionario.
-        </p>
-        <button id="btn-play">Play</button>
-    </div>
+	<h1>APPistóteles</h1>
+	<footer>
+		Proyecto PAI - Liceo Europeo - 2025
+	</footer>
+	<div id="pantalla-inicio" class="pantalla activa">
+		<p>
+			Bienvenido a APPistóteles, tu app favorita para aprender historia de una manera fácil y entretenida.
+			<br><br>
+			Escoge un tema de la lista que quieras repasar y responde a las 10 preguntas del siguiente cuestionario.
+		</p>
+		<button id="btn-play">Play</button>
+	</div>
 
-    <div id="pantalla-menu" class="pantalla">
-        <h2>Selecciona un tema</h2>
-        <ul id="lista-temas"></ul>
-    </div>
+	<div id="pantalla-menu" class="pantalla">
+		<h2>Selecciona un tema</h2>
+		<ul id="lista-temas"></ul>
+	</div>
 
-    <div id="pantalla-cuestionario" class="pantalla">
-        <div id="pregunta-container"></div>
-        <ul id="opciones"></ul>
-        <div id="explicacion-container" class="oculto"></div>
-        <button id="btn-continuar" class="oculto">Continuar</button>
-    </div>
+	<div id="pantalla-cuestionario" class="pantalla">
+		<div id="pregunta-container"></div>
+		<ul id="opciones"></ul>
+		<div id="explicacion-container" class="oculto"></div>
+		<button id="btn-continuar" class="oculto">Continuar</button>
+	</div>
 
-    <div id="pantalla-resultados" class="pantalla">
-        <h2>Resultados</h2>
-        <p>Aciertos: <span id="aciertos"></span></p>
-        <p>Fallos: <span id="fallos"></span></p>
-        <p>Puntos: <span id="puntos"></span></p>
-        <button id="btn-finalizar">Finalizar</button>
-    </div>
+	<div id="pantalla-resultados" class="pantalla">
+		<h2>Resultados</h2>
+		<p>Aciertos: <span id="aciertos"></span></p>
+		<p>Fallos: <span id="fallos"></span></p>
+		<p>Puntos: <span id="puntos"></span></p>
+		<button id="btn-finalizar">Finalizar</button>
+	</div>
 
-    <script>
-        document.getElementById("btn-play").addEventListener("click", function () {
-            cambiarPantalla("pantalla-menu");
-            cargarTemas();
-        });
+	<script>
+		document.getElementById("btn-play").addEventListener("click", function () {
+			cambiarPantalla("pantalla-menu");
+			cargarTemas();
+		});
 
-        function cambiarPantalla(idPantalla) {
-            document.querySelectorAll(".pantalla").forEach(pantalla => pantalla.classList.remove("activa"));
-            document.getElementById(idPantalla).classList.add("activa");
-        }
+		function cambiarPantalla(idPantalla) {
+			document.querySelectorAll(".pantalla").forEach(pantalla => pantalla.classList.remove("activa"));
+			document.getElementById(idPantalla).classList.add("activa");
+		}
 
-        function cargarTemas() {
-            fetch("menu_temas.json")
-                .then(response => response.json())
-                .then(data => {
-                    let listaTemas = document.getElementById("lista-temas");
+		function cargarTemas() {
+			fetch("menu_temas.json")
+				.then(response => response.json())
+				.then(data => {
+					let listaTemas = document.getElementById("lista-temas");
 
-                    data.forEach(tema => {
-                        let item = document.createElement("li");
-                        item.textContent = tema.tema; // Acceder correctamente al nombre del tema
-                        item.addEventListener("click", function () {
-                            iniciarCuestionario(tema.cuestionario);
-                        });
-                        listaTemas.appendChild(item); // Agregar el elemento <li> a la lista
-                    });
-                })
-        }
+					data.forEach(tema => {
+						let item = document.createElement("li");
+						item.textContent = tema.tema; // Acceder correctamente al nombre del tema
+						item.addEventListener("click", function () {
+							iniciarCuestionario(tema.cuestionario);
+						});
+						listaTemas.appendChild(item); // Agregar el elemento <li> a la lista
+					});
+				})
+		}
 
-        function iniciarCuestionario(archivoCuestionario) {
-            fetch(archivoCuestionario)
-                .then(response => response.json())
-                .then(data => {
-                    let preguntas = data.preguntas.sort(() => 0.5 - Math.random()).slice(0, 10);
-                    mostrarPregunta(preguntas, 0, 0, 0);
-                });
-            cambiarPantalla("pantalla-cuestionario");
-        }
+		function iniciarCuestionario(archivoCuestionario) {
+			fetch(archivoCuestionario)
+				.then(response => response.json())
+				.then(data => {
+					let preguntas = data.preguntas.sort(() => 0.5 - Math.random()).slice(0, 10);
+					mostrarPregunta(preguntas, 0, 0, 0);
+				});
+			cambiarPantalla("pantalla-cuestionario");
+		}
 
-        function mostrarPregunta(preguntas, indice, aciertos, fallos) {
-            if (indice >= preguntas.length) {
-                document.getElementById("aciertos").textContent = aciertos;
-                document.getElementById("fallos").textContent = fallos;
-                document.getElementById("puntos").textContent = aciertos * 10;
-                cambiarPantalla("pantalla-resultados");
-                return;
-            }
+		function mostrarPregunta(preguntas, indice, aciertos, fallos) {
+			if (indice >= preguntas.length) {
+				document.getElementById("aciertos").textContent = aciertos;
+				document.getElementById("fallos").textContent = fallos;
+				document.getElementById("puntos").textContent = aciertos * 10;
+				cambiarPantalla("pantalla-resultados");
+				return;
+			}
 
-            let preguntaActual = preguntas[indice];
-            document.getElementById("pregunta-container").textContent = preguntaActual.pregunta;
-            let opciones = document.getElementById("opciones");
-            opciones.innerHTML = "";
-            let explicacionContainer = document.getElementById("explicacion-container");
-            explicacionContainer.innerHTML = "";
-            explicacionContainer.classList.add("oculto");
-            let btnContinuar = document.getElementById("btn-continuar");
-            btnContinuar.classList.add("oculto");
+			let preguntaActual = preguntas[indice];
+			document.getElementById("pregunta-container").textContent = preguntaActual.pregunta;
+			let opciones = document.getElementById("opciones");
+			opciones.innerHTML = "";
+			let explicacionContainer = document.getElementById("explicacion-container");
+			explicacionContainer.innerHTML = "";
+			explicacionContainer.classList.add("oculto");
+			let btnContinuar = document.getElementById("btn-continuar");
+			btnContinuar.classList.add("oculto");
 
-            preguntaActual.opciones.forEach(opcion => {
-                let li = document.createElement("li");
-                li.textContent = opcion;
-                li.addEventListener("click", function () {
-                    let correcta = opcion === preguntaActual.respuesta_correcta;
+			preguntaActual.opciones.forEach(opcion => {
+				let li = document.createElement("li");
+				li.textContent = opcion;
+				li.addEventListener("click", function () {
+					let correcta = opcion === preguntaActual.respuesta_correcta;
 
-                    if (correcta) {
-                        li.style.backgroundColor = "green";
-                        li.style.color = "white";
-                        li.style.fontWeight = "bold";
-                        aciertos++;
-                    } else {
-                        li.style.backgroundColor = "red";
-                        li.style.color = "white";
-                        li.style.fontWeight = "bold";
-                        fallos++;
-                        // Resaltar la respuesta correcta en azul solo si la respuesta es incorrecta
-                        opciones.querySelectorAll("li").forEach(item => {
-                            if (item.textContent === preguntaActual.respuesta_correcta) {
-                                item.style.backgroundColor = "blue";
-                                item.style.color = "white";
-                                item.style.fontWeight = "bold";
-                            }
-                        });
-                    }
+					if (correcta) {
+						li.style.backgroundColor = "green";
+						li.style.color = "white";
+						li.style.fontWeight = "bold";
+						aciertos++;
+					} else {
+						li.style.backgroundColor = "red";
+						li.style.color = "white";
+						li.style.fontWeight = "bold";
+						fallos++;
+						// Resaltar la respuesta correcta en azul solo si la respuesta es incorrecta
+						opciones.querySelectorAll("li").forEach(item => {
+							if (item.textContent === preguntaActual.respuesta_correcta) {
+								item.style.backgroundColor = "blue";
+								item.style.color = "white";
+								item.style.fontWeight = "bold";
+							}
+						});
+					}
 
-                    // Mostrar explicación siempre
-                    explicacionContainer.textContent = preguntaActual.explicación;
-                    explicacionContainer.classList.remove("oculto");
-                    explicacionContainer.classList.add("explicacion-visible");
+					// Mostrar explicación siempre
+					explicacionContainer.textContent = preguntaActual.explicación;
+					explicacionContainer.classList.remove("oculto");
+					explicacionContainer.classList.add("explicacion-visible");
 
-                    // Mostrar botón continuar después de 2 segundos
-                    setTimeout(() => {
-                        btnContinuar.classList.remove("oculto");
-                        btnContinuar.onclick = () => mostrarPregunta(preguntas, indice + 1, aciertos, fallos);
-                    }, 2000);
-                });
-                opciones.appendChild(li);
-            });
-        }
+					// Mostrar botón continuar después de 2 segundos
+					setTimeout(() => {
+						btnContinuar.classList.remove("oculto");
+						btnContinuar.onclick = () => mostrarPregunta(preguntas, indice + 1, aciertos, fallos);
+					}, 2000);
+				});
+				opciones.appendChild(li);
+			});
+		}
 
-        document.getElementById("btn-finalizar").addEventListener("click", function () {
-            cambiarPantalla("pantalla-menu");
-        });
-    </script>
+		document.getElementById("btn-finalizar").addEventListener("click", function () {
+			cambiarPantalla("pantalla-menu");
+		});
+	</script>
 </body>
 
 </html>
