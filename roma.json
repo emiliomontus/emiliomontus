@@ -1,0 +1,291 @@
+{
+  "preguntas": [
+    {
+      "pregunta": "¿En qué año se fundó la ciudad de Roma, según la leyenda?",
+      "opciones": [
+         "753 a.C.", 
+         "509 a.C.", 
+         "476 d.C.", 
+         "390 a.C."
+      ],
+      "respuesta_correcta": "753 a.C.",
+      "explicacion": "La leyenda cuenta que Roma fue fundada por Rómulo el 21 de abril de 753 a.C." 
+    },
+    {
+      "pregunta": "¿Qué sistema de gobierno reemplazó la monarquía en Roma?",
+      "opciones": [
+         "Imperio", 
+         "Democracia", 
+         "República", 
+         "Tiranía"
+      ],
+      "respuesta_correcta": "República",
+      "explicacion": "En 509 a.C., los romanos expulsaron al último rey y establecieron la República Romana."
+    },
+    {
+      "pregunta": "¿Qué eran los cónsules en la República Romana?",
+      "opciones": [
+         "Sacerdotes", 
+         "Líderes militares", 
+         "Jueces supremos", 
+         "Jefes del gobierno elegidos anualmente"
+      ],
+      "respuesta_correcta": "Jefes del gobierno elegidos anualmente",
+      "explicacion": "La República Romana tenía dos cónsules que gobernaban conjuntamente por un año."
+    },
+    {
+      "pregunta": "¿Quién cruzó el Rubicón y desencadenó una guerra civil en Roma?",
+      "opciones": [
+         "Pompeyo", 
+         "Bruto", 
+         "Julio César", 
+         "Marco Antonio"
+      ],
+      "respuesta_correcta": "Julio César",
+      "explicacion": "Julio César cruzó el río Rubicón en el 49 a.C., iniciando una guerra civil contra el Senado."
+    },
+    {
+      "pregunta": "¿Qué emperador romano fue el primero en adoptar oficialmente el cristianismo?",
+      "opciones": [
+         "Nerón", 
+         "Trajano", 
+         "Constantino", 
+         "Juliano"
+      ],
+      "respuesta_correcta": "Constantino",
+      "explicacion": "Constantino legalizó el cristianismo con el Edicto de Milán en 313 d.C. y se convirtió en el primer emperador cristiano."
+    },
+    {
+      "pregunta": "¿Quién fue el primer emperador del Imperio Romano?",
+      "opciones": [
+         "Julio César", 
+         "Augusto", 
+         "Tiberio", 
+         "Calígula"
+      ],
+      "respuesta_correcta": "Augusto",
+      "explicacion": "Octavio, conocido como Augusto, se convirtió en el primer emperador romano en el año 27 a.C." 
+    },
+    {
+      "pregunta": "¿Qué estructura romana era utilizada para espectáculos públicos, como las luchas de gladiadores?",
+      "opciones": [
+         "El Panteón", 
+         "El Foro", 
+         "El Coliseo", 
+         "Las Termas"
+      ],
+      "respuesta_correcta": "El Coliseo",
+      "explicacion": "El Coliseo fue construido en el siglo I d.C. para albergar espectáculos como los combates de gladiadores."
+    },
+    {
+      "pregunta": "¿Qué pueblo rival fue derrotado por Roma en las Guerras Púnicas?",
+      "opciones": [
+         "Egipcios", 
+         "Cartagineses", 
+         "Persas", 
+         "Griegos"
+      ],
+      "respuesta_correcta": "Cartagineses",
+      "explicacion": "Las Guerras Púnicas enfrentaron a Roma contra Cartago, una potencia comercial y naval del norte de África."
+    },
+    {
+      "pregunta": "¿Quién fue el líder cartaginés más famoso durante la Segunda Guerra Púnica?",
+      "opciones": [
+         "Aníbal", 
+         "Asdrúbal", 
+         "Escipión", 
+         "Hamilcar"
+      ],
+      "respuesta_correcta": "Aníbal",
+      "explicacion": "Aníbal es célebre por cruzar los Alpes con elefantes para invadir Italia."
+    },
+    {
+      "pregunta": "¿Qué evento marca tradicionalmente el fin del Imperio Romano de Occidente?",
+      "opciones": [
+         "La muerte de Julio César", 
+         "La caída de Constantinopla", 
+         "La abdicación de Rómulo Augústulo", 
+         "El saqueo de Roma por los visigodos"
+      ],
+      "respuesta_correcta": "La abdicación de Rómulo Augústulo",
+      "explicacion": "En el año 476 d.C., el último emperador romano de Occidente, Rómulo Augústulo, fue depuesto."
+    },
+    {
+      "pregunta": "¿Qué lengua hablaban los antiguos romanos?",
+      "opciones": [
+         "Griego", 
+         "Latín", 
+         "Hebreo", 
+         "Gótico"
+      ],
+      "respuesta_correcta": "Latín",
+      "explicacion": "El latín era la lengua oficial del Imperio Romano y base de las lenguas romances."
+    },
+    {
+      "pregunta": "¿Cuál era el nombre del centro político y social de Roma?",
+      "opciones": [
+         "El Senado", 
+         "El Coliseo", 
+         "El Foro Romano", 
+         "La Curia"
+      ],
+      "respuesta_correcta": "El Foro Romano",
+      "explicacion": "El Foro Romano era el corazón de la vida pública y política en la antigua Roma."
+    },
+    {
+      "pregunta": "¿Qué cargo tenía el dictador romano nombrado en tiempos de crisis?",
+      "opciones": [
+         "Tribuno", 
+         "Cónsul", 
+         "Pretor", 
+         "Dictador"
+      ],
+      "respuesta_correcta": "Dictador",
+      "explicacion": "En emergencias, se nombraba un dictador con poder absoluto por un período limitado."
+    },
+    {
+      "pregunta": "¿Qué construcción permitía llevar agua a las ciudades romanas?",
+      "opciones": [
+         "Calzadas", 
+         "Termas", 
+         "Acueductos", 
+         "Cisternas"
+      ],
+      "respuesta_correcta": "Acueductos",
+      "explicacion": "Los acueductos eran impresionantes obras de ingeniería que transportaban agua desde fuentes lejanas."
+    },
+    {
+      "pregunta": "¿Qué título tomó Octavio al convertirse en emperador?",
+      "opciones": [
+         "César", 
+         "Imperator", 
+         "Augusto", 
+         "Princeps"
+      ],
+      "respuesta_correcta": "Augusto",
+      "explicacion": "El Senado otorgó a Octavio el título de 'Augusto' en 27 a.C., marcando el inicio del Imperio."
+    },
+    {
+      "pregunta": "¿Quién formó parte del Segundo Triunvirato junto a Marco Antonio y Lépido?",
+      "opciones": [
+         "Julio César", 
+         "Octavio", 
+         "Cicerón", 
+         "Bruto"
+      ],
+      "respuesta_correcta": "Octavio",
+      "explicacion": "El Segundo Triunvirato fue una alianza política entre Octavio, Marco Antonio y Lépido tras el asesinato de Julio César."
+    },
+    {
+      "pregunta": "¿Qué emperador construyó una muralla en Britania para defender el imperio?",
+      "opciones": [
+         "Nerón", 
+         "Trajano", 
+         "Adriano", 
+         "Caracalla"
+      ],
+      "respuesta_correcta": "Adriano",
+      "explicacion": "El emperador Adriano mandó construir la Muralla de Adriano en el norte de Britania para contener a los pueblos bárbaros."
+    },
+    {
+      "pregunta": "¿Qué famoso orador y político romano fue asesinado por sus discursos contra Marco Antonio?",
+      "opciones": [
+         "Bruto", 
+         "Catón", 
+         "Cicerón", 
+         "Publio Escipión"
+      ],
+      "respuesta_correcta": "Cicerón",
+      "explicacion": "Cicerón fue ejecutado en el 43 a.C. por orden del Segundo Triunvirato debido a sus críticas a Marco Antonio."
+    },
+    {
+      "pregunta": "¿Cuál fue una de las causas de la caída del Imperio Romano de Occidente?",
+      "opciones": [
+         "Expansión territorial controlada", 
+         "Fuerte sistema económico", 
+         "Invasiones bárbaras", 
+         "Estabilidad política"
+      ],
+      "respuesta_correcta": "Invasiones bárbaras",
+      "explicacion": "Las invasiones de pueblos como los visigodos, vándalos y hunos contribuyeron al colapso del Imperio Romano de Occidente."
+    },
+    {
+      "pregunta": "¿Qué emperador dividió el Imperio Romano en Oriente y Occidente?",
+      "opciones": [
+         "Nerón", 
+         "Constantino", 
+         "Diocleciano", 
+         "Teodosio"
+      ],
+      "respuesta_correcta": "Diocleciano",
+      "explicacion": "Diocleciano dividió el imperio para facilitar su administración, creando una Tetrarquía."
+    },
+    {
+      "pregunta": "¿Qué batalla marcó la victoria decisiva de Octavio sobre Marco Antonio y Cleopatra?",
+      "opciones": [
+         "Accio", 
+         "Filipos", 
+         "Alejandría", 
+         "Actium"
+      ],
+      "respuesta_correcta": "Actium",
+      "explicacion": "La batalla naval de Actium en 31 a.C. selló el triunfo de Octavio sobre Marco Antonio y Cleopatra."
+    },
+    {
+      "pregunta": "¿Qué religión se expandió rápidamente en el Imperio Romano a partir del siglo I d.C.?",
+      "opciones": [
+         "Judaísmo", 
+         "Cristianismo", 
+         "Islam", 
+         "Zoroastrismo"
+      ],
+      "respuesta_correcta": "Cristianismo",
+      "explicacion": "El cristianismo comenzó como una secta judía y se expandió rápidamente, a pesar de las persecuciones."
+    },
+    {
+      "pregunta": "¿Cómo se llamaba la asamblea popular que representaba a los plebeyos?",
+      "opciones": [
+         "Senado", 
+         "Comicios Centuriados", 
+         "Tribunos de la plebe", 
+         "Curia"
+      ],
+      "respuesta_correcta": "Tribunos de la plebe",
+      "explicacion": "Los tribunos de la plebe protegían los intereses de los plebeyos y podían vetar decisiones del Senado."
+    },
+    {
+      "pregunta": "¿Qué poeta escribió la Eneida, una epopeya romana?",
+      "opciones": [
+         "Ovidio", 
+         "Horacio", 
+         "Virgilio", 
+         "Cicerón"
+      ],
+      "respuesta_correcta": "Virgilio",
+      "explicacion": "Virgilio escribió la Eneida, una epopeya que narra la historia del héroe troyano Eneas, fundador mítico de Roma."
+    },
+    {
+      "pregunta": "¿Cuál era la unidad básica del ejército romano?",
+      "opciones": [
+         "Falange", 
+         "Cohorte", 
+         "Legión", 
+         "Escuadra"
+      ],
+      "respuesta_correcta": "Legión",
+      "explicacion": "La legión era la principal unidad del ejército romano, compuesta por aproximadamente 5,000 soldados."
+    },
+    {
+        "pregunta": "¿En qué año cayó el Imperio Romano de Occidente?",
+        "opciones": [
+         "476 d.C.",
+         "1453 d.C.",
+         "771 a.C.",
+         "27 a.C."
+
+      ],
+      "respuesta_correcta": "476 d.C.",
+      "explicacion": "El Imperio Romano de Occidente cayó en el año 476 d.C., poniendo fin a la Edad Antigua."
+    }
+  ]
+}
