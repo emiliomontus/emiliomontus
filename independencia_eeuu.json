@@ -1,0 +1,154 @@
+{
+  "preguntas": [
+    {
+      "pregunta": "¿En qué año se firmó la Declaración de Independencia de Estados Unidos?",
+      "opciones": ["1774", "1775", "1776", "1781"],
+      "respuesta_correcta": "1776",
+      "explicacion": "El 4 de julio de 1776 se firmó la Declaración de Independencia en Filadelfia."
+    },
+    {
+      "pregunta": "¿Quién fue el principal autor de la Declaración de Independencia?",
+      "opciones": ["George Washington", "Benjamin Franklin", "Thomas Jefferson", "John Adams"],
+      "respuesta_correcta": "Thomas Jefferson",
+      "explicacion": "Thomas Jefferson redactó la mayor parte de la Declaración de Independencia."
+    },
+    {
+      "pregunta": "¿Qué conflicto dio origen a las tensiones coloniales previas a la independencia?",
+      "opciones": ["Guerra de Secesión", "Guerra de los Siete Años", "Guerra Civil Inglesa", "Guerra del Opio"],
+      "respuesta_correcta": "Guerra de los Siete Años",
+      "explicacion": "Tras la Guerra de los Siete Años, Gran Bretaña impuso nuevos impuestos a las colonias, aumentando el descontento."
+    },
+    {
+      "pregunta": "¿Qué ley británica de 1765 gravaba documentos y publicaciones en las colonias?",
+      "opciones": ["Tea Act", "Stamp Act", "Townshend Act", "Sugar Act"],
+      "respuesta_correcta": "Stamp Act",
+      "explicacion": "El Stamp Act obligaba a usar papel timbrado con impuesto para documentos legales y publicaciones."
+    },
+    {
+      "pregunta": "¿Qué evento de 1773 fue una protesta contra el impuesto al té?",
+      "opciones": ["Motín del Whisky", "Boston Tea Party", "Declaración de Derechos", "Primer Congreso Continental"],
+      "respuesta_correcta": "Boston Tea Party",
+      "explicacion": "En el Boston Tea Party, colonos disfrazados arrojaron cargamentos de té británico al puerto en protesta por los impuestos."
+    },
+    {
+      "pregunta": "¿Cómo se llamó la primera reunión de delegados coloniales en 1774?",
+      "opciones": ["Convención de Filadelfia", "Congreso Continental", "Convención Constitucional", "Acta de Confederación"],
+      "respuesta_correcta": "Congreso Continental",
+      "explicacion": "El Primer Congreso Continental de 1774 reunió a representantes de las colonias para coordinar su respuesta a las leyes británicas."
+    },
+    {
+      "pregunta": "¿En qué batallas de 1775 comenzó la guerra de independencia?",
+      "opciones": ["Yorktown y Saratoga", "Bunker Hill y Quebec", "Lexington y Concord", "Trenton y Princeton"],
+      "respuesta_correcta": "Lexington y Concord",
+      "explicacion": "Las batallas de Lexington y Concord en abril de 1775 marcaron el inicio de las hostilidades."
+    },
+    {
+      "pregunta": "¿Quién fue nombrado comandante en jefe del ejército continental?",
+      "opciones": ["John Adams", "Benjamin Franklin", "George Washington", "Thomas Paine"],
+      "respuesta_correcta": "George Washington",
+      "explicacion": "El Segundo Congreso Continental nombró a George Washington comandante en jefe en 1775."
+    },
+    {
+      "pregunta": "¿Qué documento publicado por Thomas Paine en 1776 influyó en la independencia?",
+      "opciones": ["Federalist Papers", "Common Sense", "Rights of Man", "Bill of Rights"],
+      "respuesta_correcta": "Common Sense",
+      "explicacion": "El panfleto 'Common Sense' de Thomas Paine argumentaba a favor de la independencia de las colonias."
+    },
+    {
+      "pregunta": "¿Qué país europeo se alió oficialmente con los colonos en 1778?",
+      "opciones": ["España", "Francia", "Países Bajos", "Prusia"],
+      "respuesta_correcta": "Francia",
+      "explicacion": "Francia firmó un tratado de alianza con los Estados Unidos en 1778, enviando tropas y ayuda naval."
+    },
+    {
+      "pregunta": "¿Qué general británico se rindió en Yorktown en 1781?",
+      "opciones": ["Cornwallis", "Howe", "Burgoyne", "Gage"],
+      "respuesta_correcta": "Cornwallis",
+      "explicacion": "La rendición del general Cornwallis en Yorktown selló la derrota británica en la guerra."
+    },
+    {
+      "pregunta": "¿Qué tratado de 1783 reconoció oficialmente la independencia de Estados Unidos?",
+      "opciones": ["Tratado de Versalles", "Tratado de París", "Tratado de Utrecht", "Tratado de Londres"],
+      "respuesta_correcta": "Tratado de París",
+      "explicacion": "El Tratado de París de 1783 puso fin a la guerra y reconoció la independencia de los Estados Unidos."
+    },
+    {
+      "pregunta": "¿Qué documento estableció la primera forma de gobierno de EE.UU. en 1781?",
+      "opciones": ["Constitución de 1787", "Declaración de Independencia", "Artículos de la Confederación", "Bill of Rights"],
+      "respuesta_correcta": "Artículos de la Confederación",
+      "explicacion": "Los Artículos de la Confederación establecieron un gobierno débil antes de la actual Constitución."
+    },
+    {
+      "pregunta": "¿Qué ciudad fue sede del Segundo Congreso Continental?",
+      "opciones": ["Nueva York", "Boston", "Filadelfia", "Washington D.C."],
+      "respuesta_correcta": "Filadelfia",
+      "explicacion": "El Segundo Congreso Continental se reunió en Filadelfia, en la Casa del Estado de Pensilvania."
+    },
+    {
+      "pregunta": "¿Quién fue el rey de Gran Bretaña durante la independencia de EE.UU.?",
+      "opciones": ["Jorge II", "Jorge III", "Carlos III", "Guillermo IV"],
+      "respuesta_correcta": "Jorge III",
+      "explicacion": "El rey Jorge III gobernaba Gran Bretaña durante el conflicto con las colonias americanas."
+    },
+    {
+      "pregunta": "¿Qué famosa frase simboliza la protesta contra los impuestos británicos?",
+      "opciones": ["Libertad o muerte", "Sin representación no hay impuestos", "Unidos venceremos", "Patria y libertad"],
+      "respuesta_correcta": "Sin representación no hay impuestos",
+      "explicacion": "Los colonos reclamaban que no podían ser gravados sin representación en el Parlamento británico."
+    },
+    {
+      "pregunta": "¿Qué batalla de 1777 fue un punto de inflexión al traer la alianza francesa?",
+      "opciones": ["Bunker Hill", "Saratoga", "Yorktown", "Trenton"],
+      "respuesta_correcta": "Saratoga",
+      "explicacion": "La victoria en Saratoga convenció a Francia de apoyar abiertamente a los colonos."
+    },
+    {
+      "pregunta": "¿Qué estado fue el primero en abolir la esclavitud durante la Revolución?",
+      "opciones": ["Virginia", "Massachusetts", "Pensilvania", "Vermont"],
+      "respuesta_correcta": "Vermont",
+      "explicacion": "Vermont prohibió la esclavitud en su constitución de 1777, siendo pionero entre los estados."
+    },
+    {
+      "pregunta": "¿Qué documento definió los derechos y libertades de los estadounidenses en 1791?",
+      "opciones": ["Declaración de Independencia", "Bill of Rights", "Federalist Papers", "Artículos de la Confederación"],
+      "respuesta_correcta": "Bill of Rights",
+      "explicacion": "El Bill of Rights es la primera serie de enmiendas a la Constitución que garantiza libertades fundamentales."
+    },
+    {
+      "pregunta": "¿Quién diseñó la primera bandera de Estados Unidos según la tradición?",
+      "opciones": ["Martha Washington", "Betsy Ross", "Abigail Adams", "Dolley Madison"],
+      "respuesta_correcta": "Betsy Ross",
+      "explicacion": "Betsy Ross es tradicionalmente acreditada con haber cosido la primera bandera con trece estrellas."
+    },
+    {
+      "pregunta": "¿Qué nombre se dio al ejército formado por las colonias rebeldes?",
+      "opciones": ["Ejército Libertador", "Ejército Continental", "Milicia Patriota", "Guardia de Filadelfia"],
+      "respuesta_correcta": "Ejército Continental",
+      "explicacion": "El Ejército Continental fue creado en 1775 y comandado por George Washington."
+    },
+    {
+      "pregunta": "¿Qué isla del Caribe fue clave para el comercio y la guerra durante la revolución?",
+      "opciones": ["Puerto Rico", "Barbados", "La Española", "Martinica"],
+      "respuesta_correcta": "Martinica",
+      "explicacion": "Martinica, bajo control francés, sirvió de base logística para apoyar a los colonos."
+    },
+    {
+      "pregunta": "¿Qué grupo político favoreció una unión más fuerte tras la independencia?",
+      "opciones": ["Antifederalistas", "Federalistas", "Whigs", "Demócratas"],
+      "respuesta_correcta": "Federalistas",
+      "explicacion": "Los Federalistas defendían una constitución fuerte para mantener la unidad del nuevo país."
+    },
+    {
+      "pregunta": "¿En qué año se adoptó la Constitución de Estados Unidos?",
+      "opciones": ["1781", "1783", "1787", "1789"],
+      "respuesta_correcta": "1787",
+      "explicacion": "La Constitución fue redactada en 1787 y estableció el sistema de gobierno vigente."
+    },
+    {
+      "pregunta": "¿Quién fue el primer presidente de Estados Unidos tras la independencia?",
+      "opciones": ["Thomas Jefferson", "John Adams", "George Washington", "James Madison"],
+      "respuesta_correcta": "George Washington",
+      "explicacion": "George Washington fue elegido primer presidente en 1789 bajo la nueva Constitución."
+    }
+  ]
+}
