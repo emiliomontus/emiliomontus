@@ -4,151 +4,151 @@
       "pregunta": "¿En qué año comenzó oficialmente la Restauración Meiji?",
       "opciones": ["1853", "1868", "1895", "1905"],
       "respuesta_correcta": "1868",
-      "explicacion": "En 1868 se restauró el poder imperial bajo el emperador Meiji, marcando el inicio de profundas reformas en Japón."
+      "explicación": "En 1868 se restauró el poder imperial bajo el emperador Meiji, marcando el inicio de profundas reformas en Japón."
     },
     {
       "pregunta": "¿Qué emperador lideró Japón durante la Restauración Meiji?",
       "opciones": ["Taishō", "Shōwa", "Meiji", "Heisei"],
       "respuesta_correcta": "Meiji",
-      "explicacion": "El emperador Meiji (Mutsuhito) lideró las reformas que modernizaron Japón a finales del siglo XIX."
+      "explicación": "El emperador Meiji (Mutsuhito) lideró las reformas que modernizaron Japón a finales del siglo XIX."
     },
     {
       "pregunta": "¿Cuál fue uno de los principales objetivos de la Restauración Meiji?",
       "opciones": ["Restaurar el shogunato Tokugawa", "Modernizar y occidentalizar Japón", "Aumentar el aislamiento del país", "Expandir la religión budista"],
       "respuesta_correcta": "Modernizar y occidentalizar Japón",
-      "explicacion": "El objetivo era transformar Japón en una nación moderna y poderosa para evitar la colonización extranjera."
+      "explicación": "El objetivo era transformar Japón en una nación moderna y poderosa para evitar la colonización extranjera."
     },
     {
       "pregunta": "¿Qué clase social perdió su estatus privilegiado con la Restauración Meiji?",
       "opciones": ["Samuráis", "Mercaderes", "Campesinos", "Emperadores"],
       "respuesta_correcta": "Samuráis",
-      "explicacion": "Las reformas Meiji abolieron el sistema feudal, eliminando los privilegios hereditarios de los samuráis."
+      "explicación": "Las reformas Meiji abolieron el sistema feudal, eliminando los privilegios hereditarios de los samuráis."
     },
     {
       "pregunta": "¿Qué guerra marcó la entrada de Japón como potencia mundial en 1895?",
       "opciones": ["Guerra Boshin", "Guerra Sino-Japonesa", "Guerra Ruso-Japonesa", "Guerra del Pacífico"],
       "respuesta_correcta": "Guerra Sino-Japonesa",
-      "explicacion": "La primera guerra sino-japonesa (1894-1895) dio a Japón control sobre Taiwán y Corea, consolidando su poder regional."
+      "explicación": "La primera guerra sino-japonesa (1894-1895) dio a Japón control sobre Taiwán y Corea, consolidando su poder regional."
     },
     {
       "pregunta": "¿Qué tratado puso fin a la primera guerra sino-japonesa?",
       "opciones": ["Tratado de Kanagawa", "Tratado de Shimonoseki", "Tratado de Portsmouth", "Tratado de Versalles"],
       "respuesta_correcta": "Tratado de Shimonoseki",
-      "explicacion": "El Tratado de Shimonoseki (1895) puso fin a la guerra sino-japonesa y cedió Taiwán a Japón."
+      "explicación": "El Tratado de Shimonoseki (1895) puso fin a la guerra sino-japonesa y cedió Taiwán a Japón."
     },
     {
       "pregunta": "¿Qué guerra (1904-1905) consolidó a Japón como potencia militar al vencer a Rusia?",
       "opciones": ["Guerra del Pacífico", "Guerra Boshin", "Guerra Ruso-Japonesa", "Guerra de Corea"],
       "respuesta_correcta": "Guerra Ruso-Japonesa",
-      "explicacion": "La victoria japonesa sorprendió al mundo al derrotar a una potencia europea por primera vez en la era moderna."
+      "explicación": "La victoria japonesa sorprendió al mundo al derrotar a una potencia europea por primera vez en la era moderna."
     },
     {
       "pregunta": "¿Qué tratado puso fin a la guerra ruso-japonesa?",
       "opciones": ["Tratado de Portsmouth", "Tratado de Shimonoseki", "Tratado de París", "Tratado de Kanagawa"],
       "respuesta_correcta": "Tratado de Portsmouth",
-      "explicacion": "El Tratado de Portsmouth (1905), mediado por EE.UU., puso fin al conflicto entre Japón y Rusia."
+      "explicación": "El Tratado de Portsmouth (1905), mediado por EE.UU., puso fin al conflicto entre Japón y Rusia."
     },
     {
       "pregunta": "¿Qué territorio obtuvo Japón tras la guerra ruso-japonesa?",
       "opciones": ["Corea", "Formosa", "Manchuria del sur y Port Arthur", "Filipinas"],
       "respuesta_correcta": "Manchuria del sur y Port Arthur",
-      "explicacion": "Japón obtuvo el arrendamiento de Port Arthur y derechos en Manchuria, además de influencia sobre Corea."
+      "explicación": "Japón obtuvo el arrendamiento de Port Arthur y derechos en Manchuria, además de influencia sobre Corea."
     },
     {
       "pregunta": "¿En qué año fue anexada Corea oficialmente por Japón?",
       "opciones": ["1895", "1905", "1910", "1914"],
       "respuesta_correcta": "1910",
-      "explicacion": "Japón convirtió a Corea en colonia oficial en 1910 tras años de influencia política y militar."
+      "explicación": "Japón convirtió a Corea en colonia oficial en 1910 tras años de influencia política y militar."
     },
     {
       "pregunta": "¿Cómo se llama el periodo posterior al emperador Meiji (1912-1926)?",
       "opciones": ["Era Shōwa", "Era Taishō", "Era Heisei", "Era Meiji II"],
       "respuesta_correcta": "Era Taishō",
-      "explicacion": "Tras la muerte de Meiji, comenzó la Era Taishō caracterizada por una apertura política moderada."
+      "explicación": "Tras la muerte de Meiji, comenzó la Era Taishō caracterizada por una apertura política moderada."
     },
     {
       "pregunta": "¿Qué emperador ascendió al trono en 1926, marcando la era Shōwa?",
       "opciones": ["Meiji", "Taishō", "Hirohito", "Akihito"],
       "respuesta_correcta": "Hirohito",
-      "explicacion": "El emperador Hirohito comenzó su reinado en 1926 bajo la era Shōwa, que duró hasta 1989."
+      "explicación": "El emperador Hirohito comenzó su reinado en 1926 bajo la era Shōwa, que duró hasta 1989."
     },
     {
       "pregunta": "¿Qué acontecimiento económico mundial afectó severamente a Japón en 1929?",
       "opciones": ["La Revolución Rusa", "La Gran Depresión", "La Guerra del Pacífico", "El terremoto de Kanto"],
       "respuesta_correcta": "La Gran Depresión",
-      "explicacion": "La Gran Depresión debilitó la economía japonesa y favoreció el ascenso del militarismo."
+      "explicación": "La Gran Depresión debilitó la economía japonesa y favoreció el ascenso del militarismo."
     },
     {
       "pregunta": "¿Qué incidente de 1931 dio inicio a la invasión japonesa de Manchuria?",
       "opciones": ["Incidente de Mukden", "Incidente Marco Polo", "Batalla de Shanghái", "Incidente del Río Amur"],
       "respuesta_correcta": "Incidente de Mukden",
-      "explicacion": "El Incidente de Mukden sirvió como pretexto para que Japón invadiera y ocupase Manchuria."
+      "explicación": "El Incidente de Mukden sirvió como pretexto para que Japón invadiera y ocupase Manchuria."
     },
     {
       "pregunta": "¿Cómo se llamó el estado títere creado por Japón en Manchuria en 1932?",
       "opciones": ["Mandato de Corea", "Estado de Kwantung", "Manchukuo", "Formosa Imperial"],
       "respuesta_correcta": "Manchukuo",
-      "explicacion": "Manchukuo fue un estado títere controlado por Japón en Manchuria con el último emperador chino Puyi como figura decorativa."
+      "explicación": "Manchukuo fue un estado títere controlado por Japón en Manchuria con el último emperador chino Puyi como figura decorativa."
     },
     {
       "pregunta": "¿Qué guerra inició Japón en 1937 contra China?",
       "opciones": ["Segunda Guerra Sino-Japonesa", "Guerra Ruso-Japonesa", "Guerra del Pacífico", "Guerra de Corea"],
       "respuesta_correcta": "Segunda Guerra Sino-Japonesa",
-      "explicacion": "En 1937 Japón invadió China continental, iniciando un conflicto que se solapó con la Segunda Guerra Mundial."
+      "explicación": "En 1937 Japón invadió China continental, iniciando un conflicto que se solapó con la Segunda Guerra Mundial."
     },
     {
       "pregunta": "¿Qué ataque japonés provocó la entrada de EE.UU. en la Segunda Guerra Mundial?",
       "opciones": ["Batalla de Midway", "Bombardeo de Tokio", "Ataque a Pearl Harbor", "Batalla de Guadalcanal"],
       "respuesta_correcta": "Ataque a Pearl Harbor",
-      "explicacion": "El ataque sorpresa a la base naval de Pearl Harbor en 1941 llevó a EE.UU. a declarar la guerra a Japón."
+      "explicación": "El ataque sorpresa a la base naval de Pearl Harbor en 1941 llevó a EE.UU. a declarar la guerra a Japón."
     },
     {
       "pregunta": "¿Qué alianza firmó Japón con Alemania e Italia en 1940?",
       "opciones": ["Pacto Antikomintern", "Pacto de Varsovia", "Pacto Tripartito", "Pacto de Londres"],
       "respuesta_correcta": "Pacto Tripartito",
-      "explicacion": "El Pacto Tripartito consolidó la alianza del Eje entre Alemania, Italia y Japón durante la Segunda Guerra Mundial."
+      "explicación": "El Pacto Tripartito consolidó la alianza del Eje entre Alemania, Italia y Japón durante la Segunda Guerra Mundial."
     },
     {
       "pregunta": "¿Qué batalla de 1942 fue considerada el punto de inflexión en el Pacífico?",
       "opciones": ["Pearl Harbor", "Midway", "Guadalcanal", "Okinawa"],
       "respuesta_correcta": "Midway",
-      "explicacion": "La Batalla de Midway fue una derrota decisiva para Japón, marcando el retroceso de su expansión en el Pacífico."
+      "explicación": "La Batalla de Midway fue una derrota decisiva para Japón, marcando el retroceso de su expansión en el Pacífico."
     },
     {
       "pregunta": "¿Qué dos ciudades japonesas fueron destruidas por bombas atómicas en 1945?",
       "opciones": ["Tokio y Osaka", "Hiroshima y Nagasaki", "Kioto y Sapporo", "Kobe y Yokohama"],
       "respuesta_correcta": "Hiroshima y Nagasaki",
-      "explicacion": "Estados Unidos lanzó bombas atómicas sobre Hiroshima (6 de agosto) y Nagasaki (9 de agosto) en 1945."
+      "explicación": "Estados Unidos lanzó bombas atómicas sobre Hiroshima (6 de agosto) y Nagasaki (9 de agosto) en 1945."
     },
     {
       "pregunta": "¿Qué emperador anunció la rendición de Japón en 1945?",
       "opciones": ["Taishō", "Shōwa (Hirohito)", "Meiji", "Akihito"],
       "respuesta_correcta": "Shōwa (Hirohito)",
-      "explicacion": "El emperador Hirohito anunció la rendición incondicional de Japón el 15 de agosto de 1945."
+      "explicación": "El emperador Hirohito anunció la rendición incondicional de Japón el 15 de agosto de 1945."
     },
     {
       "pregunta": "¿Qué documento de 1947 transformó a Japón en una monarquía constitucional pacifista?",
       "opciones": ["Tratado de San Francisco", "Constitución de 1947", "Constitución Meiji", "Pacto de Tokio"],
       "respuesta_correcta": "Constitución de 1947",
-      "explicacion": "La nueva Constitución japonesa entró en vigor en 1947, estableciendo un gobierno parlamentario y renunciando a la guerra."
+      "explicación": "La nueva Constitución japonesa entró en vigor en 1947, estableciendo un gobierno parlamentario y renunciando a la guerra."
     },
     {
       "pregunta": "¿Qué artículo de la Constitución de 1947 renuncia explícitamente a la guerra?",
       "opciones": ["Artículo 1", "Artículo 9", "Artículo 14", "Artículo 27"],
       "respuesta_correcta": "Artículo 9",
-      "explicacion": "El Artículo 9 establece que Japón renuncia al uso de la guerra como derecho soberano y prohíbe mantener fuerzas armadas ofensivas."
+      "explicación": "El Artículo 9 establece que Japón renuncia al uso de la guerra como derecho soberano y prohíbe mantener fuerzas armadas ofensivas."
     },
     {
       "pregunta": "¿Qué tribunal juzgó los crímenes de guerra japoneses después de la Segunda Guerra Mundial?",
       "opciones": ["Tribunal de Núremberg", "Tribunal de Tokio", "Tribunal de San Francisco", "Tribunal de Kioto"],
       "respuesta_correcta": "Tribunal de Tokio",
-      "explicacion": "El Tribunal Militar Internacional para el Lejano Oriente, conocido como Tribunal de Tokio, juzgó a los líderes japoneses por crímenes de guerra."
+      "explicación": "El Tribunal Militar Internacional para el Lejano Oriente, conocido como Tribunal de Tokio, juzgó a los líderes japoneses por crímenes de guerra."
     },
     {
       "pregunta": "¿En qué año se disolvió oficialmente el Imperio Japonés con la nueva Constitución?",
       "opciones": ["1945", "1946", "1947", "1952"],
       "respuesta_correcta": "1947",
-      "explicacion": "Con la entrada en vigor de la Constitución de 1947, el Imperio Japonés dejó de existir y nació el Japón contemporáneo."
+      "explicación": "Con la entrada en vigor de la Constitución de 1947, el Imperio Japonés dejó de existir y nació el Japón contemporáneo."
     }
   ]
 }
