@@ -1,0 +1,154 @@
+{
+  "preguntas": [
+    {
+      "pregunta": "¿En qué año comenzó la Revolución Rusa?",
+      "opciones": ["1914", "1917", "1922", "1905"],
+      "respuesta_correcta": "1917",
+      "explicación": "La Revolución Rusa comenzó en 1917 con el levantamiento contra el gobierno zarista."
+    },
+    {
+      "pregunta": "¿Qué zar fue derrocado durante la Revolución de Febrero?",
+      "opciones": ["Nicolás II", "Alejandro III", "Pedro el Grande", "Iván IV"],
+      "respuesta_correcta": "Nicolás II",
+      "explicación": "Nicolás II fue obligado a abdicar en febrero de 1917."
+    },
+    {
+      "pregunta": "¿Quién lideraba el gobierno provisional tras la caída del zar?",
+      "opciones": ["Kerensky", "Lenin", "Stalin", "Trotsky"],
+      "respuesta_correcta": "Kerensky",
+      "explicación": "Alexander Kerensky asumió el liderazgo del gobierno provisional."
+    },
+    {
+      "pregunta": "¿Qué partido lideró la Revolución de Octubre?",
+      "opciones": ["Mencheviques", "Bolcheviques", "Kadetes", "Socialrevolucionarios"],
+      "respuesta_correcta": "Bolcheviques",
+      "explicación": "El Partido Bolchevique, liderado por Lenin, tomó el poder en octubre de 1917."
+    },
+    {
+      "pregunta": "¿Quién fue el líder de los bolcheviques?",
+      "opciones": ["Trotsky", "Lenin", "Stalin", "Kerensky"],
+      "respuesta_correcta": "Lenin",
+      "explicación": "Vladimir Lenin fue la principal figura ideológica del movimiento bolchevique."
+    },
+    {
+      "pregunta": "¿Qué lema resumía el programa bolchevique?",
+      "opciones": ["Paz, pan y tierra", "Orden y progreso", "Todo el poder al zar", "Libertad o muerte"],
+      "respuesta_correcta": "Paz, pan y tierra",
+      "explicación": "El lema hacía referencia a las necesidades urgentes del pueblo."
+    },
+    {
+      "pregunta": "¿Quién organizó el Ejército Rojo?",
+      "opciones": ["Lenin", "Kerensky", "Trotsky", "Stalin"],
+      "respuesta_correcta": "Trotsky",
+      "explicación": "León Trotsky fue el fundador y comandante del Ejército Rojo."
+    },
+    {
+      "pregunta": "¿Cómo se llamaba el ejército opuesto a los bolcheviques en la guerra civil?",
+      "opciones": ["Ejército Blanco", "Ejército Imperial", "Guardia Roja", "Milicia Zarista"],
+      "respuesta_correcta": "Ejército Blanco",
+      "explicación": "El Ejército Blanco estaba compuesto por monárquicos y opositores al régimen bolchevique."
+    },
+    {
+      "pregunta": "¿Qué tratado sacó a Rusia de la Primera Guerra Mundial?",
+      "opciones": ["Tratado de Versalles", "Tratado de Brest-Litovsk", "Tratado de París", "Tratado de Londres"],
+      "respuesta_correcta": "Tratado de Brest-Litovsk",
+      "explicación": "El Tratado de Brest-Litovsk fue firmado en 1918 con Alemania."
+    },
+    {
+      "pregunta": "¿Qué sistema de consejos apoyaban los bolcheviques?",
+      "opciones": ["Dumas", "Asambleas", "Soviets", "Sindicatos"],
+      "respuesta_correcta": "Soviets",
+      "explicación": "Los soviets eran consejos de obreros y soldados que apoyaron la revolución."
+    },
+    {
+      "pregunta": "¿Qué facción era rival de los bolcheviques dentro del socialismo?",
+      "opciones": ["Mencheviques", "Kadetes", "Blancos", "Liberales"],
+      "respuesta_correcta": "Mencheviques",
+      "explicación": "Los mencheviques eran socialistas moderados que se oponían a la vía revolucionaria."
+    },
+    {
+      "pregunta": "¿Qué edificio fue tomado durante la Revolución de Octubre?",
+      "opciones": ["El Palacio de Invierno", "El Kremlin", "La Duma", "El Senado"],
+      "respuesta_correcta": "El Palacio de Invierno",
+      "explicación": "La toma del Palacio de Invierno simbolizó la caída del gobierno provisional."
+    },
+    {
+      "pregunta": "¿Qué política económica aplicaron los bolcheviques durante la guerra civil?",
+      "opciones": ["Comunismo de guerra", "NEP", "Plan Quinquenal", "Capitalismo de Estado"],
+      "respuesta_correcta": "Comunismo de guerra",
+      "explicación": "El comunismo de guerra implicaba la requisa de alimentos y control estatal."
+    },
+    {
+      "pregunta": "¿Qué política sustituyó el comunismo de guerra en 1921?",
+      "opciones": ["NEP", "Plan Quinquenal", "Colectivización forzada", "Mercado libre total"],
+      "respuesta_correcta": "NEP",
+      "explicación": "La Nueva Política Económica permitió cierta liberalización económica."
+    },
+    {
+      "pregunta": "¿Qué órgano de gobierno crearon los bolcheviques?",
+      "opciones": ["Sovnarkom", "Duma", "Asamblea Nacional", "Senado"],
+      "respuesta_correcta": "Sovnarkom",
+      "explicación": "El Sovnarkom era el Consejo de Comisarios del Pueblo."
+    },
+    {
+      "pregunta": "¿Qué año terminó la guerra civil rusa?",
+      "opciones": ["1919", "1922", "1925", "1917"],
+      "respuesta_correcta": "1922",
+      "explicación": "La guerra civil finalizó en 1922 con la victoria bolchevique."
+    },
+    {
+      "pregunta": "¿Qué estado se fundó tras la guerra civil?",
+      "opciones": ["URSS", "Federación Zarista", "República Rusa", "Imperio Ruso"],
+      "respuesta_correcta": "URSS",
+      "explicación": "En 1922 se proclamó la Unión de Repúblicas Socialistas Soviéticas."
+    },
+    {
+      "pregunta": "¿Qué evento de 1905 anticipó la revolución?",
+      "opciones": ["Domingo Sangriento", "Revolución de Octubre", "Toma de Moscú", "Tratado de Brest-Litovsk"],
+      "respuesta_correcta": "Domingo Sangriento",
+      "explicación": "Una manifestación pacífica fue reprimida, generando descontento popular."
+    },
+    {
+      "pregunta": "¿Qué líder bolchevique fue asesinado en México?",
+      "opciones": ["Lenin", "Trotsky", "Stalin", "Kerensky"],
+      "respuesta_correcta": "Trotsky",
+      "explicación": "Trotsky fue asesinado en 1940 por un agente soviético en México."
+    }, 
+    {
+      "pregunta": "¿Qué símbolo adoptaron los bolcheviques?",
+      "opciones": ["Hoz y martillo", "Águila bicéfala", "Bandera tricolor", "Cruz roja"],
+      "respuesta_correcta": "Hoz y martillo",
+      "explicación": "Representaba la unión de obreros y campesinos."
+    },
+    {
+      "pregunta": "¿Qué ideología defendían los bolcheviques?",
+      "opciones": ["Marxismo-leninismo", "Liberalismo", "Anarquismo", "Monarquía constitucional"],
+      "respuesta_correcta": "Marxismo-leninismo",
+      "explicación": "Adaptaron las ideas de Marx a la realidad rusa bajo la dirección de Lenin."
+    },
+    {
+      "pregunta": "¿Qué clase apoyó fuertemente a los bolcheviques?",
+      "opciones": ["Campesinos sin tierra", "Burguesía", "Clero", "Aristocracia"],
+      "respuesta_correcta": "Campesinos sin tierra",
+      "explicación": "Los bolcheviques prometieron repartir tierras a los campesinos."
+    },
+    {
+      "pregunta": "¿Qué institución disolvieron los bolcheviques al tomar el poder?",
+      "opciones": ["Asamblea Constituyente", "Soviets", "Duma", "Consejo de Estado"],
+      "respuesta_correcta": "Asamblea Constituyente",
+      "explicación": "Al no obtener mayoría, los bolcheviques la clausuraron por la fuerza."
+    },
+    {
+      "pregunta": "¿Qué consecuencias tuvo la derrota en la Primera Guerra Mundial para Rusia?",
+      "opciones": ["Crisis y colapso del zarismo", "Expansión territorial", "Recuperación económica", "Reforma liberal exitosa"],
+      "respuesta_correcta": "Crisis y colapso del zarismo",
+      "explicación": "Las derrotas provocaron protestas y el fin del régimen zarista."
+    },
+    {
+      "pregunta": "¿Qué papel tuvo Stalin durante la revolución?",
+      "opciones": ["Segundo plano", "Lideró el gobierno provisional", "Redactó el Tratado de Brest-Litovsk", "Comandó el Ejército Blanco"],
+      "respuesta_correcta": "Segundo plano",
+      "explicación": "Durante la revolución, Stalin no era aún la figura dominante que llegaría a ser después."
+    }
+  ]
+}

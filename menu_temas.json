@@ -1,5 +1,9 @@
 [
 	{
+        "tema": "El Antiguo Egipto",
+		"cuestionario": "egipto.json"
+	},
+	{
         "tema": "La Antigua Roma",
 		"cuestionario": "roma.json"
 	},
@@ -34,6 +38,10 @@
 	{
 		"tema": "Segunda Guerra Mundial",
 		"cuestionario": "wwii.json"
+	},
+	{
+        "tema": "Revolución Rusa",
+		"cuestionario": "revolucion_rusa.json"
 	},
 	{
 		"tema": "La Guerra Fría",

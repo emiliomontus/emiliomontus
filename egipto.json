@@ -1,0 +1,160 @@
+{
+  "preguntas": [
+    {
+      "pregunta": "¿A orillas de qué río se desarrolló la civilización del Antiguo Egipto?",
+      "opciones": ["Tigris", "Nilo", "Éufrates", "Danubio"],
+      "respuesta_correcta": "Nilo",
+      "explicación": "El Antiguo Egipto se desarrolló a lo largo del río Nilo, cuya crecida anual permitía la agricultura."
+    },
+    {
+      "pregunta": "¿Qué nombre recibían los reyes del Antiguo Egipto?",
+      "opciones": ["Zares", "Faraones", "Emires", "Sultanes"],
+      "respuesta_correcta": "Faraones",
+      "explicación": "Los gobernantes supremos de Egipto eran llamados faraones y eran considerados figuras divinas."
+    },
+    {
+      "pregunta": "¿Cuál era la escritura utilizada por los antiguos egipcios?",
+      "opciones": ["Cuneiforme", "Jeroglífica", "Alfabética", "Rúnica"],
+      "respuesta_correcta": "Jeroglífica",
+      "explicación": "Los egipcios utilizaban la escritura jeroglífica, basada en símbolos que representaban sonidos e ideas."
+    },
+    {
+      "pregunta": "¿Cuál era la principal función de las pirámides egipcias?",
+      "opciones": ["Templos religiosos", "Tumbas reales", "Almacenes de grano", "Observatorios astronómicos"],
+      "respuesta_correcta": "Tumbas reales",
+      "explicación": "Las pirámides servían como tumbas para los faraones y eran parte de complejos funerarios."
+    },
+    {
+      "pregunta": "¿Qué faraón es conocido por su tumba intacta descubierta en 1922?",
+      "opciones": ["Tutankamón", "Ramsés II", "Keops", "Akenatón"],
+      "respuesta_correcta": "Tutankamón",
+      "explicación": "La tumba de Tutankamón fue descubierta casi intacta por Howard Carter en 1922."
+    },
+    {
+      "pregunta": "¿Cuál era la capital del Antiguo Egipto durante el Imperio Antiguo?",
+      "opciones": ["Menfis", "Tebas", "Alejandría", "Giza"],
+      "respuesta_correcta": "Menfis",
+      "explicación": "Menfis fue la capital del Imperio Antiguo, situada cerca del delta del Nilo."
+    },
+    {
+      "pregunta": "¿Qué dios egipcio era considerado el dios del sol?",
+      "opciones": ["Osiris", "Anubis", "Ra", "Horus"],
+      "respuesta_correcta": "Ra",
+      "explicación": "Ra era el dios del sol y una de las deidades más importantes del panteón egipcio."
+    },
+    {
+      "pregunta": "¿Qué piedra permitió descifrar los jeroglíficos?",
+      "opciones": ["Piedra de Hammurabi", "Piedra Rosetta", "Piedra de Giza", "Piedra de Tebas"],
+      "respuesta_correcta": "Piedra Rosetta",
+      "explicación": "La Piedra Rosetta contenía un mismo texto en tres escrituras, lo que permitió descifrar los jeroglíficos."
+    },
+    {
+      "pregunta": "¿Quién fue el faraón que intentó implantar el monoteísmo en Egipto?",
+      "opciones": ["Ramsés III", "Akenatón", "Tutmosis III", "Keops"],
+      "respuesta_correcta": "Akenatón",
+      "explicación": "Akenatón promovió el culto exclusivo al dios Atón, rompiendo con la tradición politeísta egipcia."
+    },
+    {
+      "pregunta": "¿Cuál era el nombre de la reina conocida por su alianza con Julio César y Marco Antonio?",
+      "opciones": ["Nefertiti", "Cleopatra", "Hatshepsut", "Meritaten"],
+      "respuesta_correcta": "Cleopatra",
+      "explicación": "Cleopatra VII fue la última reina de Egipto y se alió con Roma antes de su caída."
+    },
+    {
+      "pregunta": "¿Qué método de conservación de los cuerpos practicaban los egipcios?",
+      "opciones": ["Cremación", "Momificación", "Congelado", "Inmersión en aceites"],
+      "respuesta_correcta": "Momificación",
+      "explicación": "La momificación era un proceso ritual para preservar el cuerpo para la vida después de la muerte."
+    },
+    {
+      "pregunta": "¿Cómo se llamaba el dios de los muertos y la momificación?",
+      "opciones": ["Osiris", "Anubis", "Set", "Sobek"],
+      "respuesta_correcta": "Anubis",
+      "explicación": "Anubis era el dios chacal encargado de guiar a los muertos y supervisar la momificación."
+    },
+    {
+      "pregunta": "¿Qué faraón ordenó construir la Gran Pirámide de Giza?",
+      "opciones": ["Keops", "Ramsés II", "Micerino", "Sesostris"],
+      "respuesta_correcta": "Keops",
+      "explicación": "La Gran Pirámide fue mandada construir por el faraón Keops durante el Imperio Antiguo."
+    },
+    {
+      "pregunta": "¿Qué estructura custodia las pirámides de Giza?",
+      "opciones": ["Obeliscos", "La Gran Esfinge", "Templos", "Estelas"],
+      "respuesta_correcta": "La Gran Esfinge",
+      "explicación": "La Gran Esfinge de Giza, con cuerpo de león y cabeza humana, custodia el complejo piramidal."
+    },
+    {
+      "pregunta": "¿Qué faraona se proclamó a sí misma faraón y gobernó con gran prosperidad?",
+      "opciones": ["Cleopatra", "Hatshepsut", "Nefertiti", "Merneith"],
+      "respuesta_correcta": "Hatshepsut",
+      "explicación": "Hatshepsut gobernó como faraón y es recordada por su pacífico y próspero reinado."
+    },
+    {
+      "pregunta": "¿Qué escritura egipcia era utilizada para documentos cotidianos?",
+      "opciones": ["Jeroglífica", "Demótica", "Cuneiforme", "Rúnica"],
+      "respuesta_correcta": "Demótica",
+      "explicación": "La escritura demótica era una forma simplificada usada para documentos administrativos y diarios."
+    },
+    {
+      "pregunta": "¿Qué material utilizaban los egipcios para escribir?",
+      "opciones": ["Piel de animal", "Papel", "Papiro", "Metal"],
+      "respuesta_correcta": "Papiro",
+      "explicación": "El papiro, hecho con la planta del mismo nombre, era el soporte de escritura más usado en Egipto."
+    },
+    {
+      "pregunta": "¿Qué dios egipcio era representado con cabeza de halcón?",
+      "opciones": ["Horus", "Ra", "Anubis", "Thot"],
+      "respuesta_correcta": "Horus",
+      "explicación": "Horus, dios del cielo y la realeza, era representado con cabeza de halcón."
+    },
+    {
+      "pregunta": "¿Cuál era la función del Libro de los Muertos?",
+      "opciones": ["Calendario agrícola", "Guía para el más allá", "Manual de leyes", "Crónica de faraones"],
+      "respuesta_correcta": "Guía para el más allá",
+      "explicación": "El Libro de los Muertos contenía hechizos e instrucciones para guiar al difunto en el más allá."
+    },
+    {
+      "pregunta": "¿Qué dios era considerado el señor del inframundo?",
+      "opciones": ["Anubis", "Osiris", "Set", "Ra"],
+      "respuesta_correcta": "Osiris",
+      "explicación": "Osiris era el juez de los muertos y gobernaba el inframundo egipcio."
+    },
+    {
+      "pregunta": "¿Qué símbolo representaba la vida eterna en Egipto?",
+      "opciones": ["Escarabajo", "Ureo", "Anj", "Ojo de Horus"],
+      "respuesta_correcta": "Anj",
+      "explicación": "El anj era un símbolo en forma de cruz ansada que representaba la vida eterna."
+    },
+    {
+      "pregunta": "¿Qué estructura religiosa era el centro de culto en las ciudades egipcias?",
+      "opciones": ["Pirámide", "Templo", "Obelisco", "Mastaba"],
+      "respuesta_correcta": "Templo",
+      "explicación": "Los templos eran centros religiosos y económicos dedicados a los dioses."
+    },
+    {
+      "pregunta": "¿Cómo se llamaba la escritura cursiva para textos religiosos?",
+      "opciones": ["Hierática", "Demótica", "Rúnica", "Jeroglífica"],
+      "respuesta_correcta": "Hierática",
+      "explicación": "La escritura hierática era una forma cursiva utilizada principalmente en textos religiosos."
+    },
+    {
+      "pregunta": "¿Cuál era la principal actividad económica de los antiguos egipcios?",
+      "opciones": ["Comercio marítimo", "Minería", "Agricultura", "Ganadería nómada"],
+      "respuesta_correcta": "Agricultura",
+      "explicación": "La agricultura, basada en las crecidas del Nilo, era la base de la economía egipcia."
+    },
+    {
+      "pregunta": "¿Qué título recibía el funcionario encargado de la administración del reino?",
+      "opciones": ["Visir", "Escriba", "Nomarca", "General"],
+      "respuesta_correcta": "Visir",
+      "explicación": "El visir era el más alto funcionario después del faraón y administraba el reino."
+    },
+    {
+      "pregunta": "¿Cuántas dinastías tuvo Egipto durante el periodo Antiguo?",
+      "opciones": ["30", "31", "32", "33"],
+      "respuesta_correcta": "32",
+      "explicación": "En el Antiguo Egipto hubo un total de 32 dinastías, de las cuales 30 fueron faraónicas, una fue la dinastía Persa, y la otra la dinastía Ptolemaica."
+    }
+  ]
+}
