@@ -36,12 +36,12 @@
 		"cuestionario": "wwi.json"
 	},
 	{
-		"tema": "Segunda Guerra Mundial",
-		"cuestionario": "wwii.json"
-	},
-	{
         "tema": "Revolución Rusa",
 		"cuestionario": "revolucion_rusa.json"
+	},
+	{
+		"tema": "Segunda Guerra Mundial",
+		"cuestionario": "wwii.json"
 	},
 	{
 		"tema": "La Guerra Fría",

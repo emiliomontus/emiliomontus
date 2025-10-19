@@ -155,7 +155,10 @@
 					}
 
 					// Mostrar explicación siempre
-					explicacionContainer.textContent = preguntaActual.explicación;
+					explicacionContainer.innerHTML = `
+						<p>${preguntaActual.explicacion}</p>
+						${preguntaActual.imagen ? `<img src="${preguntaActual.imagen}" alt="Imagen explicativa" style="max-width: 300px; margin-top: 10px; border-radius: 8px;">` : ""}
+					`;
 					explicacionContainer.classList.remove("oculto");
 					explicacionContainer.classList.add("explicacion-visible");
 

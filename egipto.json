@@ -46,43 +46,50 @@
       "pregunta": "¿Qué piedra permitió descifrar los jeroglíficos?",
       "opciones": ["Piedra de Hammurabi", "Piedra Rosetta", "Piedra de Giza", "Piedra de Tebas"],
       "respuesta_correcta": "Piedra Rosetta",
-      "explicación": "La Piedra Rosetta contenía un mismo texto en tres escrituras, lo que permitió descifrar los jeroglíficos."
+      "explicación": "La Piedra Rosetta contenía un mismo texto en tres escrituras, lo que permitió descifrar los jeroglíficos.",
+      "imagen": "imagenes/esfinge.png"
     },
     {
       "pregunta": "¿Quién fue el faraón que intentó implantar el monoteísmo en Egipto?",
       "opciones": ["Ramsés III", "Akenatón", "Tutmosis III", "Keops"],
       "respuesta_correcta": "Akenatón",
-      "explicación": "Akenatón promovió el culto exclusivo al dios Atón, rompiendo con la tradición politeísta egipcia."
+      "explicación": "Akenatón promovió el culto exclusivo al dios Atón, rompiendo con la tradición politeísta egipcia.",
+      "imagen": "imagenes/esfinge.png"
     },
     {
       "pregunta": "¿Cuál era el nombre de la reina conocida por su alianza con Julio César y Marco Antonio?",
       "opciones": ["Nefertiti", "Cleopatra", "Hatshepsut", "Meritaten"],
       "respuesta_correcta": "Cleopatra",
-      "explicación": "Cleopatra VII fue la última reina de Egipto y se alió con Roma antes de su caída."
+      "explicación": "Cleopatra VII fue la última reina de Egipto y se alió con Roma antes de su caída.",
+      "imagen": "imagenes/esfinge.png"
     },
     {
       "pregunta": "¿Qué método de conservación de los cuerpos practicaban los egipcios?",
       "opciones": ["Cremación", "Momificación", "Congelado", "Inmersión en aceites"],
       "respuesta_correcta": "Momificación",
-      "explicación": "La momificación era un proceso ritual para preservar el cuerpo para la vida después de la muerte."
+      "explicación": "La momificación era un proceso ritual para preservar el cuerpo para la vida después de la muerte.",
+      "imagen": "imagenes/esfinge.png"
     },
     {
       "pregunta": "¿Cómo se llamaba el dios de los muertos y la momificación?",
       "opciones": ["Osiris", "Anubis", "Set", "Sobek"],
       "respuesta_correcta": "Anubis",
-      "explicación": "Anubis era el dios chacal encargado de guiar a los muertos y supervisar la momificación."
+      "explicación": "Anubis era el dios chacal encargado de guiar a los muertos y supervisar la momificación.",
+      "imagen": "imagenes/esfinge.png"
     },
     {
       "pregunta": "¿Qué faraón ordenó construir la Gran Pirámide de Giza?",
       "opciones": ["Keops", "Ramsés II", "Micerino", "Sesostris"],
       "respuesta_correcta": "Keops",
-      "explicación": "La Gran Pirámide fue mandada construir por el faraón Keops durante el Imperio Antiguo."
+      "explicación": "La Gran Pirámide fue mandada construir por el faraón Keops durante el Imperio Antiguo.",
+      "imagen": "imagenes/esfinge.png"
     },
     {
       "pregunta": "¿Qué estructura custodia las pirámides de Giza?",
       "opciones": ["Obeliscos", "La Gran Esfinge", "Templos", "Estelas"],
       "respuesta_correcta": "La Gran Esfinge",
-      "explicación": "La Gran Esfinge de Giza, con cuerpo de león y cabeza humana, custodia el complejo piramidal."
+      "explicación": "La Gran Esfinge de Giza, con cuerpo de león y cabeza humana, custodia el complejo piramidal.",
+      "imagen": "imagenes/esfinge.png"
     },
     {
       "pregunta": "¿Qué faraona se proclamó a sí misma faraón y gobernó con gran prosperidad?",
