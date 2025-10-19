@@ -9,7 +9,8 @@
 				"1790"
 			],
 			"respuesta_correcta": "1789",
-			"explicación": "La Revolución Francesa comenzó en 1789 con la toma de la Bastilla el 14 de julio."
+			"explicación": "La Revolución Francesa comenzó en 1789 con la toma de la Bastilla el 14 de julio.",
+			"imagen": "imagenes/bastilla.png"
 		},
 		{
 			"pregunta": "¿Qué evento marcó el inicio de la Revolución Francesa?",
@@ -20,7 +21,8 @@
 				"La formación de la Asamblea Nacional"
 			],
 			"respuesta_correcta": "La toma de la Bastilla",
-			"explicación": "La toma de la Bastilla el 14 de julio de 1789 es considerada el evento que marcó el inicio de la Revolución Francesa."
+			"explicación": "La toma de la Bastilla el 14 de julio de 1789 es considerada el evento que marcó el inicio de la Revolución Francesa.",
+			"imagen": "imagenes/bastilla.png"
 		},
 		{
 			"pregunta": "¿Quién fue el rey de Francia al comienzo de la Revolución Francesa?",
@@ -31,7 +33,8 @@
 				"Carlos X"
 			],
 			"respuesta_correcta": "Luis XVI",
-			"explicación": "Luis XVI era el rey de Francia al comienzo de la Revolución Francesa."
+			"explicación": "Luis XVI era el rey de Francia al comienzo de la Revolución Francesa.",
+			"imagen": "imagenes/bastilla.png"
 		},
 		{
 			"pregunta": "¿Qué documento proclamó los derechos y libertades de los ciudadanos franceses?",
@@ -42,7 +45,8 @@
 				"El Tratado de Versalles"
 			],
 			"respuesta_correcta": "La Declaración de los Derechos del Hombre y del Ciudadano",
-			"explicación": "La Declaración de los Derechos del Hombre y del Ciudadano, adoptada en 1789, proclamó los derechos y libertades de los ciudadanos franceses."
+			"explicación": "La Declaración de los Derechos del Hombre y del Ciudadano, adoptada en 1789, proclamó los derechos y libertades de los ciudadanos franceses.",
+			"imagen": "imagenes/bastilla.png"
 		},
 		{
 			"pregunta": "¿Qué grupo social lideró la Revolución Francesa?",
@@ -53,7 +57,8 @@
 				"El campesinado"
 			],
 			"respuesta_correcta": "La burguesía",
-			"explicación": "La burguesía, compuesta por comerciantes, abogados y otros profesionales, lideró la Revolución Francesa."
+			"explicación": "La burguesía, compuesta por comerciantes, abogados y otros profesionales, lideró la Revolución Francesa.",
+			"imagen": "imagenes/bastilla.png"
 		},
 		{
 			"pregunta": "¿Qué fue el 'Reinado del Terror'?",
@@ -64,7 +69,8 @@
 				"Una guerra contra Austria"
 			],
 			"respuesta_correcta": "Un periodo de represión y ejecuciones masivas",
-			"explicación": "El 'Reinado del Terror' fue un periodo de represión y ejecuciones masivas durante la Revolución Francesa, liderado por Robespierre."
+			"explicación": "El 'Reinado del Terror' fue un periodo de represión y ejecuciones masivas durante la Revolución Francesa, liderado por Robespierre.",
+			"imagen": "imagenes/bastilla.png"
 		},
 		{
 			"pregunta": "¿Quién fue Maximilien Robespierre?",
@@ -86,7 +92,8 @@
 				"Un grupo de nobles"
 			],
 			"respuesta_correcta": "Un órgano legislativo revolucionario",
-			"explicación": "La Asamblea Nacional fue un órgano legislativo revolucionario formado por representantes del Tercer Estado en 1789."
+			"explicación": "La Asamblea Nacional fue un órgano legislativo revolucionario formado por representantes del Tercer Estado en 1789.",
+			"imagen": "imagenes/bastilla.png"
 		},
 		{
 			"pregunta": "¿Qué fue la 'Marcha sobre Versalles'?",
