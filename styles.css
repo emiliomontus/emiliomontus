@@ -93,7 +93,7 @@
         .imagen-pregunta {
         	display: block;
         	margin: 10px auto 20px auto;
-        	max-width: 250px;
+        	max-width: 20%;
 			border-radius: 12px;
         	box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
         }
