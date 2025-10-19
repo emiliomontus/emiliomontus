@@ -81,7 +81,8 @@
 				"Un diplomático"
 			],
 			"respuesta_correcta": "Un líder revolucionario",
-			"explicación": "Maximilien Robespierre fue un líder revolucionario y una figura clave durante el 'Reinado del Terror'."
+			"explicación": "Maximilien Robespierre fue un líder revolucionario y una figura clave durante el 'Reinado del Terror'.",
+			"imagen": "imagenes/bastilla.png"
 		},
 		{
 			"pregunta": "¿Qué fue la Asamblea Nacional?",
@@ -104,7 +105,8 @@
 				"Una batalla importante"
 			],
 			"respuesta_correcta": "Una marcha de mujeres hacia el palacio real",
-			"explicación": "La 'Marcha sobre Versalles' en 1789 fue una protesta de mujeres que marcharon hacia el palacio real para exigir pan y reformas."
+			"explicación": "La 'Marcha sobre Versalles' en 1789 fue una protesta de mujeres que marcharon hacia el palacio real para exigir pan y reformas.",
+			"imagen": "imagenes/bastilla.png"
 		},
 		{
 			"pregunta": "¿Qué fue la Convención Nacional?",
@@ -115,7 +117,8 @@
 				"Un grupo de nobles"
 			],
 			"respuesta_correcta": "Un órgano legislativo revolucionario",
-			"explicación": "La Convención Nacional fue un órgano legislativo revolucionario que gobernó Francia durante la Revolución y proclamó la Primera República."
+			"explicación": "La Convención Nacional fue un órgano legislativo revolucionario que gobernó Francia durante la Revolución y proclamó la Primera República.",
+			"imagen": "imagenes/bastilla.png"
 		},
 		{
 			"pregunta": "¿Qué fue la 'Fuga de Varennes'?",
@@ -126,7 +129,8 @@
 				"Una invasión extranjera"
 			],
 			"respuesta_correcta": "La huida fallida de la familia real",
-			"explicación": "La 'Fuga de Varennes' en 1791 fue el intento fallido de la familia real de escapar de París y buscar apoyo extranjero."
+			"explicación": "La 'Fuga de Varennes' en 1791 fue el intento fallido de la familia real de escapar de París y buscar apoyo extranjero.",
+			"imagen": "imagenes/bastilla.png"
 		},
 		{
 			"pregunta": "¿Qué fue el Comité de Salvación Pública?",
@@ -137,7 +141,8 @@
 				"Una alianza militar"
 			],
 			"respuesta_correcta": "Un comité revolucionario encargado de la defensa y la seguridad",
-			"explicación": "El Comité de Salvación Pública fue un comité revolucionario encargado de la defensa y la seguridad de la República durante el 'Reinado del Terror'."
+			"explicación": "El Comité de Salvación Pública fue un comité revolucionario encargado de la defensa y la seguridad de la República durante el 'Reinado del Terror'.",
+			"imagen": "imagenes/bastilla.png"
 		},
 		{
 			"pregunta": "¿Qué fue la 'Ley de los Sospechosos'?",
@@ -148,7 +153,8 @@
 				"Una ley de comercio"
 			],
 			"respuesta_correcta": "Una ley que permitía arrestar a cualquier sospechoso de traición",
-			"explicación": "La 'Ley de los Sospechosos' de 1793 permitía arrestar a cualquier persona sospechosa de traición contra la República."
+			"explicación": "La 'Ley de los Sospechosos' de 1793 permitía arrestar a cualquier persona sospechosa de traición contra la República.",
+			"imagen": "imagenes/bastilla.png"
 		},
 		{
 			"pregunta": "¿Qué fue la 'Batalla de Valmy'?",
@@ -159,7 +165,8 @@
 				"Una invasión extranjera"
 			],
 			"respuesta_correcta": "Una victoria revolucionaria contra las fuerzas prusianas",
-			"explicación": "La 'Batalla de Valmy' en 1792 fue una victoria revolucionaria contra las fuerzas prusianas que ayudó a consolidar la Revolución."
+			"explicación": "La 'Batalla de Valmy' en 1792 fue una victoria revolucionaria contra las fuerzas prusianas que ayudó a consolidar la Revolución.",
+			"imagen": "imagenes/bastilla.png"
 		},
 		{
 			"pregunta": "¿Qué fue la 'Constitución de 1791'?",
@@ -170,7 +177,8 @@
 				"Un documento revolucionario"
 			],
 			"respuesta_correcta": "Una constitución que estableció una monarquía constitucional en Francia",
-			"explicación": "La 'Constitución de 1791' estableció una monarquía constitucional en Francia, limitando el poder del rey."
+			"explicación": "La 'Constitución de 1791' estableció una monarquía constitucional en Francia, limitando el poder del rey.",
+			"imagen": "imagenes/bastilla.png"
 		},
 		{
 			"pregunta": "¿Qué fue la 'Guerra de la Vendée'?",
@@ -181,7 +189,8 @@
 				"Una batalla naval"
 			],
 			"respuesta_correcta": "Una guerra civil en Francia",
-			"explicación": "La 'Guerra de la Vendée' fue una guerra civil en Francia entre los revolucionarios y los realistas en la región de Vendée."
+			"explicación": "La 'Guerra de la Vendée' fue una guerra civil en Francia entre los revolucionarios y los realistas en la región de Vendée.",
+			"imagen": "imagenes/bastilla.png"
 		},
 		{
 			"pregunta": "¿Qué fue el 'Directorio'?",
@@ -192,7 +201,8 @@
 				"Una alianza militar"
 			],
 			"respuesta_correcta": "Un gobierno revolucionario que sucedió a la Convención Nacional",
-			"explicación": "El 'Directorio' fue un gobierno revolucionario que sucedió a la Convención Nacional y gobernó Francia desde 1795 hasta 1799."
+			"explicación": "El 'Directorio' fue un gobierno revolucionario que sucedió a la Convención Nacional y gobernó Francia desde 1795 hasta 1799.",
+			"imagen": "imagenes/bastilla.png"
 		},
 		{
 			"pregunta": "¿Qué fue el '18 de Brumario'?",
@@ -203,7 +213,8 @@
 				"Una invasión extranjera"
 			],
 			"respuesta_correcta": "El golpe de Estado de Napoleón Bonaparte",
-			"explicación": "El '18 de Brumario' (9 de noviembre de 1799) fue el golpe de Estado de Napoleón Bonaparte que puso fin al Directorio y estableció el Consulado."
+			"explicación": "El '18 de Brumario' (9 de noviembre de 1799) fue el golpe de Estado de Napoleón Bonaparte que puso fin al Directorio y estableció el Consulado.",
+			"imagen": "imagenes/bastilla.png"
 		},
 		{
 			"pregunta": "¿Qué fue el 'Consulado'?",
@@ -214,7 +225,8 @@
 				"Una alianza militar"
 			],
 			"respuesta_correcta": "Un gobierno revolucionario liderado por Napoleón Bonaparte",
-			"explicación": "El 'Consulado' fue el gobierno revolucionario que sucedió al Directorio y fue liderado por Napoleón Bonaparte desde 1799 hasta 1804."
+			"explicación": "El 'Consulado' fue el gobierno revolucionario que sucedió al Directorio y fue liderado por Napoleón Bonaparte desde 1799 hasta 1804.",
+			"imagen": "imagenes/bastilla.png"
 		},
 		{
 			"pregunta": "¿Qué fue la 'Constitución de 1793'?",
@@ -225,7 +237,8 @@
 				"Un documento revolucionario"
 			],
 			"respuesta_correcta": "Una constitución que estableció la Primera República Francesa",
-			"explicación": "La 'Constitución de 1793' estableció la Primera República Francesa y fue adoptada durante el 'Reinado del Terror'."
+			"explicación": "La 'Constitución de 1793' estableció la Primera República Francesa y fue adoptada durante el 'Reinado del Terror'.",
+			"imagen": "imagenes/bastilla.png"
 		},
 		{
 			"pregunta": "¿Qué fue la 'Ley de los Máximos'?",
@@ -236,7 +249,8 @@
 				"Una ley de comercio"
 			],
 			"respuesta_correcta": "Una ley que establecía precios máximos para los productos básicos",
-			"explicación": "La 'Ley de los Máximos' de 1793 establecía precios máximos para los productos básicos para controlar la inflación y asegurar el suministro de alimentos."
+			"explicación": "La 'Ley de los Máximos' de 1793 establecía precios máximos para los productos básicos para controlar la inflación y asegurar el suministro de alimentos.",
+			"imagen": "imagenes/bastilla.png"
 		},
 		{
 			"pregunta": "¿Qué fue la 'Batalla de Fleurus'?",
@@ -247,7 +261,8 @@
 				"Una invasión extranjera"
 			],
 			"respuesta_correcta": "Una victoria revolucionaria contra las fuerzas austriacas",
-			"explicación": "La 'Batalla de Fleurus' en 1794 fue una victoria revolucionaria contra las fuerzas austriacas que consolidó el control francés en Bélgica."
+			"explicación": "La 'Batalla de Fleurus' en 1794 fue una victoria revolucionaria contra las fuerzas austriacas que consolidó el control francés en Bélgica.",
+			"imagen": "imagenes/bastilla.png"
 		},
 		{
 			"pregunta": "¿Qué fue la 'Convención Termidoriana'?",
@@ -258,7 +273,8 @@
 				"Un documento revolucionario"
 			],
 			"respuesta_correcta": "Un periodo de reacción contra el 'Reinado del Terror'",
-			"explicación": "La 'Convención Termidoriana' fue un periodo de reacción contra el 'Reinado del Terror' que comenzó con la caída de Robespierre en 1794."
+			"explicación": "La 'Convención Termidoriana' fue un periodo de reacción contra el 'Reinado del Terror' que comenzó con la caída de Robespierre en 1794.",
+			"imagen": "imagenes/bastilla.png"
 		},
 		{
 			"pregunta": "¿Qué fue la 'Constitución de 1795'?",
@@ -269,7 +285,8 @@
 				"Un documento revolucionario"
 			],
 			"respuesta_correcta": "Una constitución que estableció el Directorio",
-			"explicación": "La 'Constitución de 1795' estableció el Directorio como el nuevo gobierno revolucionario de Francia."
+			"explicación": "La 'Constitución de 1795' estableció el Directorio como el nuevo gobierno revolucionario de Francia.",
+			"imagen": "imagenes/bastilla.png"
 		},
 		{
 			"pregunta": "¿Qué fue la 'Batalla de Jemappes'?",
@@ -280,7 +297,8 @@
 				"Una invasión extranjera"
 			],
 			"respuesta_correcta": "Una victoria revolucionaria contra las fuerzas austriacas",
-			"explicación": "La 'Batalla de Jemappes' en 1792 fue una victoria revolucionaria contra las fuerzas austriacas que permitió a Francia ocupar Bélgica."
+			"explicación": "La 'Batalla de Jemappes' en 1792 fue una victoria revolucionaria contra las fuerzas austriacas que permitió a Francia ocupar Bélgica.",
+			"imagen": "imagenes/bastilla.png"
 		},
 		{
 			"pregunta": "¿Qué fue la 'Declaración de Pillnitz'?",
@@ -291,7 +309,8 @@
 				"Un documento revolucionario"
 			],
 			"respuesta_correcta": "Una declaración de apoyo a la monarquía francesa por parte de Austria y Prusia",
-			"explicación": "La 'Declaración de Pillnitz' de 1791 fue una declaración de apoyo a la monarquía francesa por parte de Austria y Prusia."
+			"explicación": "La 'Declaración de Pillnitz' de 1791 fue una declaración de apoyo a la monarquía francesa por parte de Austria y Prusia.",
+			"imagen": "imagenes/bastilla.png"
 		}
 	]
 }

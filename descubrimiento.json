@@ -9,7 +9,8 @@
 				"1496"
 			],
 			"respuesta_correcta": "1492",
-			"explicación": "Cristóbal Colón realizó su primer viaje al Nuevo Mundo en 1492, llegando a lo que hoy conocemos como América."
+			"explicación": "Cristóbal Colón realizó su primer viaje al Nuevo Mundo en 1492, llegando a lo que hoy conocemos como América.",
+			"imagen": "imagenes/carabelas.png"
 		},
 		{
 			"pregunta": "¿Qué monarcas financiaron el viaje de Cristóbal Colón?",
@@ -20,7 +21,8 @@
 				"Enrique VIII y Catalina de Aragón"
 			],
 			"respuesta_correcta": "Isabel I de Castilla y Fernando II de Aragón",
-			"explicación": "Los Reyes Católicos, Isabel I de Castilla y Fernando II de Aragón, financiaron el viaje de Cristóbal Colón."
+			"explicación": "Los Reyes Católicos, Isabel I de Castilla y Fernando II de Aragón, financiaron el viaje de Cristóbal Colón.",
+			"imagen": "imagenes/carabelas.png"
 		},
 		{
 			"pregunta": "¿Cuál era el objetivo principal del viaje de Cristóbal Colón?",
@@ -31,7 +33,8 @@
 				"Encontrar oro y riquezas"
 			],
 			"respuesta_correcta": "Encontrar una ruta hacia la India",
-			"explicación": "El objetivo principal del viaje de Cristóbal Colón era encontrar una ruta hacia la India navegando hacia el oeste."
+			"explicación": "El objetivo principal del viaje de Cristóbal Colón era encontrar una ruta hacia la India navegando hacia el oeste.",
+			"imagen": "imagenes/carabelas.png"
 		},
 		{
 			"pregunta": "¿Qué nombre dio Cristóbal Colón a la primera isla que descubrió en el Nuevo Mundo?",
@@ -42,7 +45,8 @@
 				"Puerto Rico"
 			],
 			"respuesta_correcta": "San Salvador",
-			"explicación": "Cristóbal Colón nombró San Salvador a la primera isla que descubrió en el Nuevo Mundo, que hoy se cree que es una de las islas Bahamas."
+			"explicación": "Cristóbal Colón nombró San Salvador a la primera isla que descubrió en el Nuevo Mundo, que hoy se cree que es una de las islas Bahamas.",
+			"imagen": "imagenes/carabelas.png"
 		},
 		{
 			"pregunta": "¿Cuántos viajes realizó Cristóbal Colón al Nuevo Mundo?",
@@ -53,7 +57,8 @@
 				"Cuatro"
 			],
 			"respuesta_correcta": "Cuatro",
-			"explicación": "Cristóbal Colón realizó un total de cuatro viajes al Nuevo Mundo entre 1492 y 1504."
+			"explicación": "Cristóbal Colón realizó un total de cuatro viajes al Nuevo Mundo entre 1492 y 1504.",
+			"imagen": "imagenes/carabelas.png"
 		},
 		{
 			"pregunta": "¿Qué nombre dio Cristóbal Colón a la isla que hoy conocemos como Cuba?",
@@ -64,7 +69,8 @@
 				"La Española"
 			],
 			"respuesta_correcta": "Juana",
-			"explicación": "Cristóbal Colón nombró Juana a la isla que hoy conocemos como Cuba en honor a la hija de los Reyes Católicos."
+			"explicación": "Cristóbal Colón nombró Juana a la isla que hoy conocemos como Cuba en honor a la hija de los Reyes Católicos.",
+			"imagen": "imagenes/carabelas.png"
 		},
 		{
 			"pregunta": "¿Qué nombre dio Cristóbal Colón a la isla que hoy conocemos como La Española?",
@@ -75,7 +81,8 @@
 				"La Española"
 			],
 			"respuesta_correcta": "La Española",
-			"explicación": "Cristóbal Colón nombró La Española a la isla que hoy conocemos como La Española, que actualmente está dividida entre Haití y República Dominicana."
+			"explicación": "Cristóbal Colón nombró La Española a la isla que hoy conocemos como La Española, que actualmente está dividida entre Haití y República Dominicana.",
+			"imagen": "imagenes/carabelas.png"
 		},
 		{
 			"pregunta": "¿Qué título recibió Cristóbal Colón de los Reyes Católicos tras su primer viaje?",
@@ -86,7 +93,8 @@
 				"Capitán General"
 			],
 			"respuesta_correcta": "Almirante del Mar Océano",
-			"explicación": "Cristóbal Colón recibió el título de Almirante del Mar Océano de los Reyes Católicos tras su primer viaje."
+			"explicación": "Cristóbal Colón recibió el título de Almirante del Mar Océano de los Reyes Católicos tras su primer viaje.",
+			"imagen": "imagenes/carabelas.png"
 		},
 		{
 			"pregunta": "¿Qué nombre dio Cristóbal Colón a la isla que hoy conocemos como Puerto Rico?",
@@ -97,7 +105,8 @@
 				"La Española"
 			],
 			"respuesta_correcta": "San Juan Bautista",
-			"explicación": "Cristóbal Colón nombró San Juan Bautista a la isla que hoy conocemos como Puerto Rico."
+			"explicación": "Cristóbal Colón nombró San Juan Bautista a la isla que hoy conocemos como Puerto Rico.",
+			"imagen": "imagenes/carabelas.png"
 		},
 		{
 			"pregunta": "¿Qué tratado dividió las tierras descubiertas entre España y Portugal?",
@@ -108,7 +117,8 @@
 				"Tratado de Lisboa"
 			],
 			"respuesta_correcta": "Tratado de Tordesillas",
-			"explicación": "El Tratado de Tordesillas, firmado en 1494, dividió las tierras descubiertas entre España y Portugal."
+			"explicación": "El Tratado de Tordesillas, firmado en 1494, dividió las tierras descubiertas entre España y Portugal.",
+			"imagen": "imagenes/carabelas.png"
 		},
 		{
 			"pregunta": "¿Qué explorador fue el primero en circunnavegar el globo terráqueo?",
@@ -119,7 +129,8 @@
 				"Juan Sebastián Elcano"
 			],
 			"respuesta_correcta": "Juan Sebastián Elcano",
-			"explicación": "Juan Sebastián Elcano fue el primero en circunnavegar el globo terráqueo; completó el viaje iniciado por Fernando de Magallanes, quien murió en un combate en las Molucas."
+			"explicación": "Juan Sebastián Elcano fue el primero en circunnavegar el globo terráqueo; completó el viaje iniciado por Fernando de Magallanes, quien murió en un combate en las Molucas.",
+			"imagen": "imagenes/carabelas.png"
 		},
 		{
 			"pregunta": "¿Qué explorador descubrió el Océano Pacífico?",
@@ -130,7 +141,8 @@
 				"Hernán Cortés"
 			],
 			"respuesta_correcta": "Vasco Núñez de Balboa",
-			"explicación": "Vasco Núñez de Balboa fue el primer europeo en avistar el Océano Pacífico desde el Nuevo Mundo en 1513."
+			"explicación": "Vasco Núñez de Balboa fue el primer europeo en avistar el Océano Pacífico desde el Nuevo Mundo en 1513.",
+			"imagen": "imagenes/carabelas.png"
 		},
 		{
 			"pregunta": "¿Qué nombre dio Cristóbal Colón a la isla que hoy conocemos como Jamaica?",
@@ -141,7 +153,8 @@
 				"San Juan Bautista"
 			],
 			"respuesta_correcta": "Santiago",
-			"explicación": "Cristóbal Colón nombró Santiago a la isla que hoy conocemos como Jamaica."
+			"explicación": "Cristóbal Colón nombró Santiago a la isla que hoy conocemos como Jamaica.",
+			"imagen": "imagenes/carabelas.png"
 		},
 		{
 			"pregunta": "¿Qué explorador conquistó el Imperio Azteca?",
@@ -152,7 +165,8 @@
 				"Hernán Cortés"
 			],
 			"respuesta_correcta": "Hernán Cortés",
-			"explicación": "Hernán Cortés fue el explorador que conquistó el Imperio Azteca en 1521."
+			"explicación": "Hernán Cortés fue el explorador que conquistó el Imperio Azteca en 1521.",
+			"imagen": "imagenes/carabelas.png"
 		},
 		{
 			"pregunta": "¿Qué explorador conquistó el Imperio Inca?",
@@ -163,7 +177,8 @@
 				"Hernán Cortés"
 			],
 			"respuesta_correcta": "Francisco Pizarro",
-			"explicación": "Francisco Pizarro fue el explorador que conquistó el Imperio Inca en 1533."
+			"explicación": "Francisco Pizarro fue el explorador que conquistó el Imperio Inca en 1533.",
+			"imagen": "imagenes/carabelas.png"
 		},
 		{
 			"pregunta": "¿Qué nombre dio Cristóbal Colón a la isla que hoy conocemos como Guadalupe?",
@@ -174,7 +189,8 @@
 				"San Juan Bautista"
 			],
 			"respuesta_correcta": "Santa María de Guadalupe",
-			"explicación": "Cristóbal Colón nombró Santa María de Guadalupe a la isla que hoy conocemos como Guadalupe."
+			"explicación": "Cristóbal Colón nombró Santa María de Guadalupe a la isla que hoy conocemos como Guadalupe.",
+			"imagen": "imagenes/carabelas.png"
 		},
 		{
 			"pregunta": "¿Qué explorador fue el primero en llegar a la costa de Brasil?",
@@ -185,7 +201,8 @@
 				"Hernán Cortés"
 			],
 			"respuesta_correcta": "Pedro Álvares Cabral",
-			"explicación": "Pedro Álvares Cabral fue el primer explorador en llegar a la costa de Brasil en 1500."
+			"explicación": "Pedro Álvares Cabral fue el primer explorador en llegar a la costa de Brasil en 1500.",
+			"imagen": "imagenes/carabelas.png"
 		},
 		{
 			"pregunta": "¿Qué nombre dio Cristóbal Colón a la isla que hoy conocemos como Dominica?",
@@ -196,7 +213,8 @@
 				"San Juan Bautista"
 			],
 			"respuesta_correcta": "Santa María la Antigua",
-			"explicación": "Cristóbal Colón nombró Santa María la Antigua a la isla que hoy conocemos como Dominica."
+			"explicación": "Cristóbal Colón nombró Santa María la Antigua a la isla que hoy conocemos como Dominica.",
+			"imagen": "imagenes/carabelas.png"
 		},
 		{
 			"pregunta": "¿Qué explorador fue el primero en cruzar el istmo de Panamá?",
@@ -207,7 +225,8 @@
 				"Hernán Cortés"
 			],
 			"respuesta_correcta": "Vasco Núñez de Balboa",
-			"explicación": "Vasco Núñez de Balboa fue el primer europeo en cruzar el istmo de Panamá en 1513."
+			"explicación": "Vasco Núñez de Balboa fue el primer europeo en cruzar el istmo de Panamá en 1513.",
+			"imagen": "imagenes/carabelas.png"
 		},
 		{
 			"pregunta": "¿Qué explorador fue el primero en llegar a la desembocadura del río Amazonas?",
@@ -218,7 +237,8 @@
 				"Hernán Cortés"
 			],
 			"respuesta_correcta": "Francisco de Orellana",
-			"explicación": "Francisco de Orellana fue el primer explorador en llegar a la desembocadura del río Amazonas en 1542."
+			"explicación": "Francisco de Orellana fue el primer explorador en llegar a la desembocadura del río Amazonas en 1542.",
+			"imagen": "imagenes/carabelas.png"
 		},
 		{
 			"pregunta": "¿Qué explorador fue el primero en avistar el Océano Pacífico desde el Nuevo Mundo?",
@@ -229,7 +249,8 @@
 				"Hernán Cortés"
 			],
 			"respuesta_correcta": "Vasco Núñez de Balboa",
-			"explicación": "Vasco Núñez de Balboa fue el primer europeo en avistar el Océano Pacífico desde el Nuevo Mundo en 1513."
+			"explicación": "Vasco Núñez de Balboa fue el primer europeo en avistar el Océano Pacífico desde el Nuevo Mundo en 1513.",
+			"imagen": "imagenes/carabelas.png"
 		},
 		{
 			"pregunta": "¿Qué nombre dio Cristóbal Colón a la isla que hoy conocemos como Trinidad?",
@@ -240,7 +261,8 @@
 				"San Juan Bautista"
 			],
 			"respuesta_correcta": "Santa María de la Trinidad",
-			"explicación": "Cristóbal Colón nombró Santa María de la Trinidad a la isla que hoy conocemos como Trinidad."
+			"explicación": "Cristóbal Colón nombró Santa María de la Trinidad a la isla que hoy conocemos como Trinidad.",
+			"imagen": "imagenes/carabelas.png"
 		},
 		{
 			"pregunta": "¿Qué explorador fue el primero en llegar a la costa de Florida?",
@@ -251,7 +273,8 @@
 				"Hernán Cortés"
 			],
 			"respuesta_correcta": "Juan Ponce de León",
-			"explicación": "Juan Ponce de León fue el primer explorador en llegar a la costa de Florida en 1513."
+			"explicación": "Juan Ponce de León fue el primer explorador en llegar a la costa de Florida en 1513.",
+			"imagen": "imagenes/carabelas.png"
 		},
 		{
 			"pregunta": "¿Qué nombre dio Cristóbal Colón a la isla que hoy conocemos como Martinica?",
@@ -262,7 +285,8 @@
 				"San Juan Bautista"
 			],
 			"respuesta_correcta": "Santa María de Martinica",
-			"explicación": "Cristóbal Colón nombró Santa María de Martinica a la isla que hoy conocemos como Martinica."
+			"explicación": "Cristóbal Colón nombró Santa María de Martinica a la isla que hoy conocemos como Martinica.",
+			"imagen": "imagenes/carabelas.png"
 		},
 		{
 			"pregunta": "¿Qué explorador fue el primero en llegar a la costa de California?",
@@ -273,7 +297,8 @@
 				"Hernán Cortés"
 			],
 			"respuesta_correcta": "Juan Rodríguez Cabrillo",
-			"explicación": "Juan Rodríguez Cabrillo fue el primer explorador en llegar a la costa de California en 1542."
+			"explicación": "Juan Rodríguez Cabrillo fue el primer explorador en llegar a la costa de California en 1542.",
+			"imagen": "imagenes/carabelas.png"
 		},
 		{
 			"pregunta": "¿Qué nombre dio Cristóbal Colón a la isla que hoy conocemos como Barbados?",
@@ -284,7 +309,8 @@
 				"San Juan Bautista"
 			],
 			"respuesta_correcta": "Santa María de Barbados",
-			"explicación": "Cristóbal Colón nombró Santa María de Barbados a la isla que hoy conocemos como Barbados."
+			"explicación": "Cristóbal Colón nombró Santa María de Barbados a la isla que hoy conocemos como Barbados.",
+			"imagen": "imagenes/carabelas.png"
 		},
 		{
 			"pregunta": "¿Qué explorador fue el primero en llegar a la costa de México?",
@@ -295,7 +321,8 @@
 				"Francisco Pizarro"
 			],
 			"respuesta_correcta": "Hernán Cortés",
-			"explicación": "Hernán Cortés fue el primer explorador en llegar a la costa de México en 1519."
+			"explicación": "Hernán Cortés fue el primer explorador en llegar a la costa de México en 1519.",
+			"imagen": "imagenes/carabelas.png"
 		},
 		{
 			"pregunta": "¿Qué nombre dio Cristóbal Colón a la isla que hoy conocemos como Granada?",
@@ -306,7 +333,8 @@
 				"San Juan Bautista"
 			],
 			"respuesta_correcta": "Santa María de Granada",
-			"explicación": "Cristóbal Colón nombró Santa María de Granada a la isla que hoy conocemos como Granada."
+			"explicación": "Cristóbal Colón nombró Santa María de Granada a la isla que hoy conocemos como Granada.",
+			"imagen": "imagenes/carabelas.png"
 		},
 		{
 			"pregunta": "¿Qué explorador fue el primero en llegar a la costa de Venezuela?",
@@ -317,7 +345,8 @@
 				"Hernán Cortés"
 			],
 			"respuesta_correcta": "Alonso de Ojeda",
-			"explicación": "Alonso de Ojeda fue el primer explorador en llegar a la costa de Venezuela en 1499."
+			"explicación": "Alonso de Ojeda fue el primer explorador en llegar a la costa de Venezuela en 1499.",
+			"imagen": "imagenes/carabelas.png"
 		},
 		{
 			"pregunta": "¿Qué nombre dio Cristóbal Colón a la isla que hoy conocemos como Antigua?",
@@ -328,7 +357,8 @@
 				"San Juan Bautista"
 			],
 			"respuesta_correcta": "Santa María de Antigua",
-			"explicación": "Cristóbal Colón nombró Santa María de Antigua a la isla que hoy conocemos como Antigua."
+			"explicación": "Cristóbal Colón nombró Santa María de Antigua a la isla que hoy conocemos como Antigua.",
+			"imagen": "imagenes/carabelas.png"
 		},
 		{
 			"pregunta": "¿Qué explorador fue el primero en llegar a la costa de Colombia?",
@@ -339,7 +369,8 @@
 				"Hernán Cortés"
 			],
 			"respuesta_correcta": "Rodrigo de Bastidas",
-			"explicación": "Rodrigo de Bastidas fue el primer explorador en llegar a la costa de Colombia en 1500."
+			"explicación": "Rodrigo de Bastidas fue el primer explorador en llegar a la costa de Colombia en 1500.",
+			"imagen": "imagenes/carabelas.png"
 		},
 		{
 			"pregunta": "¿Qué nombre dio Cristóbal Colón a la isla que hoy conocemos como San Vicente?",
@@ -350,7 +381,8 @@
 				"San Juan Bautista"
 			],
 			"respuesta_correcta": "Santa María de San Vicente",
-			"explicación": "Cristóbal Colón nombró Santa María de San Vicente a la isla que hoy conocemos como San Vicente."
+			"explicación": "Cristóbal Colón nombró Santa María de San Vicente a la isla que hoy conocemos como San Vicente.",
+			"imagen": "imagenes/carabelas.png"
 		},
 		{
 			"pregunta": "¿Qué explorador fue el primero en llegar a la costa de Perú?",
@@ -361,7 +393,8 @@
 				"Hernán Cortés"
 			],
 			"respuesta_correcta": "Francisco Pizarro",
-			"explicación": "Francisco Pizarro fue el primer explorador en llegar a la costa de Perú en 1524."
+			"explicación": "Francisco Pizarro fue el primer explorador en llegar a la costa de Perú en 1524.",
+			"imagen": "imagenes/carabelas.png"
 		},
 		{
 			"pregunta": "¿Qué nombre dio Cristóbal Colón a la isla que hoy conocemos como Santa Lucía?",
@@ -372,7 +405,8 @@
 				"San Juan Bautista"
 			],
 			"respuesta_correcta": "Santa María de Santa Lucía",
-			"explicación": "Cristóbal Colón nombró Santa María de Santa Lucía a la isla que hoy conocemos como Santa Lucía."
+			"explicación": "Cristóbal Colón nombró Santa María de Santa Lucía a la isla que hoy conocemos como Santa Lucía.",
+			"imagen": "imagenes/carabelas.png"
 		},
 		{
 			"pregunta": "¿Qué explorador fue el primero en llegar a la costa de Chile?",
@@ -383,7 +417,8 @@
 				"Hernán Cortés"
 			],
 			"respuesta_correcta": "Diego de Almagro",
-			"explicación": "Diego de Almagro fue el primer explorador en llegar a la costa de Chile en 1535."
+			"explicación": "Diego de Almagro fue el primer explorador en llegar a la costa de Chile en 1535.",
+			"imagen": "imagenes/carabelas.png"
 		},
 		{
 			"pregunta": "¿Qué nombre dio Cristóbal Colón a la isla que hoy conocemos como San Cristóbal?",
@@ -394,7 +429,8 @@
 				"San Juan Bautista"
 			],
 			"respuesta_correcta": "Santa María de San Cristóbal",
-			"explicación": "Cristóbal Colón nombró Santa María de San Cristóbal a la isla que hoy conocemos como San Cristóbal."
+			"explicación": "Cristóbal Colón nombró Santa María de San Cristóbal a la isla que hoy conocemos como San Cristóbal.",
+			"imagen": "imagenes/carabelas.png"
 		},
 		{
 			"pregunta": "¿Qué explorador fue el primero en llegar a la costa de Argentina?",
@@ -405,7 +441,8 @@
 				"Hernán Cortés"
 			],
 			"respuesta_correcta": "Juan Díaz de Solís",
-			"explicación": "Juan Díaz de Solís fue el primer explorador en llegar a la costa de Argentina en 1516."
+			"explicación": "Juan Díaz de Solís fue el primer explorador en llegar a la costa de Argentina en 1516.",
+			"imagen": "imagenes/carabelas.png"
 		},
 		{
 			"pregunta": "¿Qué nombre dio Cristóbal Colón a la isla que hoy conocemos como San Bartolomé?",
@@ -416,7 +453,8 @@
 				"San Juan Bautista"
 			],
 			"respuesta_correcta": "Santa María de San Bartolomé",
-			"explicación": "Cristóbal Colón nombró Santa María de San Bartolomé a la isla que hoy conocemos como San Bartolomé."
+			"explicación": "Cristóbal Colón nombró Santa María de San Bartolomé a la isla que hoy conocemos como San Bartolomé.",
+			"imagen": "imagenes/carabelas.png"
 		},
 		{
 			"pregunta": "¿Qué explorador fue el primero en llegar a la costa de Uruguay?",
@@ -427,7 +465,8 @@
 				"Hernán Cortés"
 			],
 			"respuesta_correcta": "Juan Díaz de Solís",
-			"explicación": "Juan Díaz de Solís fue el primer explorador en llegar a la costa de Uruguay en 1516."
+			"explicación": "Juan Díaz de Solís fue el primer explorador en llegar a la costa de Uruguay en 1516.",
+			"imagen": "imagenes/carabelas.png"
 		},
 		{
 			"pregunta": "¿Qué explorador fue el primero en llegar a Paraguay?",
@@ -438,7 +477,8 @@
 				"Hernán Cortés"
 			],
 			"respuesta_correcta": "Juan de Ayolas",
-			"explicación": "Juan de Ayolas fue el primer explorador en llegar a Paraguay a través del río Paraná en 1537."
+			"explicación": "Juan de Ayolas fue el primer explorador en llegar a Paraguay a través del río Paraná en 1537.",
+			"imagen": "imagenes/carabelas.png"
 		},
 		{
 			"pregunta": "¿Qué nombre dio Cristóbal Colón a la isla que hoy conocemos como Montserrat?",
@@ -449,7 +489,8 @@
 				"San Juan Bautista"
 			],
 			"respuesta_correcta": "Santa María de Montserrat",
-			"explicación": "Cristóbal Colón nombró Santa María de Montserrat a la isla que hoy conocemos como Montserrat."
+			"explicación": "Cristóbal Colón nombró Santa María de Montserrat a la isla que hoy conocemos como Montserrat.",
+			"imagen": "imagenes/carabelas.png"
 		},
 		{
 			"pregunta": "¿Qué explorador fue el primero en llegar a la costa de Nicaragua?",
@@ -460,7 +501,8 @@
 				"Hernán Cortés"
 			],
 			"respuesta_correcta": "Gil González Dávila",
-			"explicación": "Gil González Dávila fue el primer explorador en llegar a la costa de Nicaragua en 1522."
+			"explicación": "Gil González Dávila fue el primer explorador en llegar a la costa de Nicaragua en 1522.",
+			"imagen": "imagenes/carabelas.png"
 		},
 		{
 			"pregunta": "¿Qué nombre dio Cristóbal Colón a la isla que hoy conocemos como Santa Cruz?",
@@ -471,7 +513,8 @@
 				"San Juan Bautista"
 			],
 			"respuesta_correcta": "Santa María de Santa Cruz",
-			"explicación": "Cristóbal Colón nombró Santa María de Santa Cruz a la isla que hoy conocemos como Santa Cruz."
+			"explicación": "Cristóbal Colón nombró Santa María de Santa Cruz a la isla que hoy conocemos como Santa Cruz.",
+			"imagen": "imagenes/carabelas.png"
 		},
 		{
 			"pregunta": "¿Qué explorador fue el primero en llegar a la costa de Honduras?",
@@ -482,7 +525,8 @@
 				"Hernán Cortés"
 			],
 			"respuesta_correcta": "Cristóbal Colón",
-			"explicación": "Cristóbal Colón fue el primer explorador en llegar a la costa de Honduras en 1502."
+			"explicación": "Cristóbal Colón fue el primer explorador en llegar a la costa de Honduras en 1502.",
+			"imagen": "imagenes/carabelas.png"
 		},
 		{
 			"pregunta": "¿Qué nombre dio Cristóbal Colón a la isla que hoy conocemos como San Eustaquio?",
@@ -493,7 +537,8 @@
 				"San Juan Bautista"
 			],
 			"respuesta_correcta": "Santa María de San Eustaquio",
-			"explicación": "Cristóbal Colón nombró Santa María de San Eustaquio a la isla que hoy conocemos como San Eustaquio."
+			"explicación": "Cristóbal Colón nombró Santa María de San Eustaquio a la isla que hoy conocemos como San Eustaquio.",
+			"imagen": "imagenes/carabelas.png"
 		},
 		{
 			"pregunta": "¿Qué explorador fue el primero en llegar a la costa de Belice?",
@@ -504,7 +549,8 @@
 				"Hernán Cortés"
 			],
 			"respuesta_correcta": "Pedro de Alvarado",
-			"explicación": "Pedro de Alvarado fue el primer explorador en llegar a la costa de Belice en 1524."
+			"explicación": "Pedro de Alvarado fue el primer explorador en llegar a la costa de Belice en 1524.",
+			"imagen": "imagenes/carabelas.png"
 		},
 		{
 			"pregunta": "¿Qué nombre dio Cristóbal Colón a la isla que hoy conocemos como San Cristóbal y Nieves?",
@@ -515,7 +561,8 @@
 				"San Juan Bautista"
 			],
 			"respuesta_correcta": "Santa María de San Cristóbal y Nieves",
-			"explicación": "Cristóbal Colón nombró Santa María de San Cristóbal y Nieves a la isla que hoy conocemos como San Cristóbal y Nieves."
+			"explicación": "Cristóbal Colón nombró Santa María de San Cristóbal y Nieves a la isla que hoy conocemos como San Cristóbal y Nieves.",
+			"imagen": "imagenes/carabelas.png"
 		},
 		{
 			"pregunta": "¿Qué explorador fue el primero en llegar a la costa de Panamá?",
@@ -526,7 +573,8 @@
 				"Hernán Cortés"
 			],
 			"respuesta_correcta": "Rodrigo de Bastidas",
-			"explicación": "Rodrigo de Bastidas fue el primer explorador en llegar a la costa de Panamá en 1501."
+			"explicación": "Rodrigo de Bastidas fue el primer explorador en llegar a la costa de Panamá en 1501.",
+			"imagen": "imagenes/carabelas.png"
 		},
 		{
 			"pregunta": "¿Qué nombre dio Cristóbal Colón a la isla que hoy conocemos como San Martín?",
@@ -537,7 +585,8 @@
 				"San Juan Bautista"
 			],
 			"respuesta_correcta": "Santa María de San Martín",
-			"explicación": "Cristóbal Colón nombró Santa María de San Martín a la isla que hoy conocemos como San Martín."
+			"explicación": "Cristóbal Colón nombró Santa María de San Martín a la isla que hoy conocemos como San Martín.",
+			"imagen": "imagenes/carabelas.png"
 		},
 		{
 			"pregunta": "¿Qué explorador fue el primero en llegar a la costa de Costa Rica?",
@@ -548,7 +597,8 @@
 				"Hernán Cortés"
 			],
 			"respuesta_correcta": "Cristóbal Colón",
-			"explicación": "Cristóbal Colón fue el primer explorador en llegar a la costa de Costa Rica en 1502."
+			"explicación": "Cristóbal Colón fue el primer explorador en llegar a la costa de Costa Rica en 1502.",
+			"imagen": "imagenes/carabelas.png"
 		},
 		{
 			"pregunta": "¿Qué nombre dio Cristóbal Colón a la isla que hoy conocemos como San Pedro y Miquelón?",
@@ -559,7 +609,8 @@
 				"San Juan Bautista"
 			],
 			"respuesta_correcta": "Santa María de San Pedro y Miquelón",
-			"explicación": "Cristóbal Colón nombró Santa María de San Pedro y Miquelón a la isla que hoy conocemos como San Pedro y Miquelón."
+			"explicación": "Cristóbal Colón nombró Santa María de San Pedro y Miquelón a la isla que hoy conocemos como San Pedro y Miquelón.",
+			"imagen": "imagenes/carabelas.png"
 		},
 		{
 			"pregunta": "¿Qué explorador fue el primero en llegar a la costa de El Salvador?",
@@ -570,7 +621,8 @@
 				"Hernán Cortés"
 			],
 			"respuesta_correcta": "Pedro de Alvarado",
-			"explicación": "Pedro de Alvarado fue el primer explorador en llegar a la costa de El Salvador en 1524."
+			"explicación": "Pedro de Alvarado fue el primer explorador en llegar a la costa de El Salvador en 1524.",
+			"imagen": "imagenes/carabelas.png"
 		},
 		{
 			"pregunta": "¿Qué explorador fue el primero en llegar a la costa de Guatemala?",
@@ -581,7 +633,8 @@
 				"Hernán Cortés"
 			],
 			"respuesta_correcta": "Pedro de Alvarado",
-			"explicación": "Pedro de Alvarado fue el primer explorador en llegar a la costa de Guatemala en 1523."
+			"explicación": "Pedro de Alvarado fue el primer explorador en llegar a la costa de Guatemala en 1523.",
+			"imagen": "imagenes/carabelas.png"
 		},
 		{
 			"pregunta": "¿Qué explorador fue el primero en llegar a la costa de Ecuador?",
@@ -592,7 +645,8 @@
 				"Hernán Cortés"
 			],
 			"respuesta_correcta": "Francisco Pizarro",
-			"explicación": "Francisco Pizarro fue el primer explorador en llegar a la costa de Ecuador en 1531."
+			"explicación": "Francisco Pizarro fue el primer explorador en llegar a la costa de Ecuador en 1531.",
+			"imagen": "imagenes/carabelas.png"
 		}
 	]
 }
