@@ -166,7 +166,7 @@
 			],
 			"respuesta_correcta": "Hernán Cortés",
 			"explicación": "Hernán Cortés fue el explorador que conquistó el Imperio Azteca en 1521.",
-			"imagen": "imagenes/carabelas.png"
+			"imagen": "imagenes/hernan_cortes.png"
 		},
 		{
 			"pregunta": "¿Qué explorador conquistó el Imperio Inca?",
@@ -322,7 +322,7 @@
 			],
 			"respuesta_correcta": "Hernán Cortés",
 			"explicación": "Hernán Cortés fue el primer explorador en llegar a la costa de México en 1519.",
-			"imagen": "imagenes/carabelas.png"
+			"imagen": "imagenes/hernan_cortes.png"
 		},
 		{
 			"pregunta": "¿Qué nombre dio Cristóbal Colón a la isla que hoy conocemos como Granada?",

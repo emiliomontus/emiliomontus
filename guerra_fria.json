@@ -9,7 +9,8 @@
 				"1961"
 			],
 			"respuesta_correcta": "1947",
-			"explicación": "La Guerra Fría comenzó en 1947 con la Doctrina Truman, en la que EE.UU. declaró su intención de contener la expansión del comunismo."
+			"explicación": "La Guerra Fría comenzó en 1947 con la Doctrina Truman, en la que EE.UU. declaró su intención de contener la expansión del comunismo.",
+			"imagen": "imagenes/muro_berlin.png"
 		},
 		{
 			"pregunta": "¿Cuál fue el principal enfrentamiento ideológico en la Guerra Fría?",
@@ -20,7 +21,8 @@
 				"Conservadurismo vs. Liberalismo"
 			],
 			"respuesta_correcta": "Comunismo vs. Capitalismo",
-			"explicación": "La Guerra Fría enfrentó a EE.UU. y la URSS, representando el capitalismo y el comunismo, respectivamente."
+			"explicación": "La Guerra Fría enfrentó a EE.UU. y la URSS, representando el capitalismo y el comunismo, respectivamente.",
+			"imagen": "imagenes/muro_berlin.png"
 		},
 		{
 			"pregunta": "¿Qué conflicto se considera un símbolo de la Guerra Fría?",
@@ -31,7 +33,8 @@
 				"Guerra de Ucrania"
 			],
 			"respuesta_correcta": "Guerra de Vietnam",
-			"explicación": "La Guerra de Vietnam (1955-1975) fue un conflicto entre el Norte comunista, apoyado por la URSS y China, y el Sur, respaldado por EE.UU."
+			"explicación": "La Guerra de Vietnam (1955-1975) fue un conflicto entre el Norte comunista, apoyado por la URSS y China, y el Sur, respaldado por EE.UU.",
+			"imagen": "imagenes/muro_berlin.png"
 		},
 		{
 			"pregunta": "¿Cuál de estos eventos NO ocurrió durante la Guerra Fría?",
@@ -42,7 +45,8 @@
 				"Mayo del 68"
 			],
 			"respuesta_correcta": "Ataques del 11 de septiembre",
-			"explicación": "Los ataques del 11 de septiembre ocurrieron en 2001, después del fin de la Guerra Fría en 1991."
+			"explicación": "Los ataques del 11 de septiembre ocurrieron en 2001, después del fin de la Guerra Fría en 1991.",
+			"imagen": "imagenes/muro_berlin.png"
 		},
 		{
 			"pregunta": "¿Qué estructura física simbolizaba la división entre el bloque comunista y el capitalista?",
@@ -53,7 +57,8 @@
 				"Muro de Trump"
 			],
 			"respuesta_correcta": "El Muro de Berlín",
-			"explicación": "El Muro de Berlín, construido en 1961, separó Berlín Oriental (comunista) de Berlín Occidental (capitalista) hasta 1989."
+			"explicación": "El Muro de Berlín, construido en 1961, separó Berlín Oriental (comunista) de Berlín Occidental (capitalista) hasta 1989.",
+			"imagen": "imagenes/muro_berlin.png"
 		},
 		{
 			"pregunta": "¿Cuál de estos tratados contribuyó al fin de la Guerra Fría?",
@@ -64,7 +69,8 @@
 				"Acuerdos de paz de París"
 			],
 			"respuesta_correcta": "Tratado INF",
-			"explicación": "El Tratado INF (1987) entre EE.UU. y la URSS eliminó misiles de alcance intermedio y ayudó a reducir tensiones."
+			"explicación": "El Tratado INF (1987) entre EE.UU. y la URSS eliminó misiles de alcance intermedio y ayudó a reducir tensiones.",
+			"imagen": "imagenes/muro_berlin.png"
 		},
 		{
 			"pregunta": "¿Cuál fue una de las causas principales del colapso de la Unión Soviética?",
@@ -75,7 +81,8 @@
 				"La muerte de Stalin"
 			],
 			"respuesta_correcta": "Reformas de Gorbachov",
-			"explicación": "Las reformas de Gorbachov, como la Perestroika y la Glasnost, debilitaron el control del Estado y aceleraron el colapso de la URSS en 1991."
+			"explicación": "Las reformas de Gorbachov, como la Perestroika y la Glasnost, debilitaron el control del Estado y aceleraron el colapso de la URSS en 1991.",
+			"imagen": "imagenes/muro_berlin.png"
 		},
 		{
 			"pregunta": "¿Qué fue la Doctrina Truman?",
@@ -86,7 +93,8 @@
 				"Un tratado de paz con la Unión Soviética"
 			],
 			"respuesta_correcta": "Una estrategia para frenar el comunismo",
-			"explicación": "La Doctrina Truman (1947) declaró que EE.UU. apoyaría a países amenazados por el comunismo, marcando el inicio de la Guerra Fría."
+			"explicación": "La Doctrina Truman (1947) declaró que EE.UU. apoyaría a países amenazados por el comunismo, marcando el inicio de la Guerra Fría.",
+			"imagen": "imagenes/muro_berlin.png"
 		},
 		{
 			"pregunta": "¿Qué significó el 'Telón de Acero'?",
@@ -97,7 +105,8 @@
 				"Una operación militar"
 			],
 			"respuesta_correcta": "La división política e ideológica en Europa",
-			"explicación": "El 'Telón de Acero' fue un término usado por Winston Churchill en 1946 para describir la separación entre Europa Occidental y Oriental."
+			"explicación": "El 'Telón de Acero' fue un término usado por Winston Churchill en 1946 para describir la separación entre Europa Occidental y Oriental.",
+			"imagen": "imagenes/muro_berlin.png"
 		},
 		{
 			"pregunta": "¿Qué organización militar fue creada por los EE.UU. y sus aliados en 1949?",
@@ -108,7 +117,8 @@
 				"Unión Europea"
 			],
 			"respuesta_correcta": "OTAN",
-			"explicación": "La OTAN (Organización del Tratado del Atlántico Norte) fue fundada en 1949 para la defensa colectiva contra la URSS."
+			"explicación": "La OTAN (Organización del Tratado del Atlántico Norte) fue fundada en 1949 para la defensa colectiva contra la URSS.",
+			"imagen": "imagenes/muro_berlin.png"
 		},
 		{
 			"pregunta": "¿Qué conferencia de 1945 es considerada el inicio de la división de Europa en bloques?",
@@ -119,7 +129,8 @@
 				"Conferencia de San Francisco"
 			],
 			"respuesta_correcta": "Conferencia de Yalta",
-			"explicación": "La Conferencia de Yalta en 1945 es considerada el inicio de la división de Europa en bloques, con acuerdos sobre la reorganización de Europa tras la Segunda Guerra Mundial."
+			"explicación": "La Conferencia de Yalta en 1945 es considerada el inicio de la división de Europa en bloques, con acuerdos sobre la reorganización de Europa tras la Segunda Guerra Mundial.",
+			"imagen": "imagenes/muro_berlin.png"
 		},
 		{
 			"pregunta": "¿Qué doctrina estableció la política de contención del comunismo por parte de Estados Unidos?",
@@ -130,7 +141,8 @@
 				"Doctrina Nixon"
 			],
 			"respuesta_correcta": "Doctrina Truman",
-			"explicación": "La Doctrina Truman, anunciada en 1947, estableció la política de contención del comunismo por parte de Estados Unidos."
+			"explicación": "La Doctrina Truman, anunciada en 1947, estableció la política de contención del comunismo por parte de Estados Unidos.",
+			"imagen": "imagenes/muro_berlin.png"
 		},
 		{
 			"pregunta": "¿Qué plan de ayuda económica fue implementado por Estados Unidos para la reconstrucción de Europa tras la Segunda Guerra Mundial?",
@@ -141,7 +153,8 @@
 				"Plan Schuman"
 			],
 			"respuesta_correcta": "Plan Marshall",
-			"explicación": "El Plan Marshall, implementado en 1948, fue un programa de ayuda económica de Estados Unidos para la reconstrucción de Europa tras la Segunda Guerra Mundial."
+			"explicación": "El Plan Marshall, implementado en 1948, fue un programa de ayuda económica de Estados Unidos para la reconstrucción de Europa tras la Segunda Guerra Mundial.",
+			"imagen": "imagenes/muro_berlin.png"
 		},
 		{
 			"pregunta": "¿Qué organización militar fue creada en 1955 como respuesta a la OTAN?",
@@ -152,7 +165,8 @@
 				"OEA"
 			],
 			"respuesta_correcta": "Pacto de Varsovia",
-			"explicación": "El Pacto de Varsovia fue creado en 1955 como respuesta a la OTAN, agrupando a la Unión Soviética y sus aliados en Europa del Este."
+			"explicación": "El Pacto de Varsovia fue creado en 1955 como respuesta a la OTAN, agrupando a la Unión Soviética y sus aliados en Europa del Este.",
+			"imagen": "imagenes/muro_berlin.png"
 		},
 		{
 			"pregunta": "¿Qué evento de 1962 llevó al mundo al borde de una guerra nuclear?",
@@ -163,7 +177,8 @@
 				"Bloqueo de Berlín"
 			],
 			"respuesta_correcta": "Crisis de los Misiles en Cuba",
-			"explicación": "La Crisis de los Misiles en Cuba en 1962 llevó al mundo al borde de una guerra nuclear entre Estados Unidos y la Unión Soviética."
+			"explicación": "La Crisis de los Misiles en Cuba en 1962 llevó al mundo al borde de una guerra nuclear entre Estados Unidos y la Unión Soviética.",
+			"imagen": "imagenes/muro_berlin.png"
 		},
 		{
 			"pregunta": "¿Qué conflicto armado tuvo lugar entre 1950 y 1953 en Asia, involucrando a Estados Unidos y sus aliados contra Corea del Norte y China?",
@@ -174,7 +189,8 @@
 				"Guerra de Camboya"
 			],
 			"respuesta_correcta": "Guerra de Corea",
-			"explicación": "La Guerra de Corea tuvo lugar entre 1950 y 1953, enfrentando a Estados Unidos y sus aliados contra Corea del Norte y China."
+			"explicación": "La Guerra de Corea tuvo lugar entre 1950 y 1953, enfrentando a Estados Unidos y sus aliados contra Corea del Norte y China.",
+			"imagen": "imagenes/muro_berlin.png"
 		},
 		{
 			"pregunta": "¿Qué conflicto armado tuvo lugar entre 1955 y 1975 en Asia, involucrando a Estados Unidos en apoyo a Vietnam del Sur contra Vietnam del Norte?",
@@ -185,7 +201,8 @@
 				"Guerra de Camboya"
 			],
 			"respuesta_correcta": "Guerra de Vietnam",
-			"explicación": "La Guerra de Vietnam tuvo lugar entre 1955 y 1975, con la intervención de Estados Unidos en apoyo a Vietnam del Sur contra Vietnam del Norte."
+			"explicación": "La Guerra de Vietnam tuvo lugar entre 1955 y 1975, con la intervención de Estados Unidos en apoyo a Vietnam del Sur contra Vietnam del Norte.",
+			"imagen": "imagenes/muro_berlin.png"
 		},
 		{
 			"pregunta": "¿Qué líder soviético inició las políticas de glasnost y perestroika en la década de 1980?",
@@ -196,7 +213,8 @@
 				"Yuri Andrópov"
 			],
 			"respuesta_correcta": "Mijaíl Gorbachov",
-			"explicación": "Mijaíl Gorbachov inició las políticas de glasnost (transparencia) y perestroika (reestructuración) en la Unión Soviética en la década de 1980."
+			"explicación": "Mijaíl Gorbachov inició las políticas de glasnost (transparencia) y perestroika (reestructuración) en la Unión Soviética en la década de 1980.",
+			"imagen": "imagenes/muro_berlin.png"
 		},
 		{
 			"pregunta": "¿Qué presidente estadounidense pronunció el famoso discurso 'Mr. Gorbachev, tear down this wall' en 1987?",
@@ -207,7 +225,8 @@
 				"Jimmy Carter"
 			],
 			"respuesta_correcta": "Ronald Reagan",
-			"explicación": "El presidente estadounidense Ronald Reagan pronunció el famoso discurso 'Mr. Gorbachev, tear down this wall' en 1987, instando a la Unión Soviética a derribar el Muro de Berlín."
+			"explicación": "El presidente estadounidense Ronald Reagan pronunció el famoso discurso 'Mr. Gorbachev, tear down this wall' en 1987, instando a la Unión Soviética a derribar el Muro de Berlín.",
+			"imagen": "imagenes/muro_berlin.png"
 		},
 		{
 			"pregunta": "¿Qué evento de 1989 marcó el fin simbólico de la Guerra Fría?",
@@ -218,7 +237,8 @@
 				"Cumbre de Malta"
 			],
 			"respuesta_correcta": "Caída del Muro de Berlín",
-			"explicación": "La caída del Muro de Berlín en 1989 marcó el fin simbólico de la Guerra Fría y la reunificación de Alemania."
+			"explicación": "La caída del Muro de Berlín en 1989 marcó el fin simbólico de la Guerra Fría y la reunificación de Alemania.",
+			"imagen": "imagenes/muro_berlin.png"
 		},
 		{
 			"pregunta": "¿Qué tratado de 1991 puso fin oficialmente a la Guerra Fría?",
@@ -229,7 +249,8 @@
 				"Tratado de Minsk"
 			],
 			"respuesta_correcta": "Tratado de Minsk",
-			"explicación": "El Tratado de Minsk, firmado en 1991, puso fin oficialmente a la Guerra Fría y disolvió la Unión Soviética."
+			"explicación": "El Tratado de Minsk, firmado en 1991, puso fin oficialmente a la Guerra Fría y disolvió la Unión Soviética.",
+			"imagen": "imagenes/muro_berlin.png"
 		},
 		{
 			"pregunta": "¿Qué política estadounidense buscaba evitar la expansión del comunismo en América Latina durante la Guerra Fría?",
@@ -240,7 +261,8 @@
 				"Doctrina Kennedy"
 			],
 			"respuesta_correcta": "Doctrina Monroe",
-			"explicación": "La Doctrina Monroe, aunque formulada en el siglo XIX, fue utilizada durante la Guerra Fría para justificar la intervención estadounidense en América Latina para evitar la expansión del comunismo."
+			"explicación": "La Doctrina Monroe, aunque formulada en el siglo XIX, fue utilizada durante la Guerra Fría para justificar la intervención estadounidense en América Latina para evitar la expansión del comunismo.",
+			"imagen": "imagenes/muro_berlin.png"
 		},
 		{
 			"pregunta": "¿Qué líder cubano estuvo en el poder durante la Crisis de los Misiles en Cuba?",
@@ -251,7 +273,8 @@
 				"Camilo Cienfuegos"
 			],
 			"respuesta_correcta": "Fidel Castro",
-			"explicación": "Fidel Castro fue el líder cubano durante la Crisis de los Misiles en Cuba en 1962."
+			"explicación": "Fidel Castro fue el líder cubano durante la Crisis de los Misiles en Cuba en 1962.",
+			"imagen": "imagenes/muro_berlin.png"
 		},
 		{
 			"pregunta": "¿Qué presidente estadounidense fue asesinado en 1963 durante la Guerra Fría?",
@@ -262,7 +285,8 @@
 				"Harry S. Truman"
 			],
 			"respuesta_correcta": "John F. Kennedy",
-			"explicación": "El presidente estadounidense John F. Kennedy fue asesinado en 1963 durante la Guerra Fría."
+			"explicación": "El presidente estadounidense John F. Kennedy fue asesinado en 1963 durante la Guerra Fría.",
+			"imagen": "imagenes/muro_berlin.png"
 		},
 		{
 			"pregunta": "¿Qué programa espacial soviético logró poner en órbita al primer satélite artificial, el Sputnik 1, en 1957?",
@@ -273,7 +297,8 @@
 				"Programa Luna"
 			],
 			"respuesta_correcta": "Programa Sputnik",
-			"explicación": "El programa espacial soviético logró poner en órbita al primer satélite artificial, el Sputnik 1, en 1957."
+			"explicación": "El programa espacial soviético logró poner en órbita al primer satélite artificial, el Sputnik 1, en 1957.",
+			"imagen": "imagenes/muro_berlin.png"
 		},
 		{
 			"pregunta": "¿Qué programa espacial estadounidense logró llevar al primer hombre a la Luna en 1969?",
@@ -284,7 +309,8 @@
 				"Programa Skylab"
 			],
 			"respuesta_correcta": "Programa Apollo",
-			"explicación": "El programa espacial estadounidense Apollo logró llevar al primer hombre a la Luna en 1969 con la misión Apollo 11."
+			"explicación": "El programa espacial estadounidense Apollo logró llevar al primer hombre a la Luna en 1969 con la misión Apollo 11.",
+			"imagen": "imagenes/muro_berlin.png"
 		},
 		{
 			"pregunta": "¿Qué líder soviético sucedió a Nikita Jrushchov en 1964?",
@@ -295,7 +321,8 @@
 				"Mijaíl Gorbachov"
 			],
 			"respuesta_correcta": "Leonid Brézhnev",
-			"explicación": "Leonid Brézhnev sucedió a Nikita Jrushchov como líder de la Unión Soviética en 1964."
+			"explicación": "Leonid Brézhnev sucedió a Nikita Jrushchov como líder de la Unión Soviética en 1964.",
+			"imagen": "imagenes/muro_berlin.png"
 		},
 		{
 			"pregunta": "¿Qué evento de 1948-1949 fue un intento de la Unión Soviética de bloquear el acceso a Berlín Occidental?",
@@ -306,7 +333,8 @@
 				"Primavera de Praga"
 			],
 			"respuesta_correcta": "Bloqueo de Berlín",
-			"explicación": "El Bloqueo de Berlín de 1948-1949 fue un intento de la Unión Soviética de bloquear el acceso a Berlín Occidental, lo que llevó al puente aéreo de Berlín por parte de los aliados occidentales."
+			"explicación": "El Bloqueo de Berlín de 1948-1949 fue un intento de la Unión Soviética de bloquear el acceso a Berlín Occidental, lo que llevó al puente aéreo de Berlín por parte de los aliados occidentales.",
+			"imagen": "imagenes/muro_berlin.png"
 		},
 		{
 			"pregunta": "¿Qué líder chino proclamó la República Popular China en 1949?",
@@ -317,7 +345,8 @@
 				"Zhou Enlai"
 			],
 			"respuesta_correcta": "Mao Zedong",
-			"explicación": "Mao Zedong proclamó la República Popular China en 1949, estableciendo un estado comunista."
+			"explicación": "Mao Zedong proclamó la República Popular China en 1949, estableciendo un estado comunista.",
+			"imagen": "imagenes/muro_berlin.png"
 		},
 		{
 			"pregunta": "¿Qué tratado de 1972 limitó el desarrollo de misiles antibalísticos entre Estados Unidos y la Unión Soviética?",
@@ -328,7 +357,8 @@
 				"Tratado SALT"
 			],
 			"respuesta_correcta": "Tratado ABM",
-			"explicación": "El Tratado ABM (Tratado de Misiles Antibalísticos) de 1972 limitó el desarrollo de sistemas de misiles antibalísticos entre Estados Unidos y la Unión Soviética."
+			"explicación": "El Tratado ABM (Tratado de Misiles Antibalísticos) de 1972 limitó el desarrollo de sistemas de misiles antibalísticos entre Estados Unidos y la Unión Soviética.",
+			"imagen": "imagenes/muro_berlin.png"
 		},
 		{
 			"pregunta": "¿Qué conflicto armado tuvo lugar en 1979-1989, involucrando a la Unión Soviética en apoyo al gobierno comunista afgano?",
@@ -339,7 +369,8 @@
 				"Guerra de Camboya"
 			],
 			"respuesta_correcta": "Guerra de Afganistán",
-			"explicación": "La Guerra de Afganistán tuvo lugar entre 1979 y 1989, con la intervención de la Unión Soviética en apoyo al gobierno comunista afgano."
+			"explicación": "La Guerra de Afganistán tuvo lugar entre 1979 y 1989, con la intervención de la Unión Soviética en apoyo al gobierno comunista afgano.",
+			"imagen": "imagenes/muro_berlin.png"
 		},
 		{
 			"pregunta": "¿Qué presidente estadounidense inició la política de 'détente' con la Unión Soviética en la década de 1970?",
@@ -350,7 +381,8 @@
 				"Ronald Reagan"
 			],
 			"respuesta_correcta": "Richard Nixon",
-			"explicación": "El presidente estadounidense Richard Nixon inició la política de 'détente' con la Unión Soviética en la década de 1970, buscando una relajación de las tensiones."
+			"explicación": "El presidente estadounidense Richard Nixon inició la política de 'détente' con la Unión Soviética en la década de 1970, buscando una relajación de las tensiones.",
+			"imagen": "imagenes/muro_berlin.png"
 		},
 		{
 			"pregunta": "¿Qué líder soviético sucedió a Leonid Brézhnev en 1982?",
@@ -361,7 +393,8 @@
 				"Nikita Jrushchov"
 			],
 			"respuesta_correcta": "Yuri Andrópov",
-			"explicación": "Yuri Andrópov sucedió a Leonid Brézhnev como líder de la Unión Soviética en 1982."
+			"explicación": "Yuri Andrópov sucedió a Leonid Brézhnev como líder de la Unión Soviética en 1982.",
+			"imagen": "imagenes/muro_berlin.png"
 		},
 		{
 			"pregunta": "¿Qué evento de 1956 fue una revuelta contra el gobierno comunista en Hungría, que fue sofocada por la Unión Soviética?",
@@ -372,7 +405,8 @@
 				"Crisis de los Misiles en Cuba"
 			],
 			"respuesta_correcta": "Revolución Húngara",
-			"explicación": "La Revolución Húngara de 1956 fue una revuelta contra el gobierno comunista en Hungría, que fue sofocada por la intervención militar de la Unión Soviética."
+			"explicación": "La Revolución Húngara de 1956 fue una revuelta contra el gobierno comunista en Hungría, que fue sofocada por la intervención militar de la Unión Soviética.",
+			"imagen": "imagenes/muro_berlin.png"
 		},
 		{
 			"pregunta": "¿Qué evento de 1968 fue una tentativa de liberalización política en Checoslovaquia, que fue reprimida por la Unión Soviética?",
@@ -383,7 +417,8 @@
 				"Crisis de los Misiles en Cuba"
 			],
 			"respuesta_correcta": "Primavera de Praga",
-			"explicación": "La Primavera de Praga de 1968 fue una tentativa de liberalización política en Checoslovaquia, que fue reprimida por la intervención militar de la Unión Soviética."
+			"explicación": "La Primavera de Praga de 1968 fue una tentativa de liberalización política en Checoslovaquia, que fue reprimida por la intervención militar de la Unión Soviética.",
+			"imagen": "imagenes/muro_berlin.png"
 		},
 		{
 			"pregunta": "¿Qué tratado de 1987 eliminó los misiles de alcance intermedio y corto entre Estados Unidos y la Unión Soviética?",
@@ -394,7 +429,8 @@
 				"Tratado SALT"
 			],
 			"respuesta_correcta": "Tratado INF",
-			"explicación": "El Tratado INF (Tratado de Fuerzas Nucleares de Alcance Intermedio) de 1987 eliminó los misiles de alcance intermedio y corto entre Estados Unidos y la Unión Soviética."
+			"explicación": "El Tratado INF (Tratado de Fuerzas Nucleares de Alcance Intermedio) de 1987 eliminó los misiles de alcance intermedio y corto entre Estados Unidos y la Unión Soviética.",
+			"imagen": "imagenes/muro_berlin.png"
 		},
 		{
 			"pregunta": "¿Qué presidente estadounidense inició la Iniciativa de Defensa Estratégica, también conocida como 'Guerra de las Galaxias'?",
@@ -405,7 +441,8 @@
 				"Jimmy Carter"
 			],
 			"respuesta_correcta": "Ronald Reagan",
-			"explicación": "El presidente estadounidense Ronald Reagan inició la Iniciativa de Defensa Estratégica, también conocida como 'Guerra de las Galaxias', en 1983."
+			"explicación": "El presidente estadounidense Ronald Reagan inició la Iniciativa de Defensa Estratégica, también conocida como 'Guerra de las Galaxias', en 1983.",
+			"imagen": "imagenes/muro_berlin.png"
 		},
 		{
 			"pregunta": "¿Qué líder soviético sucedió a Yuri Andrópov en 1984?",
@@ -416,7 +453,8 @@
 				"Nikita Jrushchov"
 			],
 			"respuesta_correcta": "Konstantín Chernenko",
-			"explicación": "Konstantín Chernenko sucedió a Yuri Andrópov como líder de la Unión Soviética en 1984."
+			"explicación": "Konstantín Chernenko sucedió a Yuri Andrópov como líder de la Unión Soviética en 1984.",
+			"imagen": "imagenes/muro_berlin.png"
 		},
 		{
 			"pregunta": "¿Qué evento de 1961 fue un intento fallido de invasión de Cuba por exiliados cubanos apoyados por Estados Unidos?",
@@ -427,7 +465,8 @@
 				"Revolución Húngara"
 			],
 			"respuesta_correcta": "Invasión de Bahía de Cochinos",
-			"explicación": "La Invasión de Bahía de Cochinos en 1961 fue un intento fallido de invasión de Cuba por exiliados cubanos apoyados por Estados Unidos."
+			"explicación": "La Invasión de Bahía de Cochinos en 1961 fue un intento fallido de invasión de Cuba por exiliados cubanos apoyados por Estados Unidos.",
+			"imagen": "imagenes/muro_berlin.png"
 		},
 		{
 			"pregunta": "¿Qué líder soviético sucedió a Konstantín Chernenko en 1985?",
@@ -438,7 +477,8 @@
 				"Nikita Jrushchov"
 			],
 			"respuesta_correcta": "Mijaíl Gorbachov",
-			"explicación": "Mijaíl Gorbachov sucedió a Konstantín Chernenko como líder de la Unión Soviética en 1985."
+			"explicación": "Mijaíl Gorbachov sucedió a Konstantín Chernenko como líder de la Unión Soviética en 1985.",
+			"imagen": "imagenes/muro_berlin.png"
 		},
 		{
 			"pregunta": "¿Qué evento de 1962 fue un intento de la Unión Soviética de instalar misiles nucleares en Cuba?",
@@ -449,7 +489,8 @@
 				"Revolución Húngara"
 			],
 			"respuesta_correcta": "Crisis de los Misiles en Cuba",
-			"explicación": "La Crisis de los Misiles en Cuba en 1962 fue un intento de la Unión Soviética de instalar misiles nucleares en Cuba, lo que llevó al mundo al borde de una guerra nuclear."
+			"explicación": "La Crisis de los Misiles en Cuba en 1962 fue un intento de la Unión Soviética de instalar misiles nucleares en Cuba, lo que llevó al mundo al borde de una guerra nuclear.",
+			"imagen": "imagenes/muro_berlin.png"
 		}
 	]
 }
