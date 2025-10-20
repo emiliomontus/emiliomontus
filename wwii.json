@@ -262,7 +262,8 @@
 				"Una batalla aérea sobre Londres"
 			],
 			"respuesta_correcta": "Una victoria soviética en el frente oriental",
-			"explicación": "La Batalla de Berlín en 1945 fue la última gran batalla en Europa, resultando en la captura de Berlín por las fuerzas soviéticas."
+			"explicación": "La Batalla de Berlín en 1945 fue la última gran batalla en Europa, resultando en la captura de Berlín por las fuerzas soviéticas.",
+			"imagen": "imagenes/toma_de_berlin.png"
 		},
 		{
 			"pregunta": "¿Qué fue la 'Batalla de Guadalcanal'?",

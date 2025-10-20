@@ -82,7 +82,7 @@
 			],
 			"respuesta_correcta": "Reformas de Gorbachov",
 			"explicación": "Las reformas de Gorbachov, como la Perestroika y la Glasnost, debilitaron el control del Estado y aceleraron el colapso de la URSS en 1991.",
-			"imagen": "imagenes/muro_berlin.png"
+			"imagen": "imagenes/gorbachov.png"
 		},
 		{
 			"pregunta": "¿Qué fue la Doctrina Truman?",
@@ -214,7 +214,7 @@
 			],
 			"respuesta_correcta": "Mijaíl Gorbachov",
 			"explicación": "Mijaíl Gorbachov inició las políticas de glasnost (transparencia) y perestroika (reestructuración) en la Unión Soviética en la década de 1980.",
-			"imagen": "imagenes/muro_berlin.png"
+			"imagen": "imagenes/gorbachov.png"
 		},
 		{
 			"pregunta": "¿Qué presidente estadounidense pronunció el famoso discurso 'Mr. Gorbachev, tear down this wall' en 1987?",
@@ -310,7 +310,7 @@
 			],
 			"respuesta_correcta": "Programa Apollo",
 			"explicación": "El programa espacial estadounidense Apollo logró llevar al primer hombre a la Luna en 1969 con la misión Apollo 11.",
-			"imagen": "imagenes/muro_berlin.png"
+			"imagen": "imagenes/neil_armstrong.png"
 		},
 		{
 			"pregunta": "¿Qué líder soviético sucedió a Nikita Jrushchov en 1964?",
@@ -478,7 +478,7 @@
 			],
 			"respuesta_correcta": "Mijaíl Gorbachov",
 			"explicación": "Mijaíl Gorbachov sucedió a Konstantín Chernenko como líder de la Unión Soviética en 1985.",
-			"imagen": "imagenes/muro_berlin.png"
+			"imagen": "imagenes/gorbachov.png"
 		},
 		{
 			"pregunta": "¿Qué evento de 1962 fue un intento de la Unión Soviética de instalar misiles nucleares en Cuba?",
