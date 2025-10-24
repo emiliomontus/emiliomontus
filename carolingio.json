@@ -1,0 +1,160 @@
+{
+  "preguntas": [
+    {
+      "pregunta": "¿Quién fue el fundador del Imperio Carolingio?",
+      "opciones": ["Pipino el Breve", "Carlomagno", "Carlos Martel", "Luis el Piadoso"],
+      "respuesta_correcta": "Carlomagno",
+      "explicación": "Carlomagno consolidó los territorios francos y fue coronado emperador en el año 800, fundando el Imperio Carolingio."
+    },
+    {
+      "pregunta": "¿En qué año fue coronado Carlomagno como emperador del Sacro Imperio Romano?",
+      "opciones": ["774", "800", "814", "843"],
+      "respuesta_correcta": "800",
+      "explicación": "Carlomagno fue coronado emperador por el papa León III el día de Navidad del año 800."
+    },
+    {
+      "pregunta": "¿Qué dinastía gobernó el Imperio Carolingio?",
+      "opciones": ["Merovingia", "Borgoñona", "Carolingia", "Capeta"],
+      "respuesta_correcta": "Carolingia",
+      "explicación": "El Imperio Carolingio fue gobernado por la dinastía Carolingia, sucesora de los merovingios."
+    },
+    {
+      "pregunta": "¿Qué territorio fue la base del poder carolingio?",
+      "opciones": ["Italia", "Francia", "Austrasia", "Galia"],
+      "respuesta_correcta": "Austrasia",
+      "explicación": "Austrasia, región al noreste del reino franco, fue el núcleo original del poder carolingio."
+    },
+    {
+      "pregunta": "¿Qué relación tenía Carlomagno con Pipino el Breve?",
+      "opciones": ["Era su hijo", "Era su hermano", "Era su padre", "Era su nieto"],
+      "respuesta_correcta": "Era su hijo",
+      "explicación": "Carlomagno era hijo de Pipino el Breve, quien fue el primer rey carolingio de los francos."
+    },
+    {
+      "pregunta": "¿Qué institución apoyó fuertemente a Carlomagno en su gobierno?",
+      "opciones": ["El ejército", "La nobleza", "La Iglesia", "Los comerciantes"],
+      "respuesta_correcta": "La Iglesia",
+      "explicación": "Carlomagno mantuvo una estrecha alianza con la Iglesia, que legitimó su poder y lo coronó emperador."
+    },
+    {
+      "pregunta": "¿Cuál fue la capital del Imperio Carolingio?",
+      "opciones": ["Roma", "Aquisgrán", "París", "Rávena"],
+      "respuesta_correcta": "Aquisgrán",
+      "explicación": "Aquisgrán fue la capital política y cultural del Imperio Carolingio."
+    },
+    {
+      "pregunta": "¿Qué documento dividió el Imperio Carolingio entre los nietos de Carlomagno?",
+      "opciones": ["Tratado de Verdún", "Tratado de París", "Tratado de Aquisgrán", "Tratado de Roma"],
+      "respuesta_correcta": "Tratado de Verdún",
+      "explicación": "El Tratado de Verdún de 843 dividió el imperio entre los nietos de Carlomagno: Lotario, Luis el Germánico y Carlos el Calvo."
+    },
+    {
+      "pregunta": "¿Qué hijo de Carlomagno heredó el trono imperial tras su muerte?",
+      "opciones": ["Carlos el Calvo", "Luis el Piadoso", "Pipino de Italia", "Lotario"],
+      "respuesta_correcta": "Luis el Piadoso",
+      "explicación": "Luis el Piadoso, hijo de Carlomagno, heredó el imperio en 814."
+    },
+    {
+      "pregunta": "¿Qué título recibió Carlomagno al ser coronado por el papa?",
+      "opciones": ["Rey de los Francos", "César Augusto", "Emperador de Occidente", "Emperador de los Romanos"],
+      "respuesta_correcta": "Emperador de los Romanos",
+      "explicación": "El papa León III lo coronó 'Emperador de los Romanos', simbolizando la restauración del Imperio Romano en Occidente."
+    },
+    {
+      "pregunta": "¿Qué papel tuvieron los condados en el Imperio Carolingio?",
+      "opciones": ["Eran provincias autónomas", "Eran territorios administrados por condes en nombre del emperador", "Eran dominios eclesiásticos", "Eran zonas militares sin gobierno"],
+      "respuesta_correcta": "Eran territorios administrados por condes en nombre del emperador",
+      "explicación": "Los condados eran divisiones territoriales dirigidas por condes, quienes actuaban como representantes del emperador."
+    },
+    {
+      "pregunta": "¿Cómo se llamaban los enviados del emperador encargados de supervisar a los condes?",
+      "opciones": ["Misioneros", "Missi dominici", "Legados papales", "Vizcondes"],
+      "respuesta_correcta": "Missi dominici",
+      "explicación": "Los missi dominici eran enviados imperiales que controlaban la actuación de condes y marqueses."
+    },
+    {
+      "pregunta": "¿Qué importante reforma educativa promovió Carlomagno?",
+      "opciones": ["La creación de universidades", "La enseñanza obligatoria", "La escuela palatina", "La alfabetización del clero"],
+      "respuesta_correcta": "La escuela palatina",
+      "explicación": "Carlomagno fundó la escuela palatina en Aquisgrán para formar administradores y religiosos cultos."
+    },
+    {
+      "pregunta": "¿Qué grupo invadió el Imperio Carolingio desde el norte durante el siglo IX?",
+      "opciones": ["Vikingos", "Sarracenos", "Hunos", "Magiares"],
+      "respuesta_correcta": "Vikingos",
+      "explicación": "Los vikingos realizaron incursiones desde el norte, debilitando al Imperio Carolingio."
+    },
+    {
+      "pregunta": "¿Qué importancia tuvo el renacimiento carolingio?",
+      "opciones": ["Fue un renacer cultural y educativo", "Fue una expansión territorial", "Fue una reforma militar", "Fue una crisis política"],
+      "respuesta_correcta": "Fue un renacer cultural y educativo",
+      "explicación": "El renacimiento carolingio fue un impulso a la educación, la literatura y las artes promovido por Carlomagno."
+    },
+    {
+      "pregunta": "¿Qué religión fue la oficial del Imperio Carolingio?",
+      "opciones": ["Paganismo", "Cristianismo", "Islam", "Judaísmo"],
+      "respuesta_correcta": "Cristianismo",
+      "explicación": "El Imperio Carolingio se basó en el cristianismo, con la Iglesia como pilar político y moral."
+    },
+    {
+      "pregunta": "¿Qué rey carolingio fue derrotado en la batalla de Fontenoy (841)?",
+      "opciones": ["Luis el Germánico", "Lotario", "Carlos el Calvo", "Luis el Piadoso"],
+      "respuesta_correcta": "Lotario",
+      "explicación": "Lotario fue derrotado por sus hermanos en la batalla de Fontenoy, preludio del Tratado de Verdún."
+    },
+    {
+      "pregunta": "¿Qué sistema de escritura se desarrolló bajo Carlomagno?",
+      "opciones": ["Escritura gótica", "Escritura uncial", "Minúscula carolina", "Cursiva romana"],
+      "respuesta_correcta": "Minúscula carolina",
+      "explicación": "La minúscula carolina fue un sistema de escritura claro y uniforme promovido en el renacimiento carolingio."
+    },
+    {
+      "pregunta": "¿Qué región actual corresponde aproximadamente al reino de Lotario tras el Tratado de Verdún?",
+      "opciones": ["Francia", "Alemania", "Italia y parte del norte de Europa", "España"],
+      "respuesta_correcta": "Italia y parte del norte de Europa",
+      "explicación": "Lotario recibió la parte central del imperio, incluyendo Italia y una franja entre Francia y Alemania."
+    },
+    {
+      "pregunta": "¿Qué figura religiosa coronó a Carlomagno emperador?",
+      "opciones": ["Papa León III", "Papa Gregorio II", "Papa Esteban II", "Papa Urbano II"],
+      "respuesta_correcta": "Papa León III",
+      "explicación": "El papa León III coronó a Carlomagno en la Navidad del año 800 en Roma."
+    },
+    {
+      "pregunta": "¿Qué importante obra administrativa mandó redactar Carlomagno?",
+      "opciones": ["El Capitulare de villis", "El Código de Justiniano", "La Lex Salica", "El Edicto de Milán"],
+      "respuesta_correcta": "El Capitulare de villis",
+      "explicación": "El Capitulare de villis regulaba la administración de las propiedades imperiales."
+    },
+    {
+      "pregunta": "¿Qué pueblo fue derrotado por Carlomagno tras una larga campaña?",
+      "opciones": ["Sajones", "Vikingos", "Normandos", "Búlgaros"],
+      "respuesta_correcta": "Sajones",
+      "explicación": "Carlomagno llevó a cabo duras campañas contra los sajones, logrando su conversión al cristianismo."
+    },
+    {
+      "pregunta": "¿Qué acontecimiento marca el fin del Imperio Carolingio unificado?",
+      "opciones": ["La muerte de Carlomagno", "El Tratado de Verdún", "La invasión vikinga", "La caída de Aquisgrán"],
+      "respuesta_correcta": "El Tratado de Verdún",
+      "explicación": "El Tratado de Verdún de 843 dividió definitivamente el Imperio Carolingio en tres reinos."
+    },
+    {
+      "pregunta": "¿Qué emperador carolingio promovió la conversión forzosa de los pueblos paganos?",
+      "opciones": ["Luis el Piadoso", "Carlomagno", "Carlos el Calvo", "Lotario"],
+      "respuesta_correcta": "Carlomagno",
+      "explicación": "Carlomagno impuso el cristianismo a pueblos como los sajones mediante campañas militares."
+    },
+    {
+      "pregunta": "¿Qué institución educativa fue impulsada por Alcuino de York bajo Carlomagno?",
+      "opciones": ["La escuela palatina", "La universidad de París", "La biblioteca de Aquisgrán", "El senado imperial"],
+      "respuesta_correcta": "La escuela palatina",
+      "explicación": "Alcuino de York dirigió la escuela palatina, que se convirtió en el centro cultural del imperio."
+    },
+    {
+      "pregunta": "¿Qué descendiente de Carlomagno fue el último emperador carolingio en Italia?",
+      "opciones": ["Carlos el Gordo", "Luis el Germánico", "Carlos el Calvo", "Lotario II"],
+      "respuesta_correcta": "Carlos el Gordo",
+      "explicación": "Carlos el Gordo reunificó brevemente el imperio, pero fue depuesto en 887, marcando el fin de la dinastía carolingia en Italia."
+    }
+  ]
+}

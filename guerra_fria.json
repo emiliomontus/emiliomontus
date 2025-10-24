@@ -226,7 +226,7 @@
 			],
 			"respuesta_correcta": "Ronald Reagan",
 			"explicación": "El presidente estadounidense Ronald Reagan pronunció el famoso discurso 'Mr. Gorbachev, tear down this wall' en 1987, instando a la Unión Soviética a derribar el Muro de Berlín.",
-			"imagen": "imagenes/muro_berlin.png"
+			"imagen": "imagenes/reagan.png"
 		},
 		{
 			"pregunta": "¿Qué evento de 1989 marcó el fin simbólico de la Guerra Fría?",
@@ -442,7 +442,7 @@
 			],
 			"respuesta_correcta": "Ronald Reagan",
 			"explicación": "El presidente estadounidense Ronald Reagan inició la Iniciativa de Defensa Estratégica, también conocida como 'Guerra de las Galaxias', en 1983.",
-			"imagen": "imagenes/muro_berlin.png"
+			"imagen": "imagenes/reagan.png"
 		},
 		{
 			"pregunta": "¿Qué líder soviético sucedió a Yuri Andrópov en 1984?",

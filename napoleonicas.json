@@ -152,7 +152,8 @@
 				"Rusia"
 			],
 			"respuesta_correcta": "España",
-			"explicación": "Napoleón invadió España en 1808, lo que dio inicio a la Guerra de la Independencia Española."
+			"explicación": "Napoleón invadió España en 1808, lo que dio inicio a la Guerra de la Independencia Española.",
+			"imagen": "imagenes/2_de_mayo.png"
 		},
 		{
 			"pregunta": "¿Qué batalla fue una derrota significativa para Napoleón en 1813?",

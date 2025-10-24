@@ -119,7 +119,8 @@
 				"El bombardeo de Pearl Harbor"
 			],
 			"respuesta_correcta": "El desembarco aliado en Normandía",
-			"explicación": "El 'Día D' se refiere al desembarco aliado en Normandía el 6 de junio de 1944, que marcó el inicio de la liberación de Europa occidental."
+			"explicación": "El 'Día D' se refiere al desembarco aliado en Normandía el 6 de junio de 1944, que marcó el inicio de la liberación de Europa occidental.",
+			"imagen": "imagenes/normandia.png"
 		},
 		{
 			"pregunta": "¿Qué país fue el principal rival de Alemania en el frente occidental?",
