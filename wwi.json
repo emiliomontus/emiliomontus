@@ -64,7 +64,8 @@
 				"Batalla de Marne"
 			],
 			"respuesta_correcta": "Batalla de Verdún",
-			"explicación": "La Batalla de Verdún, librada en 1916, es conocida por su duración de 10 meses y el alto número de bajas."
+			"explicación": "La Batalla de Verdún, librada en 1916, es conocida por su duración de 10 meses y el alto número de bajas.",
+			"imagen": "imagenes/verdun.png"
 		},
 		{
 			"pregunta": "¿Qué arma química fue utilizada por primera vez en la Primera Guerra Mundial?",
@@ -427,7 +428,8 @@
 				"Una batalla aérea"
 			],
 			"respuesta_correcta": "Una ofensiva alemana en el frente occidental",
-			"explicación": "La Batalla de Verdún fue una ofensiva alemana en el frente occidental en 1916, conocida por su duración y el alto número de bajas."
+			"explicación": "La Batalla de Verdún fue una ofensiva alemana en el frente occidental en 1916, conocida por su duración y el alto número de bajas.",
+			"imagen": "imagenes/verdun.png"
 		},
 		{
 			"pregunta": "¿Qué fue la 'Batalla de Cambrai'?",

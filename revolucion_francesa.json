@@ -34,7 +34,7 @@
 			],
 			"respuesta_correcta": "Luis XVI",
 			"explicación": "Luis XVI era el rey de Francia al comienzo de la Revolución Francesa.",
-			"imagen": "imagenes/bastilla.png"
+			"imagen": "imagenes/luis_16.png"
 		},
 		{
 			"pregunta": "¿Qué documento proclamó los derechos y libertades de los ciudadanos franceses?",
@@ -82,7 +82,7 @@
 			],
 			"respuesta_correcta": "Un líder revolucionario",
 			"explicación": "Maximilien Robespierre fue un líder revolucionario y una figura clave durante el 'Reinado del Terror'.",
-			"imagen": "imagenes/bastilla.png"
+			"imagen": "imagenes/robespierre.png"
 		},
 		{
 			"pregunta": "¿Qué fue la Asamblea Nacional?",
