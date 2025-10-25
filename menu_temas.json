@@ -4,8 +4,16 @@
 		"cuestionario": "egipto.json"
 	},
 	{
+        "tema": "La Antigua Grecia",
+		"cuestionario": "grecia.json"
+	},
+	{
         "tema": "La Antigua Roma",
 		"cuestionario": "roma.json"
+	},
+	{
+		"tema": "El Imperio Bizantino",
+		"cuestionario": "bizantino.json"
 	},
 	{
 		"tema": "El Imperio Carolingio",

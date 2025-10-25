@@ -42,7 +42,8 @@
 				"Batalla de Waterloo"
 			],
 			"respuesta_correcta": "Batalla de Austerlitz",
-			"explicación": "La Batalla de Austerlitz en 1805 es conocida como la 'Batalla de los Tres Emperadores' porque enfrentó a Napoleón contra los emperadores de Austria y Rusia."
+			"explicación": "La Batalla de Austerlitz en 1805 es conocida como la 'Batalla de los Tres Emperadores' porque enfrentó a Napoleón contra los emperadores de Austria y Rusia.",
+			"imagen": "imagenes/austerlitz.png"
 		},
 		{
 			"pregunta": "¿Qué país fue invadido por Napoleón en 1812, marcando el inicio de su declive?",
@@ -186,7 +187,8 @@
 				"Batalla de Leipzig"
 			],
 			"respuesta_correcta": "Batalla de Austerlitz",
-			"explicación": "La Batalla de Austerlitz en 1805, fue una victoria decisiva para Napoleón contra Austria y Rusia."
+			"explicación": "La Batalla de Austerlitz en 1805, fue una victoria decisiva para Napoleón contra Austria y Rusia.",
+			"imagen": "imagenes/austerlitz.png"
 		},
 		{
 			"pregunta": "¿Qué tratado puso fin a la Guerra de la Quinta Coalición?",

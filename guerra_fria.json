@@ -178,7 +178,7 @@
 			],
 			"respuesta_correcta": "Crisis de los Misiles en Cuba",
 			"explicación": "La Crisis de los Misiles en Cuba en 1962 llevó al mundo al borde de una guerra nuclear entre Estados Unidos y la Unión Soviética.",
-			"imagen": "imagenes/muro_berlin.png"
+			"imagen": "imagenes/misiles_cuba.png"
 		},
 		{
 			"pregunta": "¿Qué conflicto armado tuvo lugar entre 1950 y 1953 en Asia, involucrando a Estados Unidos y sus aliados contra Corea del Norte y China?",
@@ -490,7 +490,7 @@
 			],
 			"respuesta_correcta": "Crisis de los Misiles en Cuba",
 			"explicación": "La Crisis de los Misiles en Cuba en 1962 fue un intento de la Unión Soviética de instalar misiles nucleares en Cuba, lo que llevó al mundo al borde de una guerra nuclear.",
-			"imagen": "imagenes/muro_berlin.png"
+			"imagen": "imagenes/misiles_cuba.png"
 		}
 	]
 }

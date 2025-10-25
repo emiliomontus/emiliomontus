@@ -1,0 +1,154 @@
+{
+  "preguntas": [
+    {
+      "pregunta": "¿En qué continente se desarrolló la civilización de la Antigua Grecia?",
+      "opciones": ["Europa", "Asia", "África", "América"],
+      "respuesta_correcta": "Europa",
+      "explicación": "La civilización griega se desarrolló en el sureste de Europa, en la península balcánica y las islas del mar Egeo."
+    },
+    {
+      "pregunta": "¿Qué ciudad-estado fue la cuna de la democracia?",
+      "opciones": ["Esparta", "Atenas", "Corinto", "Tebas"],
+      "respuesta_correcta": "Atenas",
+      "explicación": "Atenas desarrolló el sistema democrático en el siglo V a.C., donde los ciudadanos participaban directamente en las decisiones políticas."
+    },
+    {
+      "pregunta": "¿Qué forma de gobierno tenía Esparta?",
+      "opciones": ["Democracia", "Monarquía dual", "Oligarquía", "Tiranía"],
+      "respuesta_correcta": "Monarquía dual",
+      "explicación": "Esparta tenía dos reyes que compartían el poder, combinando funciones religiosas y militares."
+    },
+    {
+      "pregunta": "¿Qué filósofo fue maestro de Alejandro Magno?",
+      "opciones": ["Platón", "Sócrates", "Aristóteles", "Epicuro"],
+      "respuesta_correcta": "Aristóteles",
+      "explicación": "Aristóteles fue tutor de Alejandro Magno y uno de los pensadores más influyentes de la filosofía occidental."
+    },
+    {
+      "pregunta": "¿Cuál era el principal dios del panteón griego?",
+      "opciones": ["Zeus", "Poseidón", "Apolo", "Hades"],
+      "respuesta_correcta": "Zeus",
+      "explicación": "Zeus era el dios del cielo y el rayo, y el principal de los dioses del Olimpo."
+    },
+    {
+      "pregunta": "¿Qué guerra enfrentó a las ciudades de Atenas y Esparta?",
+      "opciones": ["Guerras Médicas", "Guerra del Peloponeso", "Guerra de Troya", "Guerras Púnicas"],
+      "respuesta_correcta": "Guerra del Peloponeso",
+      "explicación": "La Guerra del Peloponeso (431-404 a.C.) enfrentó a Atenas y Esparta por el control del mundo griego."
+    },
+    {
+      "pregunta": "¿Qué épico poeta escribió la Ilíada y la Odisea?",
+      "opciones": ["Homero", "Hesíodo", "Píndaro", "Esquilo"],
+      "respuesta_correcta": "Homero",
+      "explicación": "Homero es el autor atribuido de las epopeyas 'La Ilíada' y 'La Odisea', fundamentales en la literatura griega."
+    },
+    {
+      "pregunta": "¿Qué era la polis en la Antigua Grecia?",
+      "opciones": ["Un templo", "Una ciudad-estado", "Un ejército", "Una asamblea"],
+      "respuesta_correcta": "Una ciudad-estado",
+      "explicación": "La polis era la forma básica de organización política griega, con independencia y gobierno propio."
+    },
+    {
+      "pregunta": "¿Qué filósofo fue maestro de Platón?",
+      "opciones": ["Sócrates", "Aristóteles", "Epicuro", "Demócrito"],
+      "respuesta_correcta": "Sócrates",
+      "explicación": "Sócrates enseñó a Platón y promovió la reflexión filosófica mediante el diálogo."
+    },
+    {
+      "pregunta": "¿Qué tipo de columnas tenían los templos dóricos?",
+      "opciones": ["Con base decorada", "Sin base y con capitel simple", "Con hojas de acanto", "Espirales en el capitel"],
+      "respuesta_correcta": "Sin base y con capitel simple",
+      "explicación": "El orden dórico se caracteriza por columnas sin base y capiteles sencillos."
+    },
+    {
+      "pregunta": "¿Qué evento deportivo nació en la Antigua Grecia?",
+      "opciones": ["Los Juegos Olímpicos", "El Maratón de Boston", "El fútbol", "El ajedrez"],
+      "respuesta_correcta": "Los Juegos Olímpicos",
+      "explicación": "Los Juegos Olímpicos se celebraron por primera vez en Olimpia en el 776 a.C. en honor a Zeus."
+    },
+    {
+      "pregunta": "¿Qué ciudad fue el centro del poder macedonio?",
+      "opciones": ["Pella", "Atenas", "Esparta", "Delfos"],
+      "respuesta_correcta": "Pella",
+      "explicación": "Pella fue la capital del reino de Macedonia y cuna de Alejandro Magno."
+    },
+    {
+      "pregunta": "¿Qué filósofo fundó la Academia en Atenas?",
+      "opciones": ["Aristóteles", "Platón", "Sócrates", "Epicuro"],
+      "respuesta_correcta": "Platón",
+      "explicación": "Platón fundó la Academia, una de las primeras instituciones de educación superior del mundo occidental."
+    },
+    {
+      "pregunta": "¿Qué templo dedicado a Atenea se encuentra en la Acrópolis de Atenas?",
+      "opciones": ["El Partenón", "El Erecteion", "El Hefesteion", "El Olimpeion"],
+      "respuesta_correcta": "El Partenón",
+      "explicación": "El Partenón fue construido en el siglo V a.C. en honor a la diosa Atenea."
+    },
+    {
+      "pregunta": "¿Qué oráculo era el más famoso de la Antigua Grecia?",
+      "opciones": ["El de Delfos", "El de Olimpia", "El de Pérgamo", "El de Mileto"],
+      "respuesta_correcta": "El de Delfos",
+      "explicación": "El oráculo de Delfos, dedicado a Apolo, era consultado por griegos de todo el mundo antiguo."
+    },
+    {
+      "pregunta": "¿Qué guerra enfrentó a los griegos contra los persas?",
+      "opciones": ["Guerras Médicas", "Guerra del Peloponeso", "Guerra de Troya", "Guerra de Corinto"],
+      "respuesta_correcta": "Guerras Médicas",
+      "explicación": "Las Guerras Médicas (490-479 a.C.) fueron los enfrentamientos entre las polis griegas y el Imperio Persa."
+    },
+    {
+      "pregunta": "¿Qué matemático descubrió el teorema que lleva su nombre?",
+      "opciones": ["Pitágoras", "Euclides", "Arquímedes", "Tales de Mileto"],
+      "respuesta_correcta": "Pitágoras",
+      "explicación": "Pitágoras formuló el teorema que relaciona los lados de un triángulo rectángulo."
+    },
+    {
+      "pregunta": "¿Qué famoso médico griego es considerado el padre de la medicina?",
+      "opciones": ["Hipócrates", "Galeno", "Heródoto", "Sófocles"],
+      "respuesta_correcta": "Hipócrates",
+      "explicación": "Hipócrates estableció principios racionales para el diagnóstico y tratamiento médico."
+    },
+    {
+      "pregunta": "¿Qué dramaturgo escribió 'Edipo Rey'?",
+      "opciones": ["Eurípides", "Esquilo", "Sófocles", "Aristófanes"],
+      "respuesta_correcta": "Sófocles",
+      "explicación": "Sófocles fue uno de los tres grandes dramaturgos trágicos de la Grecia clásica."
+    },
+    {
+      "pregunta": "¿Qué ciudad fue conocida por su disciplina militar?",
+      "opciones": ["Atenas", "Esparta", "Corinto", "Argos"],
+      "respuesta_correcta": "Esparta",
+      "explicación": "Esparta era famosa por su rígido sistema militar y su entrenamiento desde la infancia."
+    },
+    {
+      "pregunta": "¿Qué filósofo fundó la escuela del Liceo?",
+      "opciones": ["Platón", "Sócrates", "Aristóteles", "Epicuro"],
+      "respuesta_correcta": "Aristóteles",
+      "explicación": "Aristóteles fundó el Liceo en Atenas, donde enseñaba mediante el razonamiento y la observación."
+    },
+    {
+      "pregunta": "¿Qué ciudad fue destruida durante la Guerra de Troya según la mitología?",
+      "opciones": ["Troya", "Tebas", "Micenas", "Argos"],
+      "respuesta_correcta": "Troya",
+      "explicación": "La Guerra de Troya, narrada en la Ilíada, culminó con la destrucción de la ciudad de Troya."
+    },
+    {
+      "pregunta": "¿Qué historiador griego es conocido como el 'padre de la historia'?",
+      "opciones": ["Heródoto", "Tucídides", "Jenofonte", "Polibio"],
+      "respuesta_correcta": "Heródoto",
+      "explicación": "Heródoto escribió sobre las Guerras Médicas y es considerado el primer historiador."
+    },
+    {
+      "pregunta": "¿Qué rey macedonio conquistó gran parte del mundo conocido?",
+      "opciones": ["Alejandro Magno", "Filipo II", "Pericles", "Leónidas"],
+      "respuesta_correcta": "Alejandro Magno",
+      "explicación": "Alejandro Magno expandió su imperio desde Grecia hasta la India en el siglo IV a.C."
+    },
+    {
+      "pregunta": "¿Qué gran escultor realizó la estatua de Zeus en Olimpia?",
+      "opciones": ["Fidias", "Policleto", "Praxiteles", "Mirón"],
+      "respuesta_correcta": "Fidias",
+      "explicación": "Fidias fue uno de los escultores más importantes del arte clásico, autor de la estatua de Zeus."
+    }
+  ]
+}

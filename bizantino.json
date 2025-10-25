@@ -1,0 +1,160 @@
+{
+  "preguntas": [
+    {
+      "pregunta": "¿En qué año se fundó el Imperio Bizantino?",
+      "opciones": ["395 d.C.", "476 d.C.", "330 d.C.", "1453 d.C."],
+      "respuesta_correcta": "330 d.C.",
+      "explicación": "El Imperio Bizantino se considera fundado en 330 d.C., cuando Constantino inauguró Constantinopla como nueva capital del Imperio Romano."
+    },
+    {
+      "pregunta": "¿Cuál era la capital del Imperio Bizantino?",
+      "opciones": ["Atenas", "Roma", "Constantinopla", "Antioquía"],
+      "respuesta_correcta": "Constantinopla",
+      "explicación": "Constantinopla fue la capital del Imperio Bizantino durante más de mil años."
+    },
+    {
+      "pregunta": "¿Qué emperador mandó construir la iglesia de Santa Sofía?",
+      "opciones": ["Constantino", "Justiniano I", "Heraclio", "León III"],
+      "respuesta_correcta": "Justiniano I",
+      "explicación": "Justiniano I ordenó la construcción de la Basílica de Santa Sofía en el siglo VI."
+    },
+    {
+      "pregunta": "¿Qué lengua reemplazó al latín como idioma oficial del Imperio Bizantino?",
+      "opciones": ["Griego", "Siríaco", "Árabe", "Armenio"],
+      "respuesta_correcta": "Griego",
+      "explicación": "Con el tiempo, el griego reemplazó al latín como lengua administrativa y cultural."
+    },
+    {
+      "pregunta": "¿Qué emperador promulgó el famoso 'Corpus Juris Civilis'?",
+      "opciones": ["Constantino", "Justiniano I", "Basilio II", "Teodosio I"],
+      "respuesta_correcta": "Justiniano I",
+      "explicación": "El 'Corpus Juris Civilis' fue una recopilación de leyes romanas ordenada por Justiniano I."
+    },
+    {
+      "pregunta": "¿Cómo se llamaba la esposa de Justiniano I, famosa por su influencia política?",
+      "opciones": ["Teodora", "Helena", "Eudoxia", "Irene"],
+      "respuesta_correcta": "Teodora",
+      "explicación": "Teodora fue una poderosa emperatriz y consejera de Justiniano I."
+    },
+    {
+      "pregunta": "¿Qué grupo protagonizó la revuelta de Niká en Constantinopla?",
+      "opciones": ["Ariano", "Partidarios del hipódromo", "Soldados", "Campesinos"],
+      "respuesta_correcta": "Partidarios del hipódromo",
+      "explicación": "Las facciones del hipódromo, los Verdes y los Azules, se rebelaron contra Justiniano en el año 532."
+    },
+    {
+      "pregunta": "¿Qué dinastía bizantina alcanzó su apogeo en los siglos IX y X?",
+      "opciones": ["Macedónica", "Isáurica", "Comnena", "Paleóloga"],
+      "respuesta_correcta": "Macedónica",
+      "explicación": "La dinastía macedónica fortaleció al imperio entre los siglos IX y XI."
+    },
+    {
+      "pregunta": "¿Qué batalla en 1071 marcó el inicio del declive bizantino?",
+      "opciones": ["Manzikert", "Adrianópolis", "Nicea", "Damasco"],
+      "respuesta_correcta": "Manzikert",
+      "explicación": "En la batalla de Manzikert (1071), los bizantinos fueron derrotados por los turcos selyúcidas."
+    },
+    {
+      "pregunta": "¿Qué religión practicaban los bizantinos?",
+      "opciones": ["Cristianismo ortodoxo", "Catolicismo", "Islam", "Paganismo griego"],
+      "respuesta_correcta": "Cristianismo ortodoxo",
+      "explicación": "El Imperio Bizantino se caracterizó por su fe en el cristianismo ortodoxo."
+    },
+    {
+      "pregunta": "¿Qué evento provocó la separación entre la Iglesia de Oriente y Occidente en 1054?",
+      "opciones": ["Cisma de Oriente", "Reforma protestante", "Concilio de Nicea", "Cruzada de los Niños"],
+      "respuesta_correcta": "Cisma de Oriente",
+      "explicación": "El Cisma de Oriente en 1054 dividió al cristianismo en Iglesia Católica y Ortodoxa."
+    },
+    {
+      "pregunta": "¿Qué pueblo conquistó finalmente Constantinopla en 1453?",
+      "opciones": ["Turcos otomanos", "Mongoles", "Búlgaros", "Francos"],
+      "respuesta_correcta": "Turcos otomanos",
+      "explicación": "Los turcos otomanos conquistaron Constantinopla en 1453, marcando el fin del Imperio Bizantino."
+    },
+    {
+      "pregunta": "¿Qué emperador bizantino fue derrotado en la batalla de Manzikert?",
+      "opciones": ["Romano IV Diógenes", "Basilio II", "Constantino XI", "León VI"],
+      "respuesta_correcta": "Romano IV Diógenes",
+      "explicación": "Romano IV Diógenes fue capturado por los turcos selyúcidas tras la derrota en Manzikert."
+    },
+    {
+      "pregunta": "¿Qué emperatriz fue la primera mujer en gobernar sola el Imperio Bizantino?",
+      "opciones": ["Irene de Atenas", "Teodora", "Eudoxia", "Zoe"],
+      "respuesta_correcta": "Irene de Atenas",
+      "explicación": "Irene de Atenas gobernó como emperatriz entre 797 y 802."
+    },
+    {
+      "pregunta": "¿Qué nombre tenía el sistema administrativo bizantino basado en distritos militares?",
+      "opciones": ["Temas", "Provincias", "Feudos", "Cantones"],
+      "respuesta_correcta": "Temas",
+      "explicación": "Los temas eran divisiones administrativas y militares creadas para mejorar la defensa."
+    },
+    {
+      "pregunta": "¿Qué tipo de arte destacó en el Imperio Bizantino?",
+      "opciones": ["Mosaico", "Escultura", "Pintura al óleo", "Vitral"],
+      "respuesta_correcta": "Mosaico",
+      "explicación": "Los mosaicos bizantinos se caracterizaban por sus colores brillantes y motivos religiosos."
+    },
+    {
+      "pregunta": "¿Qué general reconquistó parte del antiguo Imperio Romano occidental bajo Justiniano I?",
+      "opciones": ["Belisario", "Heraclio", "Basilio II", "Narsés"],
+      "respuesta_correcta": "Belisario",
+      "explicación": "Belisario reconquistó África del Norte e Italia para el Imperio Bizantino."
+    },
+    {
+      "pregunta": "¿Qué emperador detuvo el avance árabe en el siglo VIII?",
+      "opciones": ["León III", "Heraclio", "Basilio II", "Constantino V"],
+      "respuesta_correcta": "León III",
+      "explicación": "León III defendió Constantinopla durante los asedios árabes del siglo VIII."
+    },
+    {
+      "pregunta": "¿Qué política religiosa prohibía el culto a las imágenes?",
+      "opciones": ["Iconoclasia", "Monofisismo", "Arianismo", "Trinitarismo"],
+      "respuesta_correcta": "Iconoclasia",
+      "explicación": "La iconoclasia fue una política que prohibía el uso de imágenes religiosas en templos."
+    },
+    {
+      "pregunta": "¿Qué emperador restauró el uso de imágenes religiosas?",
+      "opciones": ["Basilio I", "Miguel III", "Constantino V", "Teófilo"],
+      "respuesta_correcta": "Miguel III",
+      "explicación": "Bajo el reinado de Miguel III se restauró el culto a las imágenes en 843."
+    },
+    {
+      "pregunta": "¿Qué monje bizantino evangelizó junto a Metodio a los pueblos eslavos?",
+      "opciones": ["Cirilo", "Benedicto", "Antonio", "Atanasio"],
+      "respuesta_correcta": "Cirilo",
+      "explicación": "Cirilo y Metodio llevaron el cristianismo ortodoxo a los pueblos eslavos y crearon el alfabeto cirílico."
+    },
+    {
+      "pregunta": "¿Qué emperador bizantino fue conocido como 'el Matador de Búlgaros'?",
+      "opciones": ["Basilio II", "Constantino IX", "Justiniano II", "Teodosio II"],
+      "respuesta_correcta": "Basilio II",
+      "explicación": "Basilio II recibió este sobrenombre tras sus victorias sobre los búlgaros."
+    },
+    {
+      "pregunta": "¿Qué cruzada saqueó Constantinopla en 1204?",
+      "opciones": ["Cuarta Cruzada", "Tercera Cruzada", "Segunda Cruzada", "Primera Cruzada"],
+      "respuesta_correcta": "Cuarta Cruzada",
+      "explicación": "La Cuarta Cruzada desvió su objetivo y terminó saqueando Constantinopla en 1204."
+    },
+    {
+      "pregunta": "¿Qué imperio sucedió temporalmente al Bizantino tras la Cuarta Cruzada?",
+      "opciones": ["Imperio Latino de Constantinopla", "Imperio Búlgaro", "Imperio Otomano", "Imperio de Nicea"],
+      "respuesta_correcta": "Imperio Latino de Constantinopla",
+      "explicación": "Tras el saqueo de 1204 se fundó el Imperio Latino de Constantinopla, controlado por cruzados."
+    },
+    {
+      "pregunta": "¿Qué emperador fue el último del Imperio Bizantino?",
+      "opciones": ["Constantino XI Paleólogo", "Miguel VIII", "Andrónico II", "Teodosio III"],
+      "respuesta_correcta": "Constantino XI Paleólogo",
+      "explicación": "Constantino XI Paleólogo murió defendiendo Constantinopla en 1453."
+    },
+    {
+      "pregunta": "¿Qué legado cultural dejó el Imperio Bizantino?",
+      "opciones": ["Preservación del conocimiento clásico", "Expansión del latín", "Difusión del feudalismo", "Desarrollo del islam"],
+      "respuesta_correcta": "Preservación del conocimiento clásico",
+      "explicación": "El Imperio Bizantino conservó y transmitió gran parte del saber de la Antigüedad clásica a Europa y al mundo islámico."
+    }
+  ]
+}
