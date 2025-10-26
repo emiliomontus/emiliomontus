@@ -31,7 +31,8 @@
 				"El telégrafo"
 			],
 			"respuesta_correcta": "La máquina de vapor",
-			"explicación": "James Watt mejoró significativamente la máquina de vapor en 1769, lo que impulsó la Revolución Industrial."
+			"explicación": "James Watt mejoró significativamente la máquina de vapor en 1769, lo que impulsó la Revolución Industrial.",
+			"imagen": "imagenes/maquina_vapor.png"
 		},
 		{
 			"pregunta": "¿Qué industria fue la primera en industrializarse?",
