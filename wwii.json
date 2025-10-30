@@ -110,7 +110,8 @@
 				"China"
 			],
 			"respuesta_correcta": "Estados Unidos",
-			"explicación": "Estados Unidos lanzó las bombas atómicas sobre Hiroshima y Nagasaki en agosto de 1945, lo que llevó a la rendición de Japón."
+			"explicación": "Estados Unidos lanzó las bombas atómicas sobre Hiroshima y Nagasaki en agosto de 1945, lo que llevó a la rendición de Japón.",
+			"imagen": "imagenes/hiroshima.png"
 		},
 		{
 			"pregunta": "¿Qué fue el 'Día D'?",
@@ -133,7 +134,8 @@
 				"Unión Soviética"
 			],
 			"respuesta_correcta": "Reino Unido",
-			"explicación": "El Reino Unido fue el principal rival de Alemania en el frente occidental durante la mayor parte de la guerra."
+			"explicación": "El Reino Unido fue el principal rival de Alemania en el frente occidental durante la mayor parte de la guerra.",
+			"imagen": "imagenes/blitz.png"
 		},
 		{
 			"pregunta": "¿Qué fue la 'Operación Barbarroja'?",
@@ -382,6 +384,18 @@
 			],
 			"respuesta_correcta": "Una victoria aliada en el Pacífico",
 			"explicación": "La Batalla de las Islas Marshall en 1944 fue una serie de enfrentamientos que resultaron en una victoria aliada sobre Japón."
+		},
+		{
+			"pregunta": "¿Qué fue el Blitz?",
+			"opciones": [
+				"La fuerza aérea británica",
+				"Un arma nuclear",
+				"Una táctica de guerra relámpago",
+				"Una serie de bombardeos alemanes sobre el Reino Unido"
+			],
+			"respuesta_correcta": "Una serie de bombardeos alemanes sobre el Reino Unido",
+			"explicación": "El Blitz fue una serie de bombardeos por parte de Alemania sobre el Reino Unido durante 1940 y 1941.",
+			"imagen": "imagenes/blitz.png"
 		}
 	]
 }

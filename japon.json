@@ -100,7 +100,8 @@
       "pregunta": "¿Qué ataque japonés provocó la entrada de EE.UU. en la Segunda Guerra Mundial?",
       "opciones": ["Batalla de Midway", "Bombardeo de Tokio", "Ataque a Pearl Harbor", "Batalla de Guadalcanal"],
       "respuesta_correcta": "Ataque a Pearl Harbor",
-      "explicación": "El ataque sorpresa a la base naval de Pearl Harbor en 1941 llevó a EE.UU. a declarar la guerra a Japón."
+      "explicación": "El ataque sorpresa a la base naval de Pearl Harbor en 1941 llevó a EE.UU. a declarar la guerra a Japón.",
+      "imagen": "imagenes/pearl_harbor.png"
     },
     {
       "pregunta": "¿Qué alianza firmó Japón con Alemania e Italia en 1940?",
@@ -118,7 +119,8 @@
       "pregunta": "¿Qué dos ciudades japonesas fueron destruidas por bombas atómicas en 1945?",
       "opciones": ["Tokio y Osaka", "Hiroshima y Nagasaki", "Kioto y Sapporo", "Kobe y Yokohama"],
       "respuesta_correcta": "Hiroshima y Nagasaki",
-      "explicación": "Estados Unidos lanzó bombas atómicas sobre Hiroshima (6 de agosto) y Nagasaki (9 de agosto) en 1945."
+      "explicación": "Estados Unidos lanzó bombas atómicas sobre Hiroshima (6 de agosto) y Nagasaki (9 de agosto) en 1945.",
+      "imagen": "imagenes/hiroshima.png"
     },
     {
       "pregunta": "¿Qué emperador anunció la rendición de Japón en 1945?",

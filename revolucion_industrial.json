@@ -43,7 +43,8 @@
 				"La industria automotriz"
 			],
 			"respuesta_correcta": "La industria textil",
-			"explicación": "La industria textil fue la primera en industrializarse, con la introducción de máquinas como la hiladora Jenny y el telar mecánico."
+			"explicación": "La industria textil fue la primera en industrializarse, con la introducción de máquinas como la hiladora Jenny y el telar mecánico.",
+			"imagen": "imagenes/maquina_vapor.png"
 		},
 		{
 			"pregunta": "¿Qué invento es atribuido a Richard Arkwright?",
