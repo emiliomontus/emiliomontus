@@ -65,7 +65,8 @@
 				"Batalla de San Vicente"
 			],
 			"respuesta_correcta": "Batalla de Trafalgar",
-			"explicación": "La Batalla de Trafalgar en 1805 fue una derrota decisiva para la flota francesa a manos de la Royal Navy británica."
+			"explicación": "La Batalla de Trafalgar en 1805 fue una derrota decisiva para la flota francesa a manos de la Royal Navy británica.",
+			"imagen": "imagenes/trafalgar.png"
 		},
 		{
 			"pregunta": "¿Qué tratado puso fin a la Guerra de la Tercera Coalición?",
@@ -165,7 +166,8 @@
 				"Batalla de Wagram"
 			],
 			"respuesta_correcta": "Batalla de Leipzig",
-			"explicación": "La Batalla de Leipzig en 1813, también conocida como la Batalla de las Naciones, fue una derrota significativa para Napoleón."
+			"explicación": "La Batalla de Leipzig en 1813, también conocida como la Batalla de las Naciones, fue una derrota significativa para Napoleón.",
+			"imagen": "imagenes/leipzig.png"
 		},
 		{
 			"pregunta": "¿Qué isla fue el lugar de exilio final de Napoleón?",

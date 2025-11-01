@@ -9,7 +9,8 @@
 				"1940"
 			],
 			"respuesta_correcta": "1939",
-			"explicación": "La Segunda Guerra Mundial comenzó en 1939 con la invasión de Polonia por parte de Alemania."
+			"explicación": "La Segunda Guerra Mundial comenzó en 1939 con la invasión de Polonia por parte de Alemania.",
+			"imagen": "imagenes/toma_de_berlin.png"
 		},
 		{
 			"pregunta": "¿Qué evento desencadenó la entrada de Estados Unidos en la Segunda Guerra Mundial?",
@@ -54,7 +55,8 @@
 				"Noruega"
 			],
 			"respuesta_correcta": "Polonia",
-			"explicación": "Alemania invadió Polonia el 1 de septiembre de 1939, lo que desencadenó la Segunda Guerra Mundial."
+			"explicación": "Alemania invadió Polonia el 1 de septiembre de 1939, lo que desencadenó la Segunda Guerra Mundial.",
+			"imagen": "imagenes/toma_de_berlin.png"
 		},
 		{
 			"pregunta": "¿Qué fue la 'Blitzkrieg'?",

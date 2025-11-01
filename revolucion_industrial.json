@@ -110,7 +110,8 @@
 				"El telégrafo"
 			],
 			"respuesta_correcta": "La bombilla eléctrica",
-			"explicación": "Thomas Edison inventó la bombilla eléctrica en 1879, que revolucionó la iluminación."
+			"explicación": "Thomas Edison inventó la bombilla eléctrica en 1879, que revolucionó la iluminación.",
+			"imagen": "imagenes/bombilla.png"
 		},
 		{
 			"pregunta": "¿Qué invento es atribuido a Alexander Graham Bell?",
@@ -132,7 +133,8 @@
 				"El telégrafo"
 			],
 			"respuesta_correcta": "La corriente alterna",
-			"explicación": "Nikola Tesla desarrolló la corriente alterna, que permitió la transmisión eficiente de electricidad a larga distancia."
+			"explicación": "Nikola Tesla desarrolló la corriente alterna, que permitió la transmisión eficiente de electricidad a larga distancia.",
+			"imagen": "imagenes/tesla.png"
 		},
 		{
 			"pregunta": "¿Qué invento es atribuido a John Kay?",

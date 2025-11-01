@@ -98,7 +98,8 @@
 				"Una isla en el Pacífico"
 			],
 			"respuesta_correcta": "Una zona neutral entre trincheras",
-			"explicación": "La 'Tierra de Nadie' era la zona neutral y peligrosa entre las trincheras de los ejércitos opuestos."
+			"explicación": "La 'Tierra de Nadie' era la zona neutral y peligrosa entre las trincheras de los ejércitos opuestos.",
+			"imagen": "imagenes/trincheras.png"
 		},
 		{
 			"pregunta": "¿Qué imperio se desintegró al final de la Primera Guerra Mundial?",
@@ -329,7 +330,8 @@
 				"Italia"
 			],
 			"respuesta_correcta": "Alemania",
-			"explicación": "Alemania fue el principal rival de Francia en el frente occidental durante la Primera Guerra Mundial."
+			"explicación": "Alemania fue el principal rival de Francia en el frente occidental durante la Primera Guerra Mundial.",
+			"imagen": "imagenes/trincheras.png"
 		},
 		{
 			"pregunta": "¿Qué fue la 'Batalla del Somme'?",
@@ -462,7 +464,8 @@
 				"Una batalla aérea"
 			],
 			"respuesta_correcta": "Una ofensiva aliada en el frente occidental",
-			"explicación": "La Batalla de Passchendaele fue una ofensiva aliada en el frente occidental en 1917, conocida por las difíciles condiciones de combate."
+			"explicación": "La Batalla de Passchendaele fue una ofensiva aliada en el frente occidental en 1917, conocida por las difíciles condiciones de combate.",
+			"imagen": "imagenes/trincheras.png"
 		}
 	]
 }
