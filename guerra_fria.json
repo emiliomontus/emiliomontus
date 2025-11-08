@@ -34,7 +34,7 @@
 			],
 			"respuesta_correcta": "Guerra de Vietnam",
 			"explicación": "La Guerra de Vietnam (1955-1975) fue un conflicto entre el Norte comunista, apoyado por la URSS y China, y el Sur, respaldado por EE.UU.",
-			"imagen": "imagenes/muro_berlin.png"
+			"imagen": "imagenes/vietnam.png"
 		},
 		{
 			"pregunta": "¿Cuál de estos eventos NO ocurrió durante la Guerra Fría?",
@@ -202,7 +202,7 @@
 			],
 			"respuesta_correcta": "Guerra de Vietnam",
 			"explicación": "La Guerra de Vietnam tuvo lugar entre 1955 y 1975, con la intervención de Estados Unidos en apoyo a Vietnam del Sur contra Vietnam del Norte.",
-			"imagen": "imagenes/muro_berlin.png"
+			"imagen": "imagenes/vietnam.png"
 		},
 		{
 			"pregunta": "¿Qué líder soviético inició las políticas de glasnost y perestroika en la década de 1980?",

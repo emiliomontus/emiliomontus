@@ -172,7 +172,8 @@
 				"Una batalla aérea sobre Londres"
 			],
 			"respuesta_correcta": "Una victoria aliada en el Pacífico",
-			"explicación": "La Batalla de Midway en 1942 fue una victoria decisiva de Estados Unidos sobre Japón en el Pacífico."
+			"explicación": "La Batalla de Midway en 1942 fue una victoria decisiva de Estados Unidos sobre Japón en el Pacífico.",
+			"imagen": "imagenes/midway.png"
 		},
 		{
 			"pregunta": "¿Qué país fue el principal rival de Italia en el norte de África?",
@@ -183,7 +184,8 @@
 				"Unión Soviética"
 			],
 			"respuesta_correcta": "Reino Unido",
-			"explicación": "El Reino Unido fue el principal rival de Italia en el norte de África, librando batallas como la de El Alamein."
+			"explicación": "El Reino Unido fue el principal rival de Italia en el norte de África, librando batallas como la de El Alamein.",
+			"imagen": "imagenes/alamein.png"
 		},
 		{
 			"pregunta": "¿Qué fue la 'Batalla de El Alamein'?",
@@ -194,7 +196,8 @@
 				"Una campaña en el Pacífico"
 			],
 			"respuesta_correcta": "Una victoria aliada en el norte de África",
-			"explicación": "La Batalla de El Alamein en 1942 fue una victoria decisiva de los Aliados sobre las fuerzas del Eje en el norte de África."
+			"explicación": "La Batalla de El Alamein en 1942 fue una victoria decisiva de los Aliados sobre las fuerzas del Eje en el norte de África.",
+			"imagen": "imagenes/alamein.png"
 		},
 		{
 			"pregunta": "¿Qué país fue el principal rival de Alemania en el frente oriental?",
@@ -285,7 +288,8 @@
 				"Una batalla aérea sobre Londres"
 			],
 			"respuesta_correcta": "Una victoria aliada en el Pacífico",
-			"explicación": "La Batalla de Guadalcanal (1942-1943) fue una campaña crucial en el Pacífico que resultó en una victoria aliada sobre Japón."
+			"explicación": "La Batalla de Guadalcanal (1942-1943) fue una campaña crucial en el Pacífico que resultó en una victoria aliada sobre Japón.",
+			"imagen": "imagenes/midway.png"
 		},
 		{
 			"pregunta": "¿Qué fue la 'Batalla de Anzio'?",
@@ -318,7 +322,8 @@
 				"Una batalla aérea sobre Londres"
 			],
 			"respuesta_correcta": "Una victoria aliada en el Pacífico",
-			"explicación": "La Batalla de Leyte Gulf en 1944 fue una de las mayores batallas navales de la historia, resultando en una victoria aliada sobre Japón."
+			"explicación": "La Batalla de Leyte Gulf en 1944 fue una de las mayores batallas navales de la historia, resultando en una victoria aliada sobre Japón.",
+			"imagen": "imagenes/midway.png"
 		},
 		{
 			"pregunta": "¿Qué fue la 'Batalla de Normandía'?",
@@ -341,7 +346,8 @@
 				"Una batalla aérea sobre Londres"
 			],
 			"respuesta_correcta": "Una victoria aliada en el Pacífico",
-			"explicación": "La Batalla de las Filipinas en 1944 fue una serie de enfrentamientos que resultaron en una victoria aliada sobre Japón."
+			"explicación": "La Batalla de las Filipinas en 1944 fue una serie de enfrentamientos que resultaron en una victoria aliada sobre Japón.",
+			"imagen": "imagenes/midway.png"
 		},
 		{
 			"pregunta": "¿Qué fue la 'Batalla de las Islas Marianas'?",
@@ -352,7 +358,8 @@
 				"Una batalla aérea sobre Londres"
 			],
 			"respuesta_correcta": "Una victoria aliada en el Pacífico",
-			"explicación": "La Batalla de las Islas Marianas en 1944 fue una serie de enfrentamientos que resultaron en una victoria aliada sobre Japón."
+			"explicación": "La Batalla de las Islas Marianas en 1944 fue una serie de enfrentamientos que resultaron en una victoria aliada sobre Japón.",
+			"imagen": "imagenes/midway.png"
 		},
 		{
 			"pregunta": "¿Qué fue la 'Batalla de las Islas Salomón'?",
@@ -363,7 +370,8 @@
 				"Una batalla aérea sobre Londres"
 			],
 			"respuesta_correcta": "Una victoria aliada en el Pacífico",
-			"explicación": "La Batalla de las Islas Salomón en 1942-1943 fue una serie de enfrentamientos que resultaron en una victoria aliada sobre Japón."
+			"explicación": "La Batalla de las Islas Salomón en 1942-1943 fue una serie de enfrentamientos que resultaron en una victoria aliada sobre Japón.",
+			"imagen": "imagenes/midway.png"
 		},
 		{
 			"pregunta": "¿Qué fue la 'Batalla de las Islas Gilbert'?",
@@ -374,7 +382,8 @@
 				"Una batalla aérea sobre Londres"
 			],
 			"respuesta_correcta": "Una victoria aliada en el Pacífico",
-			"explicación": "La Batalla de las Islas Gilbert en 1943 fue una serie de enfrentamientos que resultaron en una victoria aliada sobre Japón."
+			"explicación": "La Batalla de las Islas Gilbert en 1943 fue una serie de enfrentamientos que resultaron en una victoria aliada sobre Japón.",
+			"imagen": "imagenes/midway.png"
 		},
 		{
 			"pregunta": "¿Qué fue la 'Batalla de las Islas Marshall'?",
@@ -385,7 +394,8 @@
 				"Una batalla aérea sobre Londres"
 			],
 			"respuesta_correcta": "Una victoria aliada en el Pacífico",
-			"explicación": "La Batalla de las Islas Marshall en 1944 fue una serie de enfrentamientos que resultaron en una victoria aliada sobre Japón."
+			"explicación": "La Batalla de las Islas Marshall en 1944 fue una serie de enfrentamientos que resultaron en una victoria aliada sobre Japón.",
+			"imagen": "imagenes/midway.png"
 		},
 		{
 			"pregunta": "¿Qué fue el Blitz?",
