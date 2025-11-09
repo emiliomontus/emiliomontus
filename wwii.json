@@ -242,7 +242,8 @@
 				"Una batalla aérea sobre Londres"
 			],
 			"respuesta_correcta": "Una victoria aliada en el Pacífico",
-			"explicación": "La Batalla de Iwo Jima en 1945 fue una victoria decisiva de Estados Unidos sobre Japón en el Pacífico."
+			"explicación": "La Batalla de Iwo Jima en 1945 fue una victoria decisiva de Estados Unidos sobre Japón en el Pacífico.",
+			"imagen": "imagenes/midway.png"
 		},
 		{
 			"pregunta": "¿Qué fue la 'Batalla de Okinawa'?",

@@ -113,7 +113,8 @@
       "pregunta": "¿Qué batalla de 1942 fue considerada el punto de inflexión en el Pacífico?",
       "opciones": ["Pearl Harbor", "Midway", "Guadalcanal", "Okinawa"],
       "respuesta_correcta": "Midway",
-      "explicación": "La Batalla de Midway fue una derrota decisiva para Japón, marcando el retroceso de su expansión en el Pacífico."
+      "explicación": "La Batalla de Midway fue una derrota decisiva para Japón, marcando el retroceso de su expansión en el Pacífico.",
+      "imagen": "imagenes/midway.png"
     },
     {
       "pregunta": "¿Qué dos ciudades japonesas fueron destruidas por bombas atómicas en 1945?",

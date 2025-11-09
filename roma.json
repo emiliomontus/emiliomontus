@@ -42,7 +42,8 @@
          "Marco Antonio"
       ],
       "respuesta_correcta": "Julio César",
-      "explicación": "Julio César cruzó el río Rubicón en el 49 a.C., iniciando una guerra civil contra el Senado."
+      "explicación": "Julio César cruzó el río Rubicón en el 49 a.C., iniciando una guerra civil contra el Senado.",
+      "imagen": "imagenes/julio_cesar.png"
     },
     {
       "pregunta": "¿Qué emperador romano fue el primero en adoptar oficialmente el cristianismo?",
@@ -141,7 +142,8 @@
          "Dictador"
       ],
       "respuesta_correcta": "Dictador",
-      "explicación": "En emergencias, se nombraba un dictador con poder absoluto por un período limitado."
+      "explicación": "En emergencias, se nombraba un dictador con poder absoluto por un período limitado.",
+      "imagen": "imagenes/julio_cesar.png"
     },
     {
       "pregunta": "¿Qué construcción permitía llevar agua a las ciudades romanas?",
