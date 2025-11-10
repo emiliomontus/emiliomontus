@@ -70,7 +70,7 @@
 			],
 			"respuesta_correcta": "Un periodo de represión y ejecuciones masivas",
 			"explicación": "El 'Reinado del Terror' fue un periodo de represión y ejecuciones masivas durante la Revolución Francesa, liderado por Robespierre.",
-			"imagen": "imagenes/bastilla.png"
+			"imagen": "imagenes/robespierre.png"
 		},
 		{
 			"pregunta": "¿Quién fue Maximilien Robespierre?",
@@ -130,7 +130,7 @@
 			],
 			"respuesta_correcta": "La huida fallida de la familia real",
 			"explicación": "La 'Fuga de Varennes' en 1791 fue el intento fallido de la familia real de escapar de París y buscar apoyo extranjero.",
-			"imagen": "imagenes/bastilla.png"
+			"imagen": "imagenes/luis_16.png"
 		},
 		{
 			"pregunta": "¿Qué fue el Comité de Salvación Pública?",
@@ -214,7 +214,7 @@
 			],
 			"respuesta_correcta": "El golpe de Estado de Napoleón Bonaparte",
 			"explicación": "El '18 de Brumario' (9 de noviembre de 1799) fue el golpe de Estado de Napoleón Bonaparte que puso fin al Directorio y estableció el Consulado.",
-			"imagen": "imagenes/bastilla.png"
+			"imagen": "imagenes/18_de_brumario.png"
 		},
 		{
 			"pregunta": "¿Qué fue el 'Consulado'?",
@@ -226,7 +226,7 @@
 			],
 			"respuesta_correcta": "Un gobierno revolucionario liderado por Napoleón Bonaparte",
 			"explicación": "El 'Consulado' fue el gobierno revolucionario que sucedió al Directorio y fue liderado por Napoleón Bonaparte desde 1799 hasta 1804.",
-			"imagen": "imagenes/bastilla.png"
+			"imagen": "imagenes/18_de_brumario.png"
 		},
 		{
 			"pregunta": "¿Qué fue la 'Constitución de 1793'?",

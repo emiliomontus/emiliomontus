@@ -65,7 +65,8 @@
          "Calígula"
       ],
       "respuesta_correcta": "Augusto",
-      "explicación": "Octavio, conocido como Augusto, se convirtió en el primer emperador romano en el año 27 a.C." 
+      "explicación": "Octavio, conocido como Augusto, se convirtió en el primer emperador romano en el año 27 a.C.",
+      "imagen": "imagenes/augusto.png"
     },
     {
       "pregunta": "¿Qué estructura romana era utilizada para espectáculos públicos, como las luchas de gladiadores?",
@@ -165,7 +166,8 @@
          "Princeps"
       ],
       "respuesta_correcta": "Augusto",
-      "explicación": "El Senado otorgó a Octavio el título de 'Augusto' en 27 a.C., marcando el inicio del Imperio."
+      "explicación": "El Senado otorgó a Octavio el título de 'Augusto' en 27 a.C., marcando el inicio del Imperio.",
+      "imagen": "imagenes/augusto.png"
     },
     {
       "pregunta": "¿Quién formó parte del Segundo Triunvirato junto a Marco Antonio y Lépido?",
@@ -176,7 +178,8 @@
          "Bruto"
       ],
       "respuesta_correcta": "Octavio",
-      "explicación": "El Segundo Triunvirato fue una alianza política entre Octavio, Marco Antonio y Lépido tras el asesinato de Julio César."
+      "explicación": "El Segundo Triunvirato fue una alianza política entre Octavio, Marco Antonio y Lépido tras el asesinato de Julio César.",
+      "imagen": "imagenes/augusto.png"
     },
     {
       "pregunta": "¿Qué emperador construyó una muralla en Britania para defender el imperio?",

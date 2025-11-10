@@ -9,7 +9,8 @@
 				"1800"
 			],
 			"respuesta_correcta": "1799",
-			"explicación": "El Consulado de Napoleón Bonaparte comenzó en 1799 tras el golpe de Estado del 18 de Brumario."
+			"explicación": "El Consulado de Napoleón Bonaparte comenzó en 1799 tras el golpe de Estado del 18 de Brumario.",
+			"imagen": "imagenes/18_de_brumario.png"
 		},
 		{
 			"pregunta": "¿Qué batalla es considerada la primera gran victoria de Napoleón?",
