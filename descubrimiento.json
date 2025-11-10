@@ -142,7 +142,7 @@
 			],
 			"respuesta_correcta": "Vasco Núñez de Balboa",
 			"explicación": "Vasco Núñez de Balboa fue el primer europeo en avistar el Océano Pacífico desde el Nuevo Mundo en 1513.",
-			"imagen": "imagenes/carabelas.png"
+			"imagen": "imagenes/nuñez_de_balboa.png"
 		},
 		{
 			"pregunta": "¿Qué nombre dio Cristóbal Colón a la isla que hoy conocemos como Jamaica?",
@@ -226,7 +226,7 @@
 			],
 			"respuesta_correcta": "Vasco Núñez de Balboa",
 			"explicación": "Vasco Núñez de Balboa fue el primer europeo en cruzar el istmo de Panamá en 1513.",
-			"imagen": "imagenes/carabelas.png"
+			"imagen": "imagenes/nuñez_de_balboa.png"
 		},
 		{
 			"pregunta": "¿Qué explorador fue el primero en llegar a la desembocadura del río Amazonas?",
@@ -250,7 +250,7 @@
 			],
 			"respuesta_correcta": "Vasco Núñez de Balboa",
 			"explicación": "Vasco Núñez de Balboa fue el primer europeo en avistar el Océano Pacífico desde el Nuevo Mundo en 1513.",
-			"imagen": "imagenes/carabelas.png"
+			"imagen": "imagenes/nuñez_de_balboa.png"
 		},
 		{
 			"pregunta": "¿Qué nombre dio Cristóbal Colón a la isla que hoy conocemos como Trinidad?",
