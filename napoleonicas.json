@@ -21,7 +21,8 @@
 				"Batalla de Leipzig"
 			],
 			"respuesta_correcta": "Batalla de Marengo",
-			"explicación": "La Batalla de Marengo en 1800 es considerada la primera gran victoria de Napoleón Bonaparte."
+			"explicación": "La Batalla de Marengo en 1800 es considerada la primera gran victoria de Napoleón Bonaparte.",
+			"imagen": "imagenes/marengo.png"
 		},
 		{
 			"pregunta": "¿Qué tratado puso fin a la Guerra de la Segunda Coalición?",
@@ -235,7 +236,8 @@
 				"Batalla de Leipzig"
 			],
 			"respuesta_correcta": "Batalla de Marengo",
-			"explicación": "La Batalla de Marengo en 1800 fue una victoria importante para Napoleón contra las fuerzas austriacas."
+			"explicación": "La Batalla de Marengo en 1800 fue una victoria importante para Napoleón contra las fuerzas austriacas.",
+			"imagen": "imagenes/marengo.png"
 		},
 		{
 			"pregunta": "¿Qué país fue invadido por Napoleón en 1809, dando inicio a la Guerra de la Quinta Coalición?",

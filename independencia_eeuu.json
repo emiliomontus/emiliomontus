@@ -28,7 +28,8 @@
       "pregunta": "¿Qué evento de 1773 fue una protesta contra el impuesto al té?",
       "opciones": ["Motín del Whisky", "Boston Tea Party", "Declaración de Derechos", "Primer Congreso Continental"],
       "respuesta_correcta": "Boston Tea Party",
-      "explicación": "En el Boston Tea Party, colonos disfrazados arrojaron cargamentos de té británico al puerto en protesta por los impuestos."
+      "explicación": "En el Boston Tea Party, colonos disfrazados arrojaron cargamentos de té británico al puerto en protesta por los impuestos.",
+      "imagen": "imagenes/tea_party.png"
     },
     {
       "pregunta": "¿Cómo se llamó la primera reunión de delegados coloniales en 1774?",
