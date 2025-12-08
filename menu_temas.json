@@ -36,6 +36,10 @@
 		"cuestionario": "napoleonicas.json"
 	},
 	{
+		"tema": "La Emancipación de Hispanoamérica",
+		"cuestionario": "hispanoamerica.json"
+	},
+	{
 		"tema": "La Revolución Industrial",
 		"cuestionario": "revolucion_industrial.json"
 	},

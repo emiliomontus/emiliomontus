@@ -1,0 +1,148 @@
+{
+  "preguntas": [
+    {
+      "pregunta": "¿Qué acontecimiento europeo influyó decisivamente en el inicio de los movimientos independentistas en Hispanoamérica?",
+      "opciones": ["La Revolución Francesa", "La Guerra de los Siete Años", "La Primera Cruzada", "La Guerra de Sucesión Española"],
+      "respuesta_correcta": "La Revolución Francesa",
+      "explicación": "Las ideas de libertad e igualdad inspiraron a muchos líderes independentistas en América." 
+    },
+    {
+      "pregunta": "¿Qué país fue el primero en independizarse formalmente en Hispanoamérica?",
+      "opciones": ["México", "Argentina", "Haití", "Colombia"],
+      "respuesta_correcta": "Haití",
+      "explicación": "Haití logró su independencia en 1804 tras una revolución de esclavos, siendo la primera nación independiente de América Latina." 
+    },
+    {
+      "pregunta": "¿Quién es considerado el 'Padre de la Patria' en Venezuela y un líder clave en la independencia de varios países?",
+      "opciones": ["Simón Bolívar", "José de San Martín", "Miguel Hidalgo", "Bernardo O'Higgins"],
+      "respuesta_correcta": "Simón Bolívar",
+      "explicación": "Bolívar lideró movimientos independentistas en Venezuela, Colombia, Ecuador, Perú y Bolivia." 
+    },
+    {
+      "pregunta": "¿Qué sacerdote inició el proceso de independencia de México con el 'Grito de Dolores'?",
+      "opciones": ["José María Morelos", "Miguel Hidalgo", "Guadalupe Victoria", "Vicente Guerrero"],
+      "respuesta_correcta": "Miguel Hidalgo",
+      "explicación": "El 16 de septiembre de 1810, Miguel Hidalgo inició la rebelión contra el dominio español." 
+    },
+    {
+      "pregunta": "¿Qué territorio fue liberado por José de San Martín tras cruzar los Andes?",
+      "opciones": ["Chile", "Bolivia", "Ecuador", "México"],
+      "respuesta_correcta": "Chile",
+      "explicación": "San Martín organizó la expedición a Chile, logrando su independencia en 1818." 
+    },
+    {
+      "pregunta": "¿Qué documento formalizó la independencia de los Estados Unidos de América y sirvió de inspiración en Hispanoamérica?",
+      "opciones": ["Declaración de Derechos", "Constitución de 1787", "Declaración de Independencia", "Tratado de París"],
+      "respuesta_correcta": "Declaración de Independencia",
+      "explicación": "La independencia de 1776 fue un precedente importante para los movimientos americanos." 
+    },
+    {
+      "pregunta": "¿En qué año comenzó la independencia de México?",
+      "opciones": ["1804", "1810", "1821", "1830"],
+      "respuesta_correcta": "1810",
+      "explicación": "El 16 de septiembre de 1810 Hidalgo inició el levantamiento que dio comienzo al proceso independentista." 
+    },
+    {
+      "pregunta": "¿Qué país sudamericano logró su independencia en 1818 tras la victoria en Maipú?",
+      "opciones": ["Perú", "Chile", "Ecuador", "Colombia"],
+      "respuesta_correcta": "Chile",
+      "explicación": "La batalla de Maipú consolidó la independencia de Chile bajo San Martín y O'Higgins." 
+    },
+    {
+      "pregunta": "¿Qué país tomó el nombre de su libertador tras independizarse?",
+      "opciones": ["Uruguay", "Bolivia", "Paraguay", "Panamá"],
+      "respuesta_correcta": "Bolivia",
+      "explicación": "Bolivia fue nombrada así en honor a Simón Bolívar en 1825." 
+    },
+    {
+      "pregunta": "¿Qué virreinato comprendía los territorios de Perú y Bolivia antes de la independencia?",
+      "opciones": ["Virreinato de Nueva España", "Virreinato del Río de la Plata", "Virreinato del Perú", "Capitanía General de Chile"],
+      "respuesta_correcta": "Virreinato del Perú",
+      "explicación": "Era uno de los virreinatos más extensos y ricos del dominio español." 
+    },
+    {
+      "pregunta": "¿Qué batalla aseguró la independencia del Perú en 1824?",
+      "opciones": ["Maipú", "Ayacucho", "Carabobo", "Junín"],
+      "respuesta_correcta": "Ayacucho",
+      "explicación": "La batalla de Ayacucho fue decisiva para el final del dominio español en Sudamérica." 
+    },
+    {
+      "pregunta": "¿Quién lideró la independencia de Argentina, Chile y Perú?",
+      "opciones": ["Simón Bolívar", "Artigas", "José de San Martín", "Sucre"],
+      "respuesta_correcta": "José de San Martín",
+      "explicación": "San Martín fue una figura clave del proceso independentista del sur del continente." 
+    },
+    {
+      "pregunta": "¿Cómo se llamó la unión formada por Colombia, Venezuela, Ecuador y Panamá tras la independencia?",
+      "opciones": ["Patria Grande", "Gran Alianza Andina", "Confederación Sudamericana", "Gran Colombia"],
+      "respuesta_correcta": "Gran Colombia",
+      "explicación": "La Gran Colombia fue un proyecto político impulsado por Simón Bolívar." 
+    },
+    {
+      "pregunta": "¿Qué líder independentista venezolano es conocido como el 'Libertador'?",
+      "opciones": ["Antonio José de Sucre", "Manuel Piar", "Simón Bolívar", "José Félix Ribas"],
+      "respuesta_correcta": "Simón Bolívar",
+      "explicación": "El título se le otorgó por liberar numerosos países del dominio español." 
+    },
+    {
+      "pregunta": "¿Quién proclamó la independencia de Argentina en 1816?",
+      "opciones": ["Congreso de Tucumán", "Cabildo de Buenos Aires", "Ejército de los Andes", "San Martín"],
+      "respuesta_correcta": "Congreso de Tucumán",
+      "explicación": "La independencia argentina se declaró oficialmente en el Congreso reunido en Tucumán." 
+    },
+    {
+      "pregunta": "¿Qué movimiento español influyó en la creación de juntas de gobierno en América?",
+      "opciones": ["Revolución liberal", "Caída de la monarquía", "Invasión napoleónica", "Crisis económica"],
+      "respuesta_correcta": "Invasión napoleónica",
+      "explicación": "La ocupación francesa debilitó a España y permitió la formación de gobiernos autónomos en América." 
+    },
+    {
+      "pregunta": "¿Qué líder indígena peruano se rebeló en 1780 y anticipó los movimientos independentistas?",
+      "opciones": ["Túpac Amaru II", "Atahualpa", "Manco Inca", "José Gabriel Condorcanqui"],
+      "respuesta_correcta": "Túpac Amaru II",
+      "explicación": "Su levantamiento fue uno de los movimientos indígenas más importantes previos a la independencia." 
+    },
+    {
+      "pregunta": "¿Qué país logró su independencia pacíficamente en 1822?",
+      "opciones": ["Uruguay", "Brasil", "México", "Chile"],
+      "respuesta_correcta": "Brasil",
+      "explicación": "Brasil se independizó mediante un proceso pacífico liderado por Pedro I." 
+    },
+    {
+      "pregunta": "¿Quién fue el primer emperador de Brasil independiente?",
+      "opciones": ["Pedro I", "Bolívar", "José Bonifacio", "Pedro II"],
+      "respuesta_correcta": "Pedro I",
+      "explicación": "Pedro I proclamó la independencia de Brasil y se convirtió en su primer emperador." 
+    },
+    {
+      "pregunta": "¿Qué batalla consolidó la independencia de Venezuela en 1821?",
+      "opciones": ["Boyacá", "Pichincha", "Carabobo", "Maipú"],
+      "respuesta_correcta": "Carabobo",
+      "explicación": "La batalla de Carabobo fue decisiva para la independencia de Venezuela." 
+    },
+    {
+      "pregunta": "¿Qué general venezolano fue decisivo en la independencia de Ecuador y Perú?",
+      "opciones": ["Bolívar", "Sucre", "O'Higgins", "San Martín"],
+      "respuesta_correcta": "Sucre",
+      "explicación": "Antonio José de Sucre fue clave en las campañas libertadoras, especialmente en Ayacucho." 
+    },
+    {
+      "pregunta": "¿Qué documento puso fin al dominio colonial español en México?",
+      "opciones": ["Plan de Iguala", "Tratados de Córdoba", "Acta de Independencia", "Grito de Dolores"],
+      "respuesta_correcta": "Tratados de Córdoba",
+      "explicación": "En 1821 los Tratados de Córdoba reconocieron la independencia de México." 
+    },
+    {
+      "pregunta": "¿Qué país fue creado como estado tapón entre Brasil y Argentina?",
+      "opciones": ["Bolivia", "Paraguay", "Uruguay", "Ecuador"],
+      "respuesta_correcta": "Uruguay",
+      "explicación": "Uruguay se constituyó para evitar conflictos constantes entre Argentina y Brasil." 
+    },
+    {
+      "pregunta": "¿Qué idea política defendían muchos líderes independentistas americanos?",
+      "opciones": ["Monarquías absolutas", "Federalismo y republicanismo", "Retorno al feudalismo", "Protectorados europeos"],
+      "respuesta_correcta": "Federalismo y republicanismo",
+      "explicación": "Muchos líderes buscaban crear estados autónomos y republicanos inspirados en modelos europeos y estadounidenses." 
+    }
+  ]
+}
