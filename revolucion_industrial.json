@@ -122,7 +122,8 @@
 				"El telégrafo"
 			],
 			"respuesta_correcta": "El teléfono",
-			"explicación": "Alexander Graham Bell inventó el teléfono, que revolucionó la comunicación."
+			"explicación": "Alexander Graham Bell inventó el teléfono, que revolucionó la comunicación.",
+			"imagen": "imagenes/telefono.png"
 		},
 		{
 			"pregunta": "¿Qué invento es atribuido a Nikola Tesla?",
@@ -233,7 +234,8 @@
 				"El telégrafo"
 			],
 			"respuesta_correcta": "La máquina de vapor atmosférica",
-			"explicación": "Thomas Newcomen inventó la máquina de vapor atmosférica, que fue una precursora de la máquina de vapor de James Watt."
+			"explicación": "Thomas Newcomen inventó la máquina de vapor atmosférica, que fue una precursora de la máquina de vapor de James Watt.",
+			"imagen": "imagenes/maquina_vapor.png"
 		},
 		{
 			"pregunta": "¿Qué invento es atribuido a Richard Trevithick?",

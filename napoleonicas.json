@@ -90,7 +90,8 @@
 				"Batalla de Austerlitz"
 			],
 			"respuesta_correcta": "Batalla de Waterloo",
-			"explicación": "La Batalla de Waterloo en 1815 marcó la derrota final de Napoleón y el fin de su imperio."
+			"explicación": "La Batalla de Waterloo en 1815 marcó la derrota final de Napoleón y el fin de su imperio.",
+			"imagen": "imagenes/waterloo.png"
 		},
 		{
 			"pregunta": "¿Qué isla fue el primer lugar de exilio de Napoleón?",

@@ -176,7 +176,8 @@
 				"Un tipo de guerra química"
 			],
 			"respuesta_correcta": "Una forma de combate en trincheras",
-			"explicación": "La 'Guerra de Trincheras' se refiere al combate en trincheras, característico de la Primera Guerra Mundial."
+			"explicación": "La 'Guerra de Trincheras' se refiere al combate en trincheras, característico de la Primera Guerra Mundial.",
+			"imagen": "imagenes/trincheras.png"
 		},
 		{
 			"pregunta": "¿Qué país se retiró de la guerra en 1917 debido a una revolución interna?",
@@ -187,7 +188,8 @@
 				"Reino Unido"
 			],
 			"respuesta_correcta": "Rusia",
-			"explicación": "Rusia se retiró de la guerra en 1917 debido a la Revolución Rusa y la firma del Tratado de Brest-Litovsk."
+			"explicación": "Rusia se retiró de la guerra en 1917 debido a la Revolución Rusa y la firma del Tratado de Brest-Litovsk.",
+			"imagen": "imagenes/revolucion_rusa.png"
 		},
 		{
 			"pregunta": "¿Qué fue el Lusitania?",
