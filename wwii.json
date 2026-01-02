@@ -90,7 +90,8 @@
 				"Conferencia de Casablanca"
 			],
 			"respuesta_correcta": "Conferencia de Yalta",
-			"explicación": "La Conferencia de Yalta en 1945 estableció las bases para la reorganización de Europa después de la guerra."
+			"explicación": "La Conferencia de Yalta en 1945 estableció las bases para la reorganización de Europa después de la guerra.",
+			"imagen": "imagenes/yalta.png"
 		},
 		{
 			"pregunta": "¿Qué fue el Holocausto?",

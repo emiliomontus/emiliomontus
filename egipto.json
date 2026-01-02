@@ -12,7 +12,7 @@
       "opciones": ["Zares", "Faraones", "Emires", "Sultanes"],
       "respuesta_correcta": "Faraones",
       "explicación": "Los gobernantes supremos de Egipto eran llamados faraones y eran considerados figuras divinas.",
-      "imagen": "imagenes/esfinge.png"
+      "imagen": "imagenes/tutankamon.png"
     },
     {
       "pregunta": "¿Cuál era la escritura utilizada por los antiguos egipcios?",
@@ -33,7 +33,7 @@
       "opciones": ["Tutankamón", "Ramsés II", "Keops", "Akenatón"],
       "respuesta_correcta": "Tutankamón",
       "explicación": "La tumba de Tutankamón fue descubierta casi intacta por Howard Carter en 1922.",
-      "imagen": "imagenes/esfinge.png"
+      "imagen": "imagenes/tutankamon.png"
     },
     {
       "pregunta": "¿Cuál era la capital del Antiguo Egipto durante el Imperio Antiguo?",
