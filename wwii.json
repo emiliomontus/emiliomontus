@@ -221,7 +221,8 @@
 				"Una batalla aérea sobre Londres"
 			],
 			"respuesta_correcta": "Una victoria soviética en el frente oriental",
-			"explicación": "La Batalla de Kursk en 1943 fue una victoria decisiva de la Unión Soviética sobre Alemania en el frente oriental."
+			"explicación": "La Batalla de Kursk en 1943 fue una victoria decisiva de la Unión Soviética sobre Alemania en el frente oriental.",
+			"imagen": "imagenes/kursk.png"
 		},
 		{
 			"pregunta": "¿Qué fue la 'Batalla de las Ardenas'?",
@@ -302,7 +303,8 @@
 				"Una batalla aérea sobre Londres"
 			],
 			"respuesta_correcta": "Una ofensiva aliada en Italia",
-			"explicación": "La Batalla de Anzio en 1944 fue una ofensiva aliada en Italia que buscaba romper las líneas defensivas alemanas."
+			"explicación": "La Batalla de Anzio en 1944 fue una ofensiva aliada en Italia que buscaba romper las líneas defensivas alemanas.",
+			"imagen": "imagenes/italia_wwii.png"
 		},
 		{
 			"pregunta": "¿Qué fue la 'Batalla de Monte Cassino'?",
@@ -313,7 +315,8 @@
 				"Una batalla aérea sobre Londres"
 			],
 			"respuesta_correcta": "Una ofensiva aliada en Italia",
-			"explicación": "La Batalla de Monte Cassino en 1944 fue una serie de ofensivas aliadas en Italia para capturar Roma."
+			"explicación": "La Batalla de Monte Cassino en 1944 fue una serie de ofensivas aliadas en Italia para capturar Roma.",
+			"imagen": "imagenes/italia_wwii.png"
 		},
 		{
 			"pregunta": "¿Qué fue la 'Batalla de Leyte Gulf'?",
