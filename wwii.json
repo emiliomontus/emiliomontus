@@ -67,7 +67,8 @@
 				"Una campaña de bombardeo"
 			],
 			"respuesta_correcta": "Una táctica de guerra relámpago",
-			"explicación": "La 'Blitzkrieg' fue una táctica militar alemana de guerra relámpago que implicaba ataques rápidos y coordinados."
+			"explicación": "La 'Blitzkrieg' fue una táctica militar alemana de guerra relámpago que implicaba ataques rápidos y coordinados.",
+			"imagen": "imagenes/ardenas.png"
 		},
 		{
 			"pregunta": "¿Qué batalla es conocida como el punto de inflexión en el frente oriental?",
@@ -233,7 +234,8 @@
 				"Una batalla aérea sobre Londres"
 			],
 			"respuesta_correcta": "Una ofensiva alemana en el frente occidental",
-			"explicación": "La Batalla de las Ardenas, también conocida como la Ofensiva de las Ardenas, fue la última gran ofensiva alemana en el frente occidental en 1944-1945."
+			"explicación": "La Batalla de las Ardenas, también conocida como la Ofensiva de las Ardenas, fue la última gran ofensiva alemana en el frente occidental en 1944-1945.",
+			"imagen": "imagenes/ardenas.png"
 		},
 		{
 			"pregunta": "¿Qué fue la 'Batalla de Iwo Jima'?",
