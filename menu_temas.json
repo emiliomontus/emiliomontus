@@ -56,6 +56,10 @@
 		"cuestionario": "revolucion_rusa.json"
 	},
 	{
+		"tema": "Guerra Civil Española",
+		"cuestionario": "guerra_civil.json"
+	},
+	{
 		"tema": "Segunda Guerra Mundial",
 		"cuestionario": "wwii.json"
 	},
