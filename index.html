@@ -6,75 +6,126 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>APPistóteles</title> <!-- Confirmar el nombre de la app para la barra de estado del navegador -->
 	<link rel="stylesheet" href="styles.css">
-	<!-- Google Analytics tag (gtag.js) -->
-	<script async src="https://www.googletagmanager.com/gtag/js?id=G-THDDLME63J"></script>
-	<script>
-		window.dataLayer = window.dataLayer || [];
-		function gtag() { dataLayer.push(arguments); }
-		gtag('js', new Date());
-
-		gtag('config', 'G-THDDLME63J');
-	</script>
-	<!-- fin - Google Analytics tag (gtag.js) -->
-	<!-- Banner de cookies -->
-	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.css" />
-	<script src="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.js"></script>
-	<script>
-		window.addEventListener("load", function () {
-			window.cookieconsent.initialise({
-				palette: {
-					popup: { background: "#000" },
-					button: { background: "#f1d600" }
-				},
-				theme: "classic",
-				position: "bottom",
-				content: {
-					message: "Este sitio web usa cookies para mejorar la experiencia del usuario.",
-					dismiss: "Aceptar",
-					link: "Leer más",
-					href: "https://appistoteles.com/docs/cookies.html"
-				}
-			});
-		});
-	</script>
-	<!-- fin - Banner de cookies -->
 </head>
 
 <body>
-	<h1>APPistóteles</h1>
-	<div id="pantalla-inicio" class="pantalla activa">
-		<p>
-			Bienvenido a APPistóteles, tu app favorita para aprender historia de una manera fácil y entretenida.
-			<br><br>
-			Escoge un tema de la lista que quieras repasar y responde a las 10 preguntas del siguiente cuestionario.
-		</p>
-		<button id="btn-play">Play</button>
+	<header class="site-header">
+		<p class="eyebrow">Historia en formato quiz</p>
+		<h1>APPistóteles</h1>
+		<p class="site-subtitle">Una forma simple y visual de repasar historia, tema a tema.</p>
+	</header>
+
+	<main class="app-shell">
+	<div id="pantalla-inicio" class="pantalla activa panel">
+		<div class="hero-copy">
+			<h2>Aprende historia sin sentir que estudias</h2>
+			<p>
+				Elige un tema, responde 10 preguntas aleatorias y recibe una explicación breve en cada respuesta.
+				Ideal para repasar, practicar y detectar lo que todavía no tienes del todo claro.
+			</p>
+		</div>
+		<div class="hero-highlights" aria-label="Características principales">
+			<p class="highlight-pill">17 temas históricos</p>
+			<p class="highlight-pill">10 preguntas por partida</p>
+			<p class="highlight-pill">Explicaciones inmediatas</p>
+		</div>
+		<button id="btn-play">Empezar</button>
 	</div>
 
-	<div id="pantalla-menu" class="pantalla">
+	<div id="pantalla-menu" class="pantalla panel">
 		<h2>Selecciona un tema</h2>
+		<p class="section-intro">Escoge el bloque histórico que quieras repasar. Las preguntas se mezclan automáticamente en cada intento.</p>
 		<ul id="lista-temas"></ul>
 	</div>
 
-	<div id="pantalla-cuestionario" class="pantalla">
+	<div id="pantalla-cuestionario" class="pantalla panel">
 		<div id="pregunta-container"></div>
 		<ul id="opciones"></ul>
+		<p id="estado-respuesta" class="estado-respuesta" aria-live="polite"></p>
 		<div id="explicacion-container" class="oculto"></div>
-		<button id="btn-continuar" class="oculto">Continuar</button>
+		<button id="btn-continuar" class="oculto">Siguiente pregunta</button>
 	</div>
 
-	<div id="pantalla-resultados" class="pantalla">
+	<div id="pantalla-resultados" class="pantalla panel">
 		<h2>Resultados</h2>
-		<p>Aciertos: <span id="aciertos"></span></p>
-		<p>Fallos: <span id="fallos"></span></p>
-		<p>Puntos: <span id="puntos"></span></p>
-		<button id="btn-finalizar">Finalizar</button>
+		<p id="mensaje-resultado" class="section-intro"></p>
+		<div class="results-grid">
+			<div class="stat-card">
+				<p class="stat-label">Aciertos</p>
+				<p class="stat-value"><span id="aciertos"></span></p>
+			</div>
+			<div class="stat-card">
+				<p class="stat-label">Fallos</p>
+				<p class="stat-value"><span id="fallos"></span></p>
+			</div>
+			<div class="stat-card">
+				<p class="stat-label">Puntos</p>
+				<p class="stat-value"><span id="puntos"></span></p>
+			</div>
+		</div>
+		<div class="results-actions">
+			<button id="btn-repetir">Jugar otra vez</button>
+			<button id="btn-finalizar" class="secondary-button">Volver a temas</button>
+		</div>
 	</div>
+
+	<div id="mensaje-error" class="mensaje-error oculto" role="alert">
+		<p id="texto-error"></p>
+		<button id="btn-reintentar" class="oculto">Reintentar</button>
+	</div>
+
+	<div id="cookie-banner" class="cookie-banner oculto" role="dialog" aria-live="polite" aria-label="Preferencias de cookies">
+		<p>
+			Usamos cookies analíticas solo si las aceptas. Puedes cambiar tu decisión borrando las cookies del navegador.
+			<a href="docs/cookies.html">Leer política de cookies</a>
+		</p>
+		<div class="cookie-actions">
+			<button id="btn-aceptar-cookies" type="button">Aceptar</button>
+			<button id="btn-rechazar-cookies" type="button" class="secondary-button">Rechazar</button>
+		</div>
+	</div>
+	</main>
+
+	<footer>
+		Proyecto PAI - Liceo Europeo - 2025
+	</footer>
 
 	<script>
+		const ANALYTICS_ID = "G-THDDLME63J";
+		const COOKIE_CONSENT_KEY = "appistoteles_cookie_consent";
+		let ultimoIntento = null;
+		let ultimoCuestionario = null;
+
 		document.getElementById("btn-play").addEventListener("click", function () {
 			cambiarPantalla("pantalla-menu");
 			cargarTemas();
+		});
+
+		document.getElementById("btn-repetir").addEventListener("click", function () {
+			if (ultimoCuestionario) {
+				iniciarCuestionario(ultimoCuestionario);
+			} else {
+				cambiarPantalla("pantalla-menu");
+			}
+		});
+
+		document.getElementById("btn-reintentar").addEventListener("click", function () {
+			if (ultimoIntento) {
+				ultimoIntento();
+			}
+		});
+
+		document.getElementById("btn-finalizar").addEventListener("click", function () {
+			cambiarPantalla("pantalla-menu");
+		});
+
+		document.getElementById("btn-aceptar-cookies").addEventListener("click", function () {
+			guardarConsentimientoCookies("accepted");
+			inicializarAnalytics();
+		});
+
+		document.getElementById("btn-rechazar-cookies").addEventListener("click", function () {
+			guardarConsentimientoCookies("rejected");
 		});
 
 		function cambiarPantalla(idPantalla) {
@@ -82,31 +133,57 @@
 			document.getElementById(idPantalla).classList.add("activa");
 		}
 
-		function cargarTemas() {
-			fetch("menu_temas.json")
-				.then(response => response.json())
-				.then(data => {
-					let listaTemas = document.getElementById("lista-temas");
+		async function cargarTemas() {
+			const listaTemas = document.getElementById("lista-temas");
+			listaTemas.innerHTML = "";
+			ocultarError();
+			ultimoIntento = cargarTemas;
 
-					data.forEach(tema => {
-						let item = document.createElement("li");
-						item.textContent = tema.tema; // Acceder correctamente al nombre del tema
-						item.addEventListener("click", function () {
-							iniciarCuestionario(tema.cuestionario);
-						});
-						listaTemas.appendChild(item); // Agregar el elemento <li> a la lista
+			try {
+				const response = await fetch("menu_temas.json");
+				if (!response.ok) {
+					throw new Error("No se pudo cargar el menú de temas.");
+				}
+
+				const data = await response.json();
+				data.forEach(tema => {
+					const item = document.createElement("li");
+					const botonTema = document.createElement("button");
+					botonTema.type = "button";
+					botonTema.className = "option-button topic-button";
+					botonTema.textContent = tema.tema;
+					botonTema.addEventListener("click", function () {
+						iniciarCuestionario(tema.cuestionario);
 					});
-				})
+					item.appendChild(botonTema);
+					listaTemas.appendChild(item);
+				});
+			} catch (error) {
+				mostrarError("No hemos podido cargar los temas. Revisa la conexión o vuelve a intentarlo.", cargarTemas);
+			}
 		}
 
-		function iniciarCuestionario(archivoCuestionario) {
-			fetch(archivoCuestionario)
-				.then(response => response.json())
-				.then(data => {
-					let preguntas = data.preguntas.sort(() => 0.5 - Math.random()).slice(0, 10);
-					mostrarPregunta(preguntas, 0, 0, 0);
-				});
+		async function iniciarCuestionario(archivoCuestionario) {
 			cambiarPantalla("pantalla-cuestionario");
+			ocultarError();
+			ultimoIntento = () => iniciarCuestionario(archivoCuestionario);
+			ultimoCuestionario = archivoCuestionario;
+
+			try {
+				const response = await fetch(archivoCuestionario);
+				if (!response.ok) {
+					throw new Error("No se pudo cargar el cuestionario.");
+				}
+
+				const data = await response.json();
+				const preguntas = data.preguntas
+					.slice()
+					.sort(() => 0.5 - Math.random())
+					.slice(0, 10);
+				mostrarPregunta(preguntas, 0, 0, 0);
+			} catch (error) {
+				mostrarError("No hemos podido cargar este cuestionario. Puedes reintentarlo desde aquí.", () => iniciarCuestionario(archivoCuestionario));
+			}
 		}
 
 		function mostrarPregunta(preguntas, indice, aciertos, fallos) {
@@ -114,6 +191,7 @@
 				document.getElementById("aciertos").textContent = aciertos;
 				document.getElementById("fallos").textContent = fallos;
 				document.getElementById("puntos").textContent = aciertos * 10;
+				document.getElementById("mensaje-resultado").textContent = construirMensajeResultado(aciertos, preguntas.length);
 				cambiarPantalla("pantalla-resultados");
 				return;
 			}
@@ -121,61 +199,138 @@
 			let preguntaActual = preguntas[indice];
 			let preguntaContainer = document.getElementById("pregunta-container");
 			preguntaContainer.innerHTML = `
+			<p class="contador-pregunta">Pregunta ${indice + 1} de ${preguntas.length}</p>
 			<p>${preguntaActual.pregunta}</p>
 			${preguntaActual.imagen ? `<img src="${preguntaActual.imagen}" alt="Imagen de la pregunta" class="imagen-pregunta">` : ""}`;
-			//			document.getElementById("pregunta-container").textContent = preguntaActual.pregunta;
 			let opciones = document.getElementById("opciones");
 			opciones.innerHTML = "";
 			let explicacionContainer = document.getElementById("explicacion-container");
 			explicacionContainer.innerHTML = "";
 			explicacionContainer.classList.add("oculto");
+			explicacionContainer.classList.remove("explicacion-visible");
 			let btnContinuar = document.getElementById("btn-continuar");
 			btnContinuar.classList.add("oculto");
+			const estadoRespuesta = document.getElementById("estado-respuesta");
+			estadoRespuesta.textContent = "";
+			let respuestaBloqueada = false;
 
 			preguntaActual.opciones.forEach(opcion => {
 				let li = document.createElement("li");
-				li.textContent = opcion;
-				li.addEventListener("click", function () {
+				const botonOpcion = document.createElement("button");
+				botonOpcion.type = "button";
+				botonOpcion.className = "option-button";
+				botonOpcion.textContent = opcion;
+				botonOpcion.addEventListener("click", function () {
+					if (respuestaBloqueada) {
+						return;
+					}
+
+					respuestaBloqueada = true;
 					let correcta = opcion === preguntaActual.respuesta_correcta;
+					const botones = opciones.querySelectorAll(".option-button");
+					botones.forEach(item => {
+						item.disabled = true;
+					});
 
 					if (correcta) {
-						li.style.backgroundColor = "green";
-						li.style.color = "white";
-						li.style.fontWeight = "bold";
+						botonOpcion.classList.add("respuesta-correcta");
+						botonOpcion.setAttribute("aria-label", opcion + ". Respuesta correcta.");
+						estadoRespuesta.textContent = "Respuesta correcta.";
 						aciertos++;
 					} else {
-						li.style.backgroundColor = "red";
-						li.style.color = "white";
-						li.style.fontWeight = "bold";
+						botonOpcion.classList.add("respuesta-incorrecta");
+						botonOpcion.setAttribute("aria-label", opcion + ". Respuesta incorrecta.");
+						estadoRespuesta.textContent = "Respuesta incorrecta.";
 						fallos++;
-						// Resaltar la respuesta correcta en azul solo si la respuesta es incorrecta
-						opciones.querySelectorAll("li").forEach(item => {
+						botones.forEach(item => {
 							if (item.textContent === preguntaActual.respuesta_correcta) {
-								item.style.backgroundColor = "blue";
-								item.style.color = "white";
-								item.style.fontWeight = "bold";
+								item.classList.add("respuesta-correcta");
+								item.setAttribute("aria-label", item.textContent + ". Esta era la respuesta correcta.");
 							}
 						});
 					}
 
-					// Mostrar explicación siempre
 					explicacionContainer.textContent = preguntaActual.explicación;
 					explicacionContainer.classList.remove("oculto");
 					explicacionContainer.classList.add("explicacion-visible");
 
-					// Mostrar botón continuar después de 2 segundos
 					setTimeout(() => {
 						btnContinuar.classList.remove("oculto");
 						btnContinuar.onclick = () => mostrarPregunta(preguntas, indice + 1, aciertos, fallos);
 					}, 2000);
 				});
+				li.appendChild(botonOpcion);
 				opciones.appendChild(li);
 			});
 		}
 
-		document.getElementById("btn-finalizar").addEventListener("click", function () {
-			cambiarPantalla("pantalla-menu");
-		});
+		function mostrarError(mensaje, reintento) {
+			const contenedor = document.getElementById("mensaje-error");
+			const texto = document.getElementById("texto-error");
+			const boton = document.getElementById("btn-reintentar");
+			texto.textContent = mensaje;
+			contenedor.classList.remove("oculto");
+			if (reintento) {
+				ultimoIntento = reintento;
+				boton.classList.remove("oculto");
+			} else {
+				boton.classList.add("oculto");
+			}
+		}
+
+		function ocultarError() {
+			document.getElementById("mensaje-error").classList.add("oculto");
+			document.getElementById("texto-error").textContent = "";
+		}
+
+		function construirMensajeResultado(aciertos, totalPreguntas) {
+			const porcentaje = Math.round((aciertos / totalPreguntas) * 100);
+			if (porcentaje === 100) {
+				return "Pleno total. Te sabes este tema de memoria.";
+			}
+			if (porcentaje >= 80) {
+				return "Muy buen repaso. Dominas bastante bien este bloque.";
+			}
+			if (porcentaje >= 50) {
+				return "Buen avance. Ya tienes base, pero aún hay margen para consolidar.";
+			}
+			return "Buen intento. Repetir el cuestionario te ayudará a fijar mejor las ideas clave.";
+		}
+
+		function guardarConsentimientoCookies(valor) {
+			localStorage.setItem(COOKIE_CONSENT_KEY, valor);
+			document.getElementById("cookie-banner").classList.add("oculto");
+		}
+
+		function revisarConsentimientoCookies() {
+			const consentimiento = localStorage.getItem(COOKIE_CONSENT_KEY);
+			if (consentimiento === "accepted") {
+				inicializarAnalytics();
+				return;
+			}
+
+			if (consentimiento !== "rejected") {
+				document.getElementById("cookie-banner").classList.remove("oculto");
+			}
+		}
+
+		function inicializarAnalytics() {
+			if (window.analyticsLoaded) {
+				return;
+			}
+
+			window.dataLayer = window.dataLayer || [];
+			window.gtag = function () { window.dataLayer.push(arguments); };
+			const script = document.createElement("script");
+			script.async = true;
+			script.src = "https://www.googletagmanager.com/gtag/js?id=" + ANALYTICS_ID;
+			document.head.appendChild(script);
+			window.gtag("js", new Date());
+			window.gtag("config", ANALYTICS_ID);
+			window.analyticsLoaded = true;
+		}
+
+		revisarConsentimientoCookies();
 	</script>
 </body>
 
