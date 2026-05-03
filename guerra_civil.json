@@ -3,151 +3,151 @@
     {
       "pregunta": "¿En qué año comenzó la Guerra Civil Española?",
       "opciones": ["1934", "1936", "1938", "1939"],
-      "respuesta": "1936",
+      "respuesta_correcta": "1936",
       "explicación": "La Guerra Civil Española comenzó el 17 de julio de 1936 con un levantamiento militar contra el gobierno de la Segunda República."
     },
     {
       "pregunta": "¿Qué sistema político gobernaba España antes del inicio de la guerra?",
       "opciones": ["Monarquía absoluta", "Dictadura militar", "Segunda República", "Imperio"],
-      "respuesta": "Segunda República",
+      "respuesta_correcta": "Segunda República",
       "explicación": "La Segunda República Española fue proclamada en 1931 y era el sistema político vigente cuando comenzó la guerra en 1936."
     },
     {
       "pregunta": "¿Qué general lideró el bando sublevado que finalmente ganó la guerra?",
       "opciones": ["Francisco Franco", "Emilio Mola", "José Sanjurjo", "Manuel Azaña"],
-      "respuesta": "Francisco Franco",
+      "respuesta_correcta": "Francisco Franco",
       "explicación": "Francisco Franco se convirtió en el líder principal del bando sublevado y, tras la victoria en 1939, gobernó España como dictador durante décadas."
     },
     {
       "pregunta": "¿Qué nombre recibía el bando que defendía al gobierno republicano?",
       "opciones": ["Nacional", "Imperial", "Republicano", "Monárquico"],
-      "respuesta": "Republicano",
+      "respuesta_correcta": "Republicano",
       "explicación": "El bando republicano defendía el gobierno legítimo de la Segunda República frente al levantamiento militar."
     },
     {
       "pregunta": "¿Qué ciudad fue uno de los principales bastiones republicanos durante la guerra?",
       "opciones": ["Madrid", "Burgos", "Salamanca", "Valladolid"],
-      "respuesta": "Madrid",
+      "respuesta_correcta": "Madrid",
       "explicación": "Madrid resistió durante gran parte de la guerra y fue uno de los principales centros de resistencia republicana."
     },
     {
       "pregunta": "¿Qué país apoyó principalmente al bando nacional con tropas y aviación?",
       "opciones": ["Francia", "Alemania", "México", "Suecia"],
-      "respuesta": "Alemania",
+      "respuesta_correcta": "Alemania",
       "explicación": "La Alemania nazi envió ayuda militar, incluyendo la Legión Cóndor, que participó en bombardeos como el de Guernica."
     },
     {
       "pregunta": "¿Qué país también apoyó al bando nacional enviando tropas?",
       "opciones": ["Italia", "Portugal", "Reino Unido", "Canadá"],
-      "respuesta": "Italia",
+      "respuesta_correcta": "Italia",
       "explicación": "La Italia fascista de Mussolini envió soldados y material militar para apoyar al bando nacional."
     },
     {
       "pregunta": "¿Qué país apoyó principalmente a la República con ayuda militar y asesores?",
       "opciones": ["Estados Unidos", "Unión Soviética", "Alemania", "Japón"],
-      "respuesta": "Unión Soviética",
+      "respuesta_correcta": "Unión Soviética",
       "explicación": "La Unión Soviética fue el principal apoyo internacional de la República, enviando armas, asesores y ayuda logística."
     },
     {
       "pregunta": "¿Qué ciudad vasca fue bombardeada en 1937 en un ataque muy conocido?",
       "opciones": ["Bilbao", "San Sebastián", "Guernica", "Vitoria"],
-      "respuesta": "Guernica",
+      "respuesta_correcta": "Guernica",
       "explicación": "El bombardeo de Guernica en 1937 por la aviación alemana se convirtió en uno de los episodios más famosos de la guerra."
     },
     {
       "pregunta": "¿Qué famoso pintor español creó una obra inspirada en el bombardeo de Guernica?",
       "opciones": ["Salvador Dalí", "Pablo Picasso", "Francisco Goya", "Joan Miró"],
-      "respuesta": "Pablo Picasso",
+      "respuesta_correcta": "Pablo Picasso",
       "explicación": "Pablo Picasso pintó el famoso cuadro 'Guernica', que representa el horror del bombardeo y la guerra."
     },
     {
       "pregunta": "¿Qué brigadas formadas por voluntarios extranjeros lucharon por la República?",
       "opciones": ["Brigadas Imperiales", "Brigadas Internacionales", "Brigadas Nacionales", "Legiones Europeas"],
-      "respuesta": "Brigadas Internacionales",
+      "respuesta_correcta": "Brigadas Internacionales",
       "explicación": "Las Brigadas Internacionales reunieron a miles de voluntarios de distintos países que acudieron a luchar en defensa de la República."
     },
     {
       "pregunta": "¿Qué batalla de 1938 fue una de las más largas y sangrientas de la guerra?",
       "opciones": ["Batalla del Ebro", "Batalla de Madrid", "Batalla de Málaga", "Batalla de Toledo"],
-      "respuesta": "Batalla del Ebro",
+      "respuesta_correcta": "Batalla del Ebro",
       "explicación": "La Batalla del Ebro fue el enfrentamiento más largo y uno de los más decisivos del conflicto."
     },
     {
       "pregunta": "¿Qué ciudad se convirtió en la capital del bando nacional durante la guerra?",
       "opciones": ["Sevilla", "Burgos", "Zaragoza", "Valencia"],
-      "respuesta": "Burgos",
+      "respuesta_correcta": "Burgos",
       "explicación": "Burgos fue la sede del gobierno del bando nacional durante gran parte de la guerra."
     },
     {
       "pregunta": "¿Qué líder político fue presidente de la República durante gran parte de la guerra?",
       "opciones": ["Manuel Azaña", "Adolfo Suárez", "Alfonso XIII", "Miguel Primo de Rivera"],
-      "respuesta": "Manuel Azaña",
+      "respuesta_correcta": "Manuel Azaña",
       "explicación": "Manuel Azaña fue presidente de la Segunda República durante el conflicto."
     },
     {
       "pregunta": "¿Qué ciudad fue sede del gobierno republicano después de Madrid?",
       "opciones": ["Valencia", "Bilbao", "Granada", "Badajoz"],
-      "respuesta": "Valencia",
+      "respuesta_correcta": "Valencia",
       "explicación": "Ante el avance de las tropas sublevadas, el gobierno republicano trasladó su sede a Valencia en 1936."
     },
     {
       "pregunta": "¿En qué año terminó la Guerra Civil Española?",
       "opciones": ["1938", "1939", "1940", "1941"],
-      "respuesta": "1939",
+      "respuesta_correcta": "1939",
       "explicación": "La guerra terminó el 1 de abril de 1939 con la victoria del bando nacional."
     },
     {
       "pregunta": "¿Qué dictadura comenzó en España tras la guerra?",
       "opciones": ["Dictadura de Franco", "Dictadura de Primo de Rivera", "Dictadura militar republicana", "Dictadura comunista"],
-      "respuesta": "Dictadura de Franco",
+      "respuesta_correcta": "Dictadura de Franco",
       "explicación": "Tras la victoria nacional, Francisco Franco instauró una dictadura que duró hasta 1975."
     },
     {
       "pregunta": "¿Qué isla fue uno de los primeros territorios controlados por los sublevados?",
       "opciones": ["Mallorca", "Menorca", "Ibiza", "Tenerife"],
-      "respuesta": "Mallorca",
+      "respuesta_correcta": "Mallorca",
       "explicación": "Mallorca quedó pronto bajo control de los sublevados y fue utilizada como base estratégica."
     },
     {
       "pregunta": "¿Qué estrecho fue clave para el traslado de tropas desde África a la península?",
       "opciones": ["Estrecho de Gibraltar", "Estrecho de Bering", "Estrecho de Magallanes", "Estrecho de Ormuz"],
-      "respuesta": "Estrecho de Gibraltar",
+      "respuesta_correcta": "Estrecho de Gibraltar",
       "explicación": "El traslado del Ejército de África a través del Estrecho de Gibraltar fue crucial para los sublevados."
     },
     {
       "pregunta": "¿Qué grupo político y sindical tuvo gran influencia en el bando republicano?",
       "opciones": ["CNT", "Falange", "Opus Dei", "CEDA"],
-      "respuesta": "CNT",
+      "respuesta_correcta": "CNT",
       "explicación": "La CNT fue una importante organización anarcosindicalista que participó activamente en el bando republicano."
     },
     {
       "pregunta": "¿Qué organización política estaba asociada al bando nacional?",
       "opciones": ["Falange", "POUM", "CNT", "UGT"],
-      "respuesta": "Falange",
+      "respuesta_correcta": "Falange",
       "explicación": "La Falange Española fue un movimiento político de inspiración fascista que apoyó al bando nacional."
     },
     {
       "pregunta": "¿Qué ciudad catalana cayó en manos del bando nacional en 1939?",
       "opciones": ["Barcelona", "Tarragona", "Lérida", "Gerona"],
-      "respuesta": "Barcelona",
+      "respuesta_correcta": "Barcelona",
       "explicación": "La caída de Barcelona en enero de 1939 fue un golpe decisivo para la República."
     },
     {
       "pregunta": "¿Qué fenómeno ocurrió cuando miles de republicanos huyeron a Francia al final de la guerra?",
       "opciones": ["La Reconquista", "La Retirada", "La Transición", "La Restauración"],
-      "respuesta": "La Retirada",
+      "respuesta_correcta": "La Retirada",
       "explicación": "La Retirada fue el éxodo masivo de republicanos que cruzaron la frontera francesa en 1939."
     },
     {
       "pregunta": "¿Qué fuerte militar fue escenario de un famoso asedio al inicio de la guerra?",
       "opciones": ["Alcázar de Toledo", "Castillo de Montjuïc", "Fuerte de San Cristóbal", "Castillo de Bellver"],
-      "respuesta": "Alcázar de Toledo",
+      "respuesta_correcta": "Alcázar de Toledo",
       "explicación": "El asedio del Alcázar de Toledo fue uno de los episodios simbólicos del inicio del conflicto."
     },
     {
       "pregunta": "¿Qué lema se hizo famoso entre los defensores de Madrid?",
       "opciones": ["¡No pasarán!", "¡Viva el rey!", "¡Arriba España!", "¡Venceremos mañana!"],
-      "respuesta": "¡No pasarán!",
+      "respuesta_correcta": "¡No pasarán!",
       "explicación": "El lema '¡No pasarán!' se convirtió en un símbolo de la resistencia republicana durante la defensa de Madrid."
     }
   ]
