@@ -4,19 +4,22 @@
       "pregunta": "¿En qué año comenzó oficialmente la Restauración Meiji?",
       "opciones": ["1853", "1868", "1895", "1905"],
       "respuesta_correcta": "1868",
-      "explicación": "En 1868 se restauró el poder imperial bajo el emperador Meiji, marcando el inicio de profundas reformas en Japón."
+      "explicación": "En 1868 se restauró el poder imperial bajo el emperador Meiji, marcando el inicio de profundas reformas en Japón.",
+      "imagen": "imagenes/meiji.png"
     },
     {
       "pregunta": "¿Qué emperador lideró Japón durante la Restauración Meiji?",
       "opciones": ["Taishō", "Shōwa", "Meiji", "Heisei"],
       "respuesta_correcta": "Meiji",
-      "explicación": "El emperador Meiji (Mutsuhito) lideró las reformas que modernizaron Japón a finales del siglo XIX."
+      "explicación": "El emperador Meiji (Mutsuhito) lideró las reformas que modernizaron Japón a finales del siglo XIX.",
+      "imagen": "imagenes/meiji.png"
     },
     {
       "pregunta": "¿Cuál fue uno de los principales objetivos de la Restauración Meiji?",
       "opciones": ["Restaurar el shogunato Tokugawa", "Modernizar y occidentalizar Japón", "Aumentar el aislamiento del país", "Expandir la religión budista"],
       "respuesta_correcta": "Modernizar y occidentalizar Japón",
-      "explicación": "El objetivo era transformar Japón en una nación moderna y poderosa para evitar la colonización extranjera."
+      "explicación": "El objetivo era transformar Japón en una nación moderna y poderosa para evitar la colonización extranjera.",
+      "imagen": "imagenes/meiji.png"
     },
     {
       "pregunta": "¿Qué clase social perdió su estatus privilegiado con la Restauración Meiji?",
@@ -82,13 +85,15 @@
       "pregunta": "¿Qué incidente de 1931 dio inicio a la invasión japonesa de Manchuria?",
       "opciones": ["Incidente de Mukden", "Incidente Marco Polo", "Batalla de Shanghái", "Incidente del Río Amur"],
       "respuesta_correcta": "Incidente de Mukden",
-      "explicación": "El Incidente de Mukden sirvió como pretexto para que Japón invadiera y ocupase Manchuria."
+      "explicación": "El Incidente de Mukden sirvió como pretexto para que Japón invadiera y ocupase Manchuria.",
+      "imagen": "imagenes/mukden.png"
     },
     {
       "pregunta": "¿Cómo se llamó el estado títere creado por Japón en Manchuria en 1932?",
       "opciones": ["Mandato de Corea", "Estado de Kwantung", "Manchukuo", "Formosa Imperial"],
       "respuesta_correcta": "Manchukuo",
-      "explicación": "Manchukuo fue un estado títere controlado por Japón en Manchuria con el último emperador chino Puyi como figura decorativa."
+      "explicación": "Manchukuo fue un estado títere controlado por Japón en Manchuria con el último emperador chino Puyi como figura decorativa.",
+      "imagen": "imagenes/mukden.png"
     },
     {
       "pregunta": "¿Qué guerra inició Japón en 1937 contra China?",
@@ -107,7 +112,8 @@
       "pregunta": "¿Qué alianza firmó Japón con Alemania e Italia en 1940?",
       "opciones": ["Pacto Antikomintern", "Pacto de Varsovia", "Pacto Tripartito", "Pacto de Londres"],
       "respuesta_correcta": "Pacto Tripartito",
-      "explicación": "El Pacto Tripartito consolidó la alianza del Eje entre Alemania, Italia y Japón durante la Segunda Guerra Mundial."
+      "explicación": "El Pacto Tripartito consolidó la alianza del Eje entre Alemania, Italia y Japón durante la Segunda Guerra Mundial.",
+      "imagen": "imagenes/pearl_harbor.png"
     },
     {
       "pregunta": "¿Qué batalla de 1942 fue considerada el punto de inflexión en el Pacífico?",
@@ -139,7 +145,8 @@
       "pregunta": "¿Qué artículo de la Constitución de 1947 renuncia explícitamente a la guerra?",
       "opciones": ["Artículo 1", "Artículo 9", "Artículo 14", "Artículo 27"],
       "respuesta_correcta": "Artículo 9",
-      "explicación": "El Artículo 9 establece que Japón renuncia al uso de la guerra como derecho soberano y prohíbe mantener fuerzas armadas ofensivas."
+      "explicación": "El Artículo 9 establece que Japón renuncia al uso de la guerra como derecho soberano y prohíbe mantener fuerzas armadas ofensivas.",
+      "imagen": "imagenes/kamikaze.png"
     },
     {
       "pregunta": "¿Qué tribunal juzgó los crímenes de guerra japoneses después de la Segunda Guerra Mundial?",

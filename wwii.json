@@ -33,7 +33,8 @@
 				"Canadá, India, Brasil"
 			],
 			"respuesta_correcta": "Alemania, Italia, Japón",
-			"explicación": "Las Potencias del Eje estaban formadas principalmente por Alemania, Italia y Japón."
+			"explicación": "Las Potencias del Eje estaban formadas principalmente por Alemania, Italia y Japón.",
+			"imagen": "imagenes/yalta.png"
 		},
 		{
 			"pregunta": "¿Qué tratado puso fin a la Segunda Guerra Mundial en Europa?",
@@ -44,7 +45,8 @@
 				"Tratado de Ginebra"
 			],
 			"respuesta_correcta": "Tratado de París",
-			"explicación": "El Tratado de París de 1947 formalizó el fin de la Segunda Guerra Mundial en Europa."
+			"explicación": "El Tratado de París de 1947 formalizó el fin de la Segunda Guerra Mundial en Europa.",
+			"imagen": "imagenes/toma_de_berlin.png"
 		},
 		{
 			"pregunta": "¿Qué país fue invadido por Alemania al comienzo de la Segunda Guerra Mundial?",
@@ -103,7 +105,8 @@
 				"Una alianza militar"
 			],
 			"respuesta_correcta": "El genocidio de judíos y otros grupos por los nazis",
-			"explicación": "El Holocausto fue el genocidio sistemático de seis millones de judíos y otros grupos por parte de los nazis durante la Segunda Guerra Mundial."
+			"explicación": "El Holocausto fue el genocidio sistemático de seis millones de judíos y otros grupos por parte de los nazis durante la Segunda Guerra Mundial.",
+			"imagen": "imagenes/auschwitz.png"
 		},
 		{
 			"pregunta": "¿Qué país lanzó las bombas atómicas sobre Hiroshima y Nagasaki?",
@@ -258,7 +261,8 @@
 				"Una batalla aérea sobre Londres"
 			],
 			"respuesta_correcta": "Una victoria aliada en el Pacífico",
-			"explicación": "La Batalla de Okinawa en 1945 fue una de las últimas grandes batallas del Pacífico, resultando en una victoria aliada."
+			"explicación": "La Batalla de Okinawa en 1945 fue una de las últimas grandes batallas del Pacífico, resultando en una victoria aliada.",
+			"imagen": "imagenes/kamikaze.png"
 		},
 		{
 			"pregunta": "¿Qué fue la 'Batalla de Stalingrado'?",
@@ -330,7 +334,7 @@
 			],
 			"respuesta_correcta": "Una victoria aliada en el Pacífico",
 			"explicación": "La Batalla de Leyte Gulf en 1944 fue una de las mayores batallas navales de la historia, resultando en una victoria aliada sobre Japón.",
-			"imagen": "imagenes/midway.png"
+			"imagen": "imagenes/kamikaze.png"
 		},
 		{
 			"pregunta": "¿Qué fue la 'Batalla de Normandía'?",
