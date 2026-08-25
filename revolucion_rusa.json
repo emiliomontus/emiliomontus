@@ -4,13 +4,15 @@
       "pregunta": "¿En qué año comenzó la Revolución Rusa?",
       "opciones": ["1914", "1917", "1922", "1905"],
       "respuesta_correcta": "1917",
-      "explicación": "La Revolución Rusa comenzó en 1917 con el levantamiento contra el gobierno zarista."
+      "explicación": "La Revolución Rusa comenzó en 1917 con el levantamiento contra el gobierno zarista.",
+      "imagen": "imagenes/revolucion_rusa.png"
     },
     {
       "pregunta": "¿Qué zar fue derrocado durante la Revolución de Febrero?",
       "opciones": ["Nicolás II", "Alejandro III", "Pedro el Grande", "Iván IV"],
       "respuesta_correcta": "Nicolás II",
-      "explicación": "Nicolás II fue obligado a abdicar en febrero de 1917."
+      "explicación": "Nicolás II fue obligado a abdicar en febrero de 1917.",
+      "imagen": "imagenes/nicolas_ii.png"
     },
     {
       "pregunta": "¿Quién lideraba el gobierno provisional tras la caída del zar?",
@@ -34,7 +36,8 @@
       "pregunta": "¿Qué lema resumía el programa bolchevique?",
       "opciones": ["Paz, pan y tierra", "Orden y progreso", "Todo el poder al zar", "Libertad o muerte"],
       "respuesta_correcta": "Paz, pan y tierra",
-      "explicación": "El lema hacía referencia a las necesidades urgentes del pueblo."
+      "explicación": "El lema hacía referencia a las necesidades urgentes del pueblo.",
+      "imagen": "imagenes/revolucion_rusa.png"
     },
     {
       "pregunta": "¿Quién organizó el Ejército Rojo?",
@@ -52,7 +55,8 @@
       "pregunta": "¿Qué tratado sacó a Rusia de la Primera Guerra Mundial?",
       "opciones": ["Tratado de Versalles", "Tratado de Brest-Litovsk", "Tratado de París", "Tratado de Londres"],
       "respuesta_correcta": "Tratado de Brest-Litovsk",
-      "explicación": "El Tratado de Brest-Litovsk fue firmado en 1918 con Alemania."
+      "explicación": "El Tratado de Brest-Litovsk fue firmado en 1918 con Alemania.",
+      "imagen": "imagenes/tannenberg.png"
     },
     {
       "pregunta": "¿Qué sistema de consejos apoyaban los bolcheviques?",
@@ -130,7 +134,8 @@
       "pregunta": "¿Qué clase apoyó fuertemente a los bolcheviques?",
       "opciones": ["Campesinos sin tierra", "Burguesía", "Clero", "Aristocracia"],
       "respuesta_correcta": "Campesinos sin tierra",
-      "explicación": "Los bolcheviques prometieron repartir tierras a los campesinos."
+      "explicación": "Los bolcheviques prometieron repartir tierras a los campesinos.",
+      "imagen": "imagenes/revolucion_rusa.png"
     },
     {
       "pregunta": "¿Qué institución disolvieron los bolcheviques al tomar el poder?",
@@ -142,7 +147,8 @@
       "pregunta": "¿Qué consecuencias tuvo la derrota en la Primera Guerra Mundial para Rusia?",
       "opciones": ["Crisis y colapso del zarismo", "Expansión territorial", "Recuperación económica", "Reforma liberal exitosa"],
       "respuesta_correcta": "Crisis y colapso del zarismo",
-      "explicación": "Las derrotas provocaron protestas y el fin del régimen zarista."
+      "explicación": "Las derrotas provocaron protestas y el fin del régimen zarista.",
+      "imagen": "imagenes/revolucion_rusa.png"
     },
     {
       "pregunta": "¿Qué papel tuvo Stalin durante la revolución?",

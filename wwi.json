@@ -143,7 +143,8 @@
 				"Reino Unido"
 			],
 			"respuesta_correcta": "Rusia",
-			"explicación": "Rusia sufrió la mayor cantidad de bajas durante la Primera Guerra Mundial, con millones de soldados y civiles muertos."
+			"explicación": "Rusia sufrió la mayor cantidad de bajas durante la Primera Guerra Mundial, con millones de soldados y civiles muertos.",
+			"imagen": "imagenes/tannenberg.png"
 		},
 		{
 			"pregunta": "¿Qué fue el Plan Schlieffen?",
@@ -266,7 +267,8 @@
 				"Estados Unidos"
 			],
 			"respuesta_correcta": "Reino Unido",
-			"explicación": "El Reino Unido fue el primero en utilizar tanques en la guerra, debutando en la Batalla del Somme en 1916."
+			"explicación": "El Reino Unido fue el primero en utilizar tanques en la guerra, debutando en la Batalla del Somme en 1916.",
+			"imagen": "imagenes/carro_de_combate.png"
 		},
 		{
 			"pregunta": "¿Qué fue el 'Telegrama Zimmermann'?",
@@ -288,7 +290,8 @@
 				"Italia"
 			],
 			"respuesta_correcta": "Rusia",
-			"explicación": "Rusia fue el principal rival de Alemania en el frente oriental durante la Primera Guerra Mundial."
+			"explicación": "Rusia fue el principal rival de Alemania en el frente oriental durante la Primera Guerra Mundial.",
+			"imagen": "imagenes/tannenberg.png"
 		},
 		{
 			"pregunta": "¿Qué fue la 'Batalla de Gallipoli'?",
@@ -344,7 +347,8 @@
 				"Una batalla aérea"
 			],
 			"respuesta_correcta": "Una ofensiva aliada en el frente occidental",
-			"explicación": "La Batalla del Somme fue una ofensiva aliada en el frente occidental en 1916, conocida por su alto número de bajas."
+			"explicación": "La Batalla del Somme fue una ofensiva aliada en el frente occidental en 1916, conocida por su alto número de bajas.",
+			"imagen": "imagenes/carro_de_combate.png"
 		},
 		{
 			"pregunta": "¿Qué país fue el principal rival de Italia en el frente alpino?",
@@ -366,7 +370,8 @@
 				"Una campaña en el Medio Oriente"
 			],
 			"respuesta_correcta": "Una victoria alemana sobre Rusia",
-			"explicación": "La Batalla de Tannenberg fue una victoria decisiva de Alemania sobre Rusia en 1914."
+			"explicación": "La Batalla de Tannenberg fue una victoria decisiva de Alemania sobre Rusia en 1914.",
+			"imagen": "imagenes/tannenberg.png"
 		},
 		{
 			"pregunta": "¿Qué país fue el principal rival de Japón en el Pacífico durante la guerra?",
@@ -444,7 +449,8 @@
 				"Una batalla aérea"
 			],
 			"respuesta_correcta": "Una ofensiva aliada en el frente occidental",
-			"explicación": "La Batalla de Cambrai fue una ofensiva aliada en el frente occidental en 1917, conocida por el uso masivo de tanques."
+			"explicación": "La Batalla de Cambrai fue una ofensiva aliada en el frente occidental en 1917, conocida por el uso masivo de tanques.",
+			"imagen": "imagenes/carro_de_combate.png"
 		},
 		{
 			"pregunta": "¿Qué país fue el principal rival de Serbia en los Balcanes durante la guerra?",
