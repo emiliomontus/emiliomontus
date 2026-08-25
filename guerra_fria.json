@@ -10,7 +10,7 @@
 			],
 			"respuesta_correcta": "1947",
 			"explicación": "La Guerra Fría comenzó en 1947 con la Doctrina Truman, en la que EE.UU. declaró su intención de contener la expansión del comunismo.",
-			"imagen": "imagenes/muro_berlin.png"
+			"imagen": "imagenes/truman.png"
 		},
 		{
 			"pregunta": "¿Cuál fue el principal enfrentamiento ideológico en la Guerra Fría?",
@@ -70,7 +70,7 @@
 			],
 			"respuesta_correcta": "Tratado INF",
 			"explicación": "El Tratado INF (1987) entre EE.UU. y la URSS eliminó misiles de alcance intermedio y ayudó a reducir tensiones.",
-			"imagen": "imagenes/muro_berlin.png"
+			"imagen": "imagenes/misiles_cuba.png"
 		},
 		{
 			"pregunta": "¿Cuál fue una de las causas principales del colapso de la Unión Soviética?",
@@ -94,7 +94,7 @@
 			],
 			"respuesta_correcta": "Una estrategia para frenar el comunismo",
 			"explicación": "La Doctrina Truman (1947) declaró que EE.UU. apoyaría a países amenazados por el comunismo, marcando el inicio de la Guerra Fría.",
-			"imagen": "imagenes/muro_berlin.png"
+			"imagen": "imagenes/truman.png"
 		},
 		{
 			"pregunta": "¿Qué significó el 'Telón de Acero'?",
@@ -142,7 +142,7 @@
 			],
 			"respuesta_correcta": "Doctrina Truman",
 			"explicación": "La Doctrina Truman, anunciada en 1947, estableció la política de contención del comunismo por parte de Estados Unidos.",
-			"imagen": "imagenes/muro_berlin.png"
+			"imagen": "imagenes/truman.png"
 		},
 		{
 			"pregunta": "¿Qué plan de ayuda económica fue implementado por Estados Unidos para la reconstrucción de Europa tras la Segunda Guerra Mundial?",
