@@ -22,7 +22,8 @@
       "pregunta": "¿Qué nombre recibía el bando que defendía al gobierno republicano?",
       "opciones": ["Nacional", "Imperial", "Republicano", "Monárquico"],
       "respuesta_correcta": "Republicano",
-      "explicación": "El bando republicano defendía el gobierno legítimo de la Segunda República frente al levantamiento militar."
+      "explicación": "El bando republicano defendía el gobierno legítimo de la Segunda República frente al levantamiento militar.",
+      "imagen": "imagenes/batalla_ebro.png"
     },
     {
       "pregunta": "¿Qué ciudad fue uno de los principales bastiones republicanos durante la guerra?",
@@ -70,7 +71,8 @@
       "pregunta": "¿Qué batalla de 1938 fue una de las más largas y sangrientas de la guerra?",
       "opciones": ["Batalla del Ebro", "Batalla de Madrid", "Batalla de Málaga", "Batalla de Toledo"],
       "respuesta_correcta": "Batalla del Ebro",
-      "explicación": "La Batalla del Ebro fue el enfrentamiento más largo y uno de los más decisivos del conflicto."
+      "explicación": "La Batalla del Ebro fue el enfrentamiento más largo y uno de los más decisivos del conflicto.",
+      "imagen": "imagenes/batalla_ebro.png"
     },
     {
       "pregunta": "¿Qué ciudad se convirtió en la capital del bando nacional durante la guerra?",
