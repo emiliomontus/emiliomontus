@@ -87,7 +87,8 @@
 				"Grecia"
 			],
 			"respuesta_correcta": "Italia",
-			"explicación": "Italia cambió de bando en 1915, uniéndose a los Aliados tras firmar el Tratado de Londres."
+			"explicación": "Italia cambió de bando en 1915, uniéndose a los Aliados tras firmar el Tratado de Londres.",
+			"imagen": "imagenes/caporetto.png"
 		},
 		{
 			"pregunta": "¿Qué fue la 'Tierra de Nadie' en la Primera Guerra Mundial?",
@@ -359,7 +360,8 @@
 				"Rusia"
 			],
 			"respuesta_correcta": "Austria-Hungría",
-			"explicación": "Austria-Hungría fue el principal rival de Italia en el frente alpino durante la Primera Guerra Mundial."
+			"explicación": "Austria-Hungría fue el principal rival de Italia en el frente alpino durante la Primera Guerra Mundial.",
+			"imagen": "imagenes/caporetto.png"
 		},
 		{
 			"pregunta": "¿Qué fue la 'Batalla de Tannenberg'?",
@@ -393,7 +395,8 @@
 				"Una campaña en África"
 			],
 			"respuesta_correcta": "Una victoria alemana sobre Italia",
-			"explicación": "La Batalla de Caporetto fue una victoria decisiva de las fuerzas alemanas y austrohúngaras sobre Italia en 1917."
+			"explicación": "La Batalla de Caporetto fue una victoria decisiva de las fuerzas alemanas y austrohúngaras sobre Italia en 1917.",
+			"imagen": "imagenes/caporetto.png"
 		},
 		{
 			"pregunta": "¿Qué país fue el principal rival de Grecia en los Balcanes durante la guerra?",

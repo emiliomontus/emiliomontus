@@ -88,7 +88,8 @@
          "Griegos"
       ],
       "respuesta_correcta": "Cartagineses",
-      "explicación": "Las Guerras Púnicas enfrentaron a Roma contra Cartago, una potencia comercial y naval del norte de África."
+      "explicación": "Las Guerras Púnicas enfrentaron a Roma contra Cartago, una potencia comercial y naval del norte de África.",
+      "imagen": "imagenes/anibal.png"
     },
     {
       "pregunta": "¿Quién fue el líder cartaginés más famoso durante la Segunda Guerra Púnica?",
@@ -99,7 +100,8 @@
          "Hamilcar"
       ],
       "respuesta_correcta": "Aníbal",
-      "explicación": "Aníbal es célebre por cruzar los Alpes con elefantes para invadir Italia."
+      "explicación": "Aníbal es célebre por cruzar los Alpes con elefantes para invadir Italia.",
+      "imagen": "imagenes/anibal.png"
     },
     {
       "pregunta": "¿Qué evento marca tradicionalmente el fin del Imperio Romano de Occidente?",
