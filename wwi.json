@@ -9,7 +9,8 @@
 				"1918"
 			],
 			"respuesta_correcta": "1914",
-			"explicación": "La Primera Guerra Mundial comenzó en 1914."
+			"explicación": "La Primera Guerra Mundial comenzó en 1914.",
+			"imagen": "imagenes/francisco_fernando.png"
 		},
 		{
 			"pregunta": "¿Cuál fue el evento desencadenante de la Primera Guerra Mundial?",
@@ -20,7 +21,8 @@
 				"El hundimiento del Lusitania"
 			],
 			"respuesta_correcta": "El asesinato del archiduque Francisco Fernando",
-			"explicación": "El asesinato del archiduque Francisco Fernando de Austria en Sarajevo en 1914 fue el evento que desencadenó la guerra."
+			"explicación": "El asesinato del archiduque Francisco Fernando de Austria en Sarajevo en 1914 fue el evento que desencadenó la guerra.",
+			"imagen": "imagenes/francisco_fernando.png"
 		},
 		{
 			"pregunta": "¿Qué países formaban parte de las Potencias Centrales?",
@@ -111,7 +113,8 @@
 				"Imperio Japonés"
 			],
 			"respuesta_correcta": "Imperio Austrohúngaro",
-			"explicación": "El Imperio Austrohúngaro se desintegró al final de la guerra, dando lugar a varios estados independientes."
+			"explicación": "El Imperio Austrohúngaro se desintegró al final de la guerra, dando lugar a varios estados independientes.",
+			"imagen": "imagenes/francisco_fernando.png"
 		},
 		{
 			"pregunta": "¿Qué país fue el primero en declarar la guerra en la Primera Guerra Mundial?",
@@ -122,7 +125,8 @@
 				"Francia"
 			],
 			"respuesta_correcta": "Austria-Hungría",
-			"explicación": "Austria-Hungría fue el primer país en declarar la guerra a Serbia el 28 de julio de 1914."
+			"explicación": "Austria-Hungría fue el primer país en declarar la guerra a Serbia el 28 de julio de 1914.",
+			"imagen": "imagenes/francisco_fernando.png"
 		},
 		{
 			"pregunta": "¿Qué batalla naval importante tuvo lugar en 1916?",
@@ -246,7 +250,8 @@
 				"Italia"
 			],
 			"respuesta_correcta": "Rusia",
-			"explicación": "Rusia fue el principal aliado de Serbia al comienzo de la guerra, apoyándola contra Austria-Hungría."
+			"explicación": "Rusia fue el principal aliado de Serbia al comienzo de la guerra, apoyándola contra Austria-Hungría.",
+			"imagen": "imagenes/tannenberg.png"
 		},
 		{
 			"pregunta": "¿Qué fue la 'Ofensiva de Primavera' de 1918?",
@@ -314,7 +319,8 @@
 				"Rumania"
 			],
 			"respuesta_correcta": "Serbia",
-			"explicación": "Serbia fue el principal rival de Austria-Hungría en los Balcanes, y su conflicto fue una de las causas de la guerra."
+			"explicación": "Serbia fue el principal rival de Austria-Hungría en los Balcanes, y su conflicto fue una de las causas de la guerra.",
+			"imagen": "imagenes/francisco_fernando.png"
 		},
 		{
 			"pregunta": "¿Qué fue la 'Liga de las Naciones'?",
@@ -464,7 +470,8 @@
 				"Rumania"
 			],
 			"respuesta_correcta": "Austria-Hungría",
-			"explicación": "Austria-Hungría fue el principal rival de Serbia en los Balcanes, y su conflicto fue una de las causas de la guerra."
+			"explicación": "Austria-Hungría fue el principal rival de Serbia en los Balcanes, y su conflicto fue una de las causas de la guerra.",
+			"imagen": "imagenes/francisco_fernando.png"
 		},
 		{
 			"pregunta": "¿Qué fue la 'Batalla de Passchendaele'?",

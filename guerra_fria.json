@@ -250,7 +250,7 @@
 			],
 			"respuesta_correcta": "Tratado de Minsk",
 			"explicación": "El Tratado de Minsk, firmado en 1991, puso fin oficialmente a la Guerra Fría y disolvió la Unión Soviética.",
-			"imagen": "imagenes/muro_berlin.png"
+			"imagen": "imagenes/gorbachov.png"
 		},
 		{
 			"pregunta": "¿Qué política estadounidense buscaba evitar la expansión del comunismo en América Latina durante la Guerra Fría?",
@@ -358,7 +358,7 @@
 			],
 			"respuesta_correcta": "Tratado ABM",
 			"explicación": "El Tratado ABM (Tratado de Misiles Antibalísticos) de 1972 limitó el desarrollo de sistemas de misiles antibalísticos entre Estados Unidos y la Unión Soviética.",
-			"imagen": "imagenes/muro_berlin.png"
+			"imagen": "imagenes/misiles_cuba.png"
 		},
 		{
 			"pregunta": "¿Qué conflicto armado tuvo lugar en 1979-1989, involucrando a la Unión Soviética en apoyo al gobierno comunista afgano?",
