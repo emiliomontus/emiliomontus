@@ -4,13 +4,15 @@
       "pregunta": "¿En qué continente se desarrolló la civilización de la Antigua Grecia?",
       "opciones": ["Europa", "Asia", "África", "América"],
       "respuesta_correcta": "Europa",
-      "explicación": "La civilización griega se desarrolló en el sureste de Europa, en la península balcánica y las islas del mar Egeo."
+      "explicación": "La civilización griega se desarrolló en el sureste de Europa, en la península balcánica y las islas del mar Egeo.",
+      "imagen": "imagenes/partenon.png"
     },
     {
       "pregunta": "¿Qué ciudad-estado fue la cuna de la democracia?",
       "opciones": ["Esparta", "Atenas", "Corinto", "Tebas"],
       "respuesta_correcta": "Atenas",
-      "explicación": "Atenas desarrolló el sistema democrático en el siglo V a.C., donde los ciudadanos participaban directamente en las decisiones políticas."
+      "explicación": "Atenas desarrolló el sistema democrático en el siglo V a.C., donde los ciudadanos participaban directamente en las decisiones políticas.",
+      "imagen": "imagenes/partenon.png"
     },
     {
       "pregunta": "¿Qué forma de gobierno tenía Esparta?",
@@ -46,7 +48,8 @@
       "pregunta": "¿Qué era la polis en la Antigua Grecia?",
       "opciones": ["Un templo", "Una ciudad-estado", "Un ejército", "Una asamblea"],
       "respuesta_correcta": "Una ciudad-estado",
-      "explicación": "La polis era la forma básica de organización política griega, con independencia y gobierno propio."
+      "explicación": "La polis era la forma básica de organización política griega, con independencia y gobierno propio.",
+      "imagen": "imagenes/partenon.png"
     },
     {
       "pregunta": "¿Qué filósofo fue maestro de Platón?",
@@ -58,7 +61,8 @@
       "pregunta": "¿Qué tipo de columnas tenían los templos dóricos?",
       "opciones": ["Con base decorada", "Sin base y con capitel simple", "Con hojas de acanto", "Espirales en el capitel"],
       "respuesta_correcta": "Sin base y con capitel simple",
-      "explicación": "El orden dórico se caracteriza por columnas sin base y capiteles sencillos."
+      "explicación": "El orden dórico se caracteriza por columnas sin base y capiteles sencillos.",
+      "imagen": "imagenes/partenon.png"
     },
     {
       "pregunta": "¿Qué evento deportivo nació en la Antigua Grecia?",
@@ -82,7 +86,8 @@
       "pregunta": "¿Qué templo dedicado a Atenea se encuentra en la Acrópolis de Atenas?",
       "opciones": ["El Partenón", "El Erecteion", "El Hefesteion", "El Olimpeion"],
       "respuesta_correcta": "El Partenón",
-      "explicación": "El Partenón fue construido en el siglo V a.C. en honor a la diosa Atenea."
+      "explicación": "El Partenón fue construido en el siglo V a.C. en honor a la diosa Atenea.",
+      "imagen": "imagenes/partenon.png"
     },
     {
       "pregunta": "¿Qué oráculo era el más famoso de la Antigua Grecia?",
